@@ -7,7 +7,7 @@ This project is a Flask-based web application that provides personalized horror 
 Clone this repository:
 
 git clone https://github.com/dkos20/horror-movie-recommender.git
-cd flask-movie-recommender
+
 
 ###Install dependencies:
 
