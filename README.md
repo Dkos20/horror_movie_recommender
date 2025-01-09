@@ -1,15 +1,15 @@
-#Horror Movie Recommender
+# Horror Movie Recommender
 
 This project is a Flask-based web application that provides personalized horror movie recommendations. The application uses data from Kaggle datasets and the TMDb (The Movie Database) API to deliver tailored movie suggestions based on user preferences.
 
-###Installation
+## Installation
 
 Clone this repository:
 
 git clone https://github.com/dkos20/horror-movie-recommender.git
 
 
-###Install dependencies:
+## Install dependencies:
 
 pip install -r requirements.txt
 
