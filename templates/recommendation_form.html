@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Recommendations</title>
+</head>
+<body>
+    <h1>Get Movie Recommendations</h1>
+
+    <form method="POST" action="/recommendations">
+        <label for="genre">Choose a genre:</label>
+        <select name="genre" id="genre">
+            <option value="Mystery">Mystery</option>
+            <option value="Sci-Fi">Sci-Fi</option>
+            <option value="Action">Action</option>
+        </select>
+        <br>
+
+        <label for="director">Favorite director:</label>
+        <input type="text" name="director" id="director" placeholder="Enter director name">
+        <br>
+
+        <label for="movie">Favorite movie:</label>
+        <input type="text" name="movie" id="movie" placeholder="Enter movie title">
+        <br>
+
+        <button type="submit">Get Recommendation</button>
+    </form>
+    <h1>Movie Recommendations</h1>
+<ul>
+    {% for movie in movies %}
+        <li>
+            <h3>{{ movie.title }}</h3>
+            <p>{{ movie.overview }}</p>
+            <img src="{{ movie.poster_url }}" alt="{{ movie.title }}">
+        </li>
+    {% else %}
+        <p>No recommendations found. Try different inputs.</p>
+    {% endfor %}
+</ul>
+
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movies by {{ director_name }}</title>
+</head>
+<body>
+    <h1>Movies Directed by {{ director_name }}</h1>
+    <table border="1">
+        <tr>
+            <th>Movie Title</th>
+            <th>Year</th>
+            <th>Rating</th>
+            <th>Runtime</th>
+        </tr>
+        {% for movie in movies %}
+            <tr>
+                <td>{{ movie['movie_title'] }}</td>
+                <td>{{ movie['movie_year'] }}</td>
+                <td>{{ movie['rating'] }}</td>
+                <td>{{ movie['runtime'] }}</td>
+            </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>

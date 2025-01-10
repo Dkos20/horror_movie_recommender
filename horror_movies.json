@@ -1,0 +1,8362 @@
+[
+  {
+    "Movie Title": "Alien",
+    "Movie Year": 1979,
+    "Runtime": 117,
+    "Genre": "Horror, Sci-Fi",
+    "Rating": 8.5,
+    "Director": "Ridley Scott",
+    "Votes": "9,05,275",
+    "Gross": "$78.90M"
+  },
+  {
+    "Movie Title": "Psycho",
+    "Movie Year": 1960,
+    "Runtime": 109,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 8.5,
+    "Director": "Alfred Hitchcock",
+    "Votes": "6,89,068",
+    "Gross": "$32.00M"
+  },
+  {
+    "Movie Title": "The Shining",
+    "Movie Year": 1980,
+    "Runtime": 146,
+    "Genre": "Drama, Horror",
+    "Rating": 8.4,
+    "Director": "Stanley Kubrick",
+    "Votes": "10,51,582",
+    "Gross": "$44.02M"
+  },
+  {
+    "Movie Title": "The Thing",
+    "Movie Year": 1982,
+    "Runtime": 109,
+    "Genre": "Horror, Mystery, Sci-Fi",
+    "Rating": 8.2,
+    "Director": "John Carpenter",
+    "Votes": "4,39,793",
+    "Gross": "$13.78M"
+  },
+  {
+    "Movie Title": "Tumbbad",
+    "Movie Year": 2018,
+    "Runtime": 104,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 8.2,
+    "Director": "Rahi Anil Barve",
+    "Votes": "53,297",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Exorcist",
+    "Movie Year": 1973,
+    "Runtime": 122,
+    "Genre": "Horror",
+    "Rating": 8.1,
+    "Director": "William Friedkin",
+    "Votes": "4,22,330",
+    "Gross": "$232.91M"
+  },
+  {
+    "Movie Title": "Diabolique",
+    "Movie Year": 1955,
+    "Runtime": 117,
+    "Genre": "Crime, Drama, Horror",
+    "Rating": 8.1,
+    "Director": "Henri-Georges Clouzot",
+    "Votes": "67,456",
+    "Gross": "$1.09M"
+  },
+  {
+    "Movie Title": "Rosemary's Baby",
+    "Movie Year": 1968,
+    "Runtime": 137,
+    "Genre": "Drama, Horror",
+    "Rating": 8,
+    "Director": "Roman Polanski",
+    "Votes": "2,23,968",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "What Ever Happened to Baby Jane?",
+    "Movie Year": 1962,
+    "Runtime": 134,
+    "Genre": "Drama, Horror, Thriller",
+    "Rating": 8,
+    "Director": "Robert Aldrich",
+    "Votes": "58,904",
+    "Gross": "$4.05M"
+  },
+  {
+    "Movie Title": "The Cabinet of Dr. Caligari",
+    "Movie Year": 1920,
+    "Runtime": 67,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 8,
+    "Director": "Robert Wiene",
+    "Votes": "66,749",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Blue Elephant",
+    "Movie Year": 2014,
+    "Runtime": 170,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 8,
+    "Director": "Marwan Hamed",
+    "Votes": "29,151",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Shaun of the Dead",
+    "Movie Year": 2004,
+    "Runtime": 99,
+    "Genre": "Comedy, Horror",
+    "Rating": 7.9,
+    "Director": "Edgar Wright",
+    "Votes": "5,72,237",
+    "Gross": "$13.54M"
+  },
+  {
+    "Movie Title": "Nosferatu",
+    "Movie Year": 1922,
+    "Runtime": 94,
+    "Genre": "Fantasy, Horror",
+    "Rating": 7.9,
+    "Director": "F.W. Murnau",
+    "Votes": "1,00,942",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Let the Right One In",
+    "Movie Year": 2008,
+    "Runtime": 114,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 7.9,
+    "Director": "Tomas Alfredson",
+    "Votes": "2,21,604",
+    "Gross": "$2.12M"
+  },
+  {
+    "Movie Title": "King Kong",
+    "Movie Year": 1933,
+    "Runtime": 100,
+    "Genre": "Adventure, Horror, Sci-Fi",
+    "Rating": 7.9,
+    "Director": "Merian C. Cooper",
+    "Votes": "88,019",
+    "Gross": "$10.00M"
+  },
+  {
+    "Movie Title": "Get Out I",
+    "Movie Year": 2017,
+    "Runtime": 104,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 7.8,
+    "Director": "Jordan Peele",
+    "Votes": "6,42,604",
+    "Gross": "$176.04M"
+  },
+  {
+    "Movie Title": "Predator",
+    "Movie Year": 1987,
+    "Runtime": 107,
+    "Genre": "Action, Adventure, Horror",
+    "Rating": 7.8,
+    "Director": "John McTiernan",
+    "Votes": "4,35,400",
+    "Gross": "$59.74M"
+  },
+  {
+    "Movie Title": "I Saw the Devil",
+    "Movie Year": 2010,
+    "Runtime": 144,
+    "Genre": "Action, Crime, Horror",
+    "Rating": 7.8,
+    "Director": "Jee-woon Kim",
+    "Votes": "1,37,559",
+    "Gross": "$0.13M"
+  },
+  {
+    "Movie Title": "Dawn of the Dead",
+    "Movie Year": 1978,
+    "Runtime": 127,
+    "Genre": "Horror, Thriller",
+    "Rating": 7.8,
+    "Director": "George A. Romero",
+    "Votes": "1,24,374",
+    "Gross": "$5.10M"
+  },
+  {
+    "Movie Title": "Night of the Living Dead",
+    "Movie Year": 1968,
+    "Runtime": 96,
+    "Genre": "Horror, Thriller",
+    "Rating": 7.8,
+    "Director": "George A. Romero",
+    "Votes": "1,33,452",
+    "Gross": "$0.09M"
+  },
+  {
+    "Movie Title": "Freaks",
+    "Movie Year": 1932,
+    "Runtime": 64,
+    "Genre": "Drama, Horror",
+    "Rating": 7.8,
+    "Director": "Tod Browning",
+    "Votes": "48,381",
+    "Gross": "$0.63M"
+  },
+  {
+    "Movie Title": "Frankenstein",
+    "Movie Year": 1931,
+    "Runtime": 70,
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Rating": 7.8,
+    "Director": "James Whale",
+    "Votes": "75,779",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Innocents",
+    "Movie Year": 1961,
+    "Runtime": 100,
+    "Genre": "Horror",
+    "Rating": 7.8,
+    "Director": "Jack Clayton",
+    "Votes": "31,689",
+    "Gross": "$2.62M"
+  },
+  {
+    "Movie Title": "The Bride of Frankenstein",
+    "Movie Year": 1935,
+    "Runtime": 75,
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Rating": 7.8,
+    "Director": "James Whale",
+    "Votes": "50,611",
+    "Gross": "$4.36M"
+  },
+  {
+    "Movie Title": "Evil Dead II",
+    "Movie Year": 1987,
+    "Runtime": 84,
+    "Genre": "Comedy, Horror",
+    "Rating": 7.7,
+    "Director": "Sam Raimi",
+    "Votes": "1,73,914",
+    "Gross": "$5.92M"
+  },
+  {
+    "Movie Title": "Halloween",
+    "Movie Year": 1978,
+    "Runtime": 91,
+    "Genre": "Horror, Thriller",
+    "Rating": 7.7,
+    "Director": "John Carpenter",
+    "Votes": "2,89,224",
+    "Gross": "$47.00M"
+  },
+  {
+    "Movie Title": "Invasion of the Body Snatchers",
+    "Movie Year": 1956,
+    "Runtime": 80,
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Rating": 7.7,
+    "Director": "Don Siegel",
+    "Votes": "52,292",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "American Psycho",
+    "Movie Year": 2000,
+    "Runtime": 102,
+    "Genre": "Crime, Drama, Horror",
+    "Rating": 7.6,
+    "Director": "Mary Harron",
+    "Votes": "6,58,696",
+    "Gross": "$15.07M"
+  },
+  {
+    "Movie Title": "Saw",
+    "Movie Year": 2004,
+    "Runtime": 103,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 7.6,
+    "Director": "James Wan",
+    "Votes": "4,36,144",
+    "Gross": "$56.00M"
+  },
+  {
+    "Movie Title": "Train to Busan",
+    "Movie Year": 2016,
+    "Runtime": 118,
+    "Genre": "Action, Horror, Thriller",
+    "Rating": 7.6,
+    "Director": "Sang-ho Yeon",
+    "Votes": "2,35,577",
+    "Gross": "$2.13M"
+  },
+  {
+    "Movie Title": "The Fly",
+    "Movie Year": 1986,
+    "Runtime": 96,
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Rating": 7.6,
+    "Director": "David Cronenberg",
+    "Votes": "1,91,571",
+    "Gross": "$40.46M"
+  },
+  {
+    "Movie Title": "Zombieland",
+    "Movie Year": 2009,
+    "Runtime": 88,
+    "Genre": "Action, Comedy, Horror",
+    "Rating": 7.6,
+    "Director": "Ruben Fleischer",
+    "Votes": "5,96,433",
+    "Gross": "$75.59M"
+  },
+  {
+    "Movie Title": "The Birds",
+    "Movie Year": 1963,
+    "Runtime": 119,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 7.6,
+    "Director": "Alfred Hitchcock",
+    "Votes": "1,96,469",
+    "Gross": "$11.40M"
+  },
+  {
+    "Movie Title": "The Skin I Live In",
+    "Movie Year": 2011,
+    "Runtime": 120,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 7.6,
+    "Director": "Pedro Almodóvar",
+    "Votes": "1,58,708",
+    "Gross": "$3.19M"
+  },
+  {
+    "Movie Title": "The Others",
+    "Movie Year": 2001,
+    "Runtime": 104,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 7.6,
+    "Director": "Alejandro Amenábar",
+    "Votes": "3,77,287",
+    "Gross": "$96.52M"
+  },
+  {
+    "Movie Title": "What We Do in the Shadows",
+    "Movie Year": 2014,
+    "Runtime": 86,
+    "Genre": "Comedy, Horror",
+    "Rating": 7.6,
+    "Director": "Jemaine Clement",
+    "Votes": "1,90,548",
+    "Gross": "$3.33M"
+  },
+  {
+    "Movie Title": "Eyes Without a Face",
+    "Movie Year": 1960,
+    "Runtime": 90,
+    "Genre": "Drama, Horror",
+    "Rating": 7.6,
+    "Director": "Georges Franju",
+    "Votes": "33,321",
+    "Gross": "$0.05M"
+  },
+  {
+    "Movie Title": "Vampire Hunter D: Bloodlust",
+    "Movie Year": 2000,
+    "Runtime": 103,
+    "Genre": "Animation, Action, Drama",
+    "Rating": 7.6,
+    "Director": "Jack Fletcher",
+    "Votes": "33,553",
+    "Gross": "$0.15M"
+  },
+  {
+    "Movie Title": "Repulsion",
+    "Movie Year": 1965,
+    "Runtime": 105,
+    "Genre": "Drama, Horror, Thriller",
+    "Rating": 7.6,
+    "Director": "Roman Polanski",
+    "Votes": "55,043",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "One Cut of the Dead",
+    "Movie Year": 2017,
+    "Runtime": 96,
+    "Genre": "Comedy, Drama, Horror",
+    "Rating": 7.6,
+    "Director": "Shin'ichirô Ueda",
+    "Votes": "27,004",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Invisible Man",
+    "Movie Year": 1933,
+    "Runtime": 71,
+    "Genre": "Horror, Sci-Fi",
+    "Rating": 7.6,
+    "Director": "James Whale",
+    "Votes": "37,549",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Peeping Tom",
+    "Movie Year": 1960,
+    "Runtime": 101,
+    "Genre": "Drama, Horror, Thriller",
+    "Rating": 7.6,
+    "Director": "Michael Powell",
+    "Votes": "37,256",
+    "Gross": "$0.08M"
+  },
+  {
+    "Movie Title": "The Conjuring",
+    "Movie Year": 2013,
+    "Runtime": 112,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 7.5,
+    "Director": "James Wan",
+    "Votes": "5,26,164",
+    "Gross": "$137.40M"
+  },
+  {
+    "Movie Title": "A Quiet Place",
+    "Movie Year": 2018,
+    "Runtime": 90,
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Rating": 7.5,
+    "Director": "John Krasinski",
+    "Votes": "5,51,233",
+    "Gross": "$188.02M"
+  },
+  {
+    "Movie Title": "28 Days Later",
+    "Movie Year": 2002,
+    "Runtime": 113,
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Rating": 7.5,
+    "Director": "Danny Boyle",
+    "Votes": "4,25,705",
+    "Gross": "$45.06M"
+  },
+  {
+    "Movie Title": "Interview with the Vampire: The Vampire Chronicles",
+    "Movie Year": 1994,
+    "Runtime": 123,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 7.5,
+    "Director": "Neil Jordan",
+    "Votes": "3,33,084",
+    "Gross": "$105.26M"
+  },
+  {
+    "Movie Title": "The Crow",
+    "Movie Year": 1994,
+    "Runtime": 102,
+    "Genre": "Action, Crime, Drama",
+    "Rating": 7.5,
+    "Director": "Alex Proyas",
+    "Votes": "1,90,666",
+    "Gross": "$50.69M"
+  },
+  {
+    "Movie Title": "An American Werewolf in London",
+    "Movie Year": 1981,
+    "Runtime": 97,
+    "Genre": "Comedy, Horror",
+    "Rating": 7.5,
+    "Director": "John Landis",
+    "Votes": "1,13,179",
+    "Gross": "$30.57M"
+  },
+  {
+    "Movie Title": "Tucker and Dale vs Evil",
+    "Movie Year": 2010,
+    "Runtime": 89,
+    "Genre": "Comedy, Horror",
+    "Rating": 7.5,
+    "Director": "Eli Craig",
+    "Votes": "1,86,643",
+    "Gross": "$0.22M"
+  },
+  {
+    "Movie Title": "The Wicker Man",
+    "Movie Year": 1973,
+    "Runtime": 88,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 7.5,
+    "Director": "Robin Hardy",
+    "Votes": "85,380",
+    "Gross": "$0.06M"
+  },
+  {
+    "Movie Title": "The Omen",
+    "Movie Year": 1976,
+    "Runtime": 111,
+    "Genre": "Horror, Mystery",
+    "Rating": 7.5,
+    "Director": "Richard Donner",
+    "Votes": "1,24,612",
+    "Gross": "$4.27M"
+  },
+  {
+    "Movie Title": "Grindhouse",
+    "Movie Year": 2007,
+    "Runtime": 191,
+    "Genre": "Action, Horror, Thriller",
+    "Rating": 7.5,
+    "Director": "Robert Rodriguez",
+    "Votes": "1,87,623",
+    "Gross": "$25.04M"
+  },
+  {
+    "Movie Title": "Braindead",
+    "Movie Year": 1992,
+    "Runtime": 104,
+    "Genre": "Comedy, Fantasy, Horror",
+    "Rating": 7.5,
+    "Director": "Peter Jackson",
+    "Votes": "1,00,216",
+    "Gross": "$0.24M"
+  },
+  {
+    "Movie Title": "Godzilla",
+    "Movie Year": 1954,
+    "Runtime": 96,
+    "Genre": "Horror, Sci-Fi",
+    "Rating": 7.5,
+    "Director": "Ishirô Honda",
+    "Votes": "35,705",
+    "Gross": "$2.42M"
+  },
+  {
+    "Movie Title": "Deep Red",
+    "Movie Year": 1975,
+    "Runtime": 127,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 7.5,
+    "Director": "Dario Argento",
+    "Votes": "40,206",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Stree",
+    "Movie Year": 2018,
+    "Runtime": 128,
+    "Genre": "Comedy, Horror",
+    "Rating": 7.5,
+    "Director": "Amar Kaushik",
+    "Votes": "36,079",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Evil Dead",
+    "Movie Year": 1981,
+    "Runtime": 85,
+    "Genre": "Horror",
+    "Rating": 7.4,
+    "Director": "Sam Raimi",
+    "Votes": "2,22,282",
+    "Gross": "$2.40M"
+  },
+  {
+    "Movie Title": "Scream",
+    "Movie Year": 1996,
+    "Runtime": 111,
+    "Genre": "Horror, Mystery",
+    "Rating": 7.4,
+    "Director": "Wes Craven",
+    "Votes": "3,65,136",
+    "Gross": "$103.05M"
+  },
+  {
+    "Movie Title": "Bram Stoker's Dracula",
+    "Movie Year": 1992,
+    "Runtime": 128,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 7.4,
+    "Director": "Francis Ford Coppola",
+    "Votes": "2,26,027",
+    "Gross": "$82.52M"
+  },
+  {
+    "Movie Title": "Army of Darkness",
+    "Movie Year": 1992,
+    "Runtime": 81,
+    "Genre": "Comedy, Horror",
+    "Rating": 7.4,
+    "Director": "Sam Raimi",
+    "Votes": "1,86,854",
+    "Gross": "$11.50M"
+  },
+  {
+    "Movie Title": "The Rocky Horror Picture Show",
+    "Movie Year": 1975,
+    "Runtime": 100,
+    "Genre": "Comedy, Horror, Musical",
+    "Rating": 7.4,
+    "Director": "Jim Sharman",
+    "Votes": "1,58,254",
+    "Gross": "$139.88M"
+  },
+  {
+    "Movie Title": "A Nightmare on Elm Street",
+    "Movie Year": 1984,
+    "Runtime": 91,
+    "Genre": "Horror",
+    "Rating": 7.4,
+    "Director": "Wes Craven",
+    "Votes": "2,48,750",
+    "Gross": "$25.50M"
+  },
+  {
+    "Movie Title": "The Texas Chain Saw Massacre",
+    "Movie Year": 1974,
+    "Runtime": 83,
+    "Genre": "Horror",
+    "Rating": 7.4,
+    "Director": "Tobe Hooper",
+    "Votes": "1,70,855",
+    "Gross": "$30.86M"
+  },
+  {
+    "Movie Title": "Carrie",
+    "Movie Year": 1976,
+    "Runtime": 98,
+    "Genre": "Horror, Mystery",
+    "Rating": 7.4,
+    "Director": "Brian De Palma",
+    "Votes": "1,95,170",
+    "Gross": "$33.80M"
+  },
+  {
+    "Movie Title": "The Wailing",
+    "Movie Year": 2016,
+    "Runtime": 156,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 7.4,
+    "Director": "Na Hong-jin",
+    "Votes": "73,981",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Jacob's Ladder I",
+    "Movie Year": 1990,
+    "Runtime": 113,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 7.4,
+    "Director": "Adrian Lyne",
+    "Votes": "1,13,045",
+    "Gross": "$26.12M"
+  },
+  {
+    "Movie Title": "Invasion of the Body Snatchers",
+    "Movie Year": 1978,
+    "Runtime": 115,
+    "Genre": "Horror, Sci-Fi",
+    "Rating": 7.4,
+    "Director": "Philip Kaufman",
+    "Votes": "64,115",
+    "Gross": "$24.95M"
+  },
+  {
+    "Movie Title": "REC",
+    "Movie Year": 2007,
+    "Runtime": 78,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 7.4,
+    "Director": "Jaume Balagueró",
+    "Votes": "1,87,741",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Orphanage",
+    "Movie Year": 2007,
+    "Runtime": 105,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 7.4,
+    "Director": "J.A. Bayona",
+    "Votes": "1,59,601",
+    "Gross": "$7.16M"
+  },
+  {
+    "Movie Title": "Nosferatu the Vampyre",
+    "Movie Year": 1979,
+    "Runtime": 107,
+    "Genre": "Drama, Horror",
+    "Rating": 7.4,
+    "Director": "Werner Herzog",
+    "Votes": "38,215",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Dracula",
+    "Movie Year": 1931,
+    "Runtime": 75,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 7.4,
+    "Director": "Tod Browning",
+    "Votes": "55,288",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Devil's Backbone",
+    "Movie Year": 2001,
+    "Runtime": 106,
+    "Genre": "Drama, Horror, Thriller",
+    "Rating": 7.4,
+    "Director": "Guillermo del Toro",
+    "Votes": "68,728",
+    "Gross": "$0.75M"
+  },
+  {
+    "Movie Title": "The Haunting",
+    "Movie Year": 1963,
+    "Runtime": 112,
+    "Genre": "Horror",
+    "Rating": 7.4,
+    "Director": "Robert Wise",
+    "Votes": "40,711",
+    "Gross": "$2.62M"
+  },
+  {
+    "Movie Title": "Thesis",
+    "Movie Year": 1996,
+    "Runtime": 125,
+    "Genre": "Crime, Horror, Mystery",
+    "Rating": 7.4,
+    "Director": "Alejandro Amenábar",
+    "Votes": "40,595",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Bhool Bhulaiyaa",
+    "Movie Year": 2007,
+    "Runtime": 159,
+    "Genre": "Comedy, Horror, Mystery",
+    "Rating": 7.4,
+    "Director": "Priyadarshan",
+    "Votes": "30,282",
+    "Gross": "$1.07M"
+  },
+  {
+    "Movie Title": "Hereditary",
+    "Movie Year": 2018,
+    "Runtime": 127,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 7.3,
+    "Director": "Ari Aster",
+    "Votes": "3,43,335",
+    "Gross": "$44.07M"
+  },
+  {
+    "Movie Title": "It I",
+    "Movie Year": 2017,
+    "Runtime": 135,
+    "Genre": "Horror",
+    "Rating": 7.3,
+    "Director": "Andy Muschietti",
+    "Votes": "5,71,035",
+    "Gross": "$327.48M"
+  },
+  {
+    "Movie Title": "Split IX",
+    "Movie Year": 2016,
+    "Runtime": 117,
+    "Genre": "Horror, Thriller",
+    "Rating": 7.3,
+    "Director": "M. Night Shyamalan",
+    "Votes": "5,19,308",
+    "Gross": "$138.29M"
+  },
+  {
+    "Movie Title": "Doctor Sleep",
+    "Movie Year": 2019,
+    "Runtime": 152,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 7.3,
+    "Director": "Mike Flanagan",
+    "Votes": "2,02,482",
+    "Gross": "$31.58M"
+  },
+  {
+    "Movie Title": "Dawn of the Dead",
+    "Movie Year": 2004,
+    "Runtime": 101,
+    "Genre": "Action, Horror",
+    "Rating": 7.3,
+    "Director": "Zack Snyder",
+    "Votes": "2,63,099",
+    "Gross": "$59.02M"
+  },
+  {
+    "Movie Title": "Possession",
+    "Movie Year": 1981,
+    "Runtime": 124,
+    "Genre": "Drama, Horror",
+    "Rating": 7.3,
+    "Director": "Andrzej Zulawski",
+    "Votes": "36,874",
+    "Gross": "$1.11M"
+  },
+  {
+    "Movie Title": "Poltergeist",
+    "Movie Year": 1982,
+    "Runtime": 114,
+    "Genre": "Horror, Thriller",
+    "Rating": 7.3,
+    "Director": "Tobe Hooper",
+    "Votes": "1,70,924",
+    "Gross": "$76.61M"
+  },
+  {
+    "Movie Title": "Sweeney Todd: The Demon Barber of Fleet Street",
+    "Movie Year": 2007,
+    "Runtime": 116,
+    "Genre": "Drama, Horror, Musical",
+    "Rating": 7.3,
+    "Director": "Tim Burton",
+    "Votes": "3,76,557",
+    "Gross": "$52.90M"
+  },
+  {
+    "Movie Title": "Gremlins",
+    "Movie Year": 1984,
+    "Runtime": 106,
+    "Genre": "Comedy, Fantasy, Horror",
+    "Rating": 7.3,
+    "Director": "Joe Dante",
+    "Votes": "2,34,614",
+    "Gross": "$148.17M"
+  },
+  {
+    "Movie Title": "The Conjuring 2",
+    "Movie Year": 2016,
+    "Runtime": 134,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 7.3,
+    "Director": "James Wan",
+    "Votes": "2,82,543",
+    "Gross": "$102.47M"
+  },
+  {
+    "Movie Title": "Sleepy Hollow",
+    "Movie Year": 1999,
+    "Runtime": 105,
+    "Genre": "Fantasy, Horror, Mystery",
+    "Rating": 7.3,
+    "Director": "Tim Burton",
+    "Votes": "3,70,303",
+    "Gross": "$101.07M"
+  },
+  {
+    "Movie Title": "Take Shelter",
+    "Movie Year": 2011,
+    "Runtime": 120,
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Rating": 7.3,
+    "Director": "Jeff Nichols",
+    "Votes": "1,03,846",
+    "Gross": "$1.73M"
+  },
+  {
+    "Movie Title": "Eraserhead",
+    "Movie Year": 1977,
+    "Runtime": 89,
+    "Genre": "Fantasy, Horror",
+    "Rating": 7.3,
+    "Director": "David Lynch",
+    "Votes": "1,21,484",
+    "Gross": "$7.00M"
+  },
+  {
+    "Movie Title": "Suspiria",
+    "Movie Year": 1977,
+    "Runtime": 92,
+    "Genre": "Horror",
+    "Rating": 7.3,
+    "Director": "Dario Argento",
+    "Votes": "98,751",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Return of the Living Dead",
+    "Movie Year": 1985,
+    "Runtime": 91,
+    "Genre": "Comedy, Horror, Sci-Fi",
+    "Rating": 7.3,
+    "Director": "Dan O'Bannon",
+    "Votes": "64,592",
+    "Gross": "$14.24M"
+  },
+  {
+    "Movie Title": "Twin Peaks: Fire Walk with Me",
+    "Movie Year": 1992,
+    "Runtime": 134,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 7.3,
+    "Director": "David Lynch",
+    "Votes": "1,00,656",
+    "Gross": "$4.16M"
+  },
+  {
+    "Movie Title": "House",
+    "Movie Year": 1977,
+    "Runtime": 88,
+    "Genre": "Comedy, Horror",
+    "Rating": 7.3,
+    "Director": "Nobuhiko Ôbayashi",
+    "Votes": "30,498",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Pi",
+    "Movie Year": 1998,
+    "Runtime": 84,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 7.3,
+    "Director": "Darren Aronofsky",
+    "Votes": "1,82,946",
+    "Gross": "$3.22M"
+  },
+  {
+    "Movie Title": "The Hidden Face",
+    "Movie Year": 2011,
+    "Runtime": 97,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 7.3,
+    "Director": "Andrés Baiz",
+    "Votes": "44,415",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Bacurau",
+    "Movie Year": 2019,
+    "Runtime": 131,
+    "Genre": "Action, Adventure, Drama",
+    "Rating": 7.3,
+    "Director": "Juliano Dornelles",
+    "Votes": "29,082",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Menu",
+    "Movie Year": 2022,
+    "Runtime": 107,
+    "Genre": "Comedy, Horror, Thriller",
+    "Rating": 7.2,
+    "Director": "Mark Mylod",
+    "Votes": "3,23,131",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "From Dusk Till Dawn",
+    "Movie Year": 1996,
+    "Runtime": 108,
+    "Genre": "Action, Crime, Horror",
+    "Rating": 7.2,
+    "Director": "Robert Rodriguez",
+    "Votes": "3,26,069",
+    "Gross": "$25.75M"
+  },
+  {
+    "Movie Title": "The Lost Boys",
+    "Movie Year": 1987,
+    "Runtime": 97,
+    "Genre": "Comedy, Horror",
+    "Rating": 7.2,
+    "Director": "Joel Schumacher",
+    "Votes": "1,50,478",
+    "Gross": "$32.22M"
+  },
+  {
+    "Movie Title": "A Quiet Place Part II",
+    "Movie Year": 2020,
+    "Runtime": 97,
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Rating": 7.2,
+    "Director": "John Krasinski",
+    "Votes": "2,48,967",
+    "Gross": "$160.07M"
+  },
+  {
+    "Movie Title": "The Descent",
+    "Movie Year": 2005,
+    "Runtime": 99,
+    "Genre": "Adventure, Horror, Thriller",
+    "Rating": 7.2,
+    "Director": "Neil Marshall",
+    "Votes": "2,33,687",
+    "Gross": "$26.02M"
+  },
+  {
+    "Movie Title": "They Live",
+    "Movie Year": 1988,
+    "Runtime": 94,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 7.2,
+    "Director": "John Carpenter",
+    "Votes": "1,36,510",
+    "Gross": "$13.01M"
+  },
+  {
+    "Movie Title": "I Am Legend",
+    "Movie Year": 2007,
+    "Runtime": 101,
+    "Genre": "Action, Drama, Horror",
+    "Rating": 7.2,
+    "Director": "Francis Lawrence",
+    "Votes": "7,81,259",
+    "Gross": "$256.39M"
+  },
+  {
+    "Movie Title": "10 Cloverfield Lane",
+    "Movie Year": 2016,
+    "Runtime": 103,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 7.2,
+    "Director": "Dan Trachtenberg",
+    "Votes": "3,40,537",
+    "Gross": "$72.08M"
+  },
+  {
+    "Movie Title": "Dead Ringers",
+    "Movie Year": 1988,
+    "Runtime": 116,
+    "Genre": "Drama, Horror, Thriller",
+    "Rating": 7.2,
+    "Director": "David Cronenberg",
+    "Votes": "50,992",
+    "Gross": "$9.13M"
+  },
+  {
+    "Movie Title": "Angel Heart",
+    "Movie Year": 1987,
+    "Runtime": 113,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 7.2,
+    "Director": "Alan Parker",
+    "Votes": "91,791",
+    "Gross": "$17.19M"
+  },
+  {
+    "Movie Title": "An American Crime",
+    "Movie Year": 2007,
+    "Runtime": 98,
+    "Genre": "Biography, Crime, Drama",
+    "Rating": 7.2,
+    "Director": "Tommy O'Haver",
+    "Votes": "35,826",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Videodrome",
+    "Movie Year": 1983,
+    "Runtime": 87,
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Rating": 7.2,
+    "Director": "David Cronenberg",
+    "Votes": "97,693",
+    "Gross": "$2.12M"
+  },
+  {
+    "Movie Title": "Re-Animator",
+    "Movie Year": 1985,
+    "Runtime": 84,
+    "Genre": "Comedy, Horror, Sci-Fi",
+    "Rating": 7.2,
+    "Director": "Stuart Gordon",
+    "Votes": "68,040",
+    "Gross": "$2.02M"
+  },
+  {
+    "Movie Title": "Only Lovers Left Alive",
+    "Movie Year": 2013,
+    "Runtime": 123,
+    "Genre": "Comedy, Drama, Fantasy",
+    "Rating": 7.2,
+    "Director": "Jim Jarmusch",
+    "Votes": "1,04,159",
+    "Gross": "$1.88M"
+  },
+  {
+    "Movie Title": "The Changeling",
+    "Movie Year": 1980,
+    "Runtime": 107,
+    "Genre": "Horror, Mystery",
+    "Rating": 7.2,
+    "Director": "Peter Medak",
+    "Votes": "37,163",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Ringu",
+    "Movie Year": 1998,
+    "Runtime": 96,
+    "Genre": "Horror, Mystery",
+    "Rating": 7.2,
+    "Director": "Hideo Nakata",
+    "Votes": "73,508",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Dead Zone",
+    "Movie Year": 1983,
+    "Runtime": 103,
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Rating": 7.2,
+    "Director": "David Cronenberg",
+    "Votes": "73,727",
+    "Gross": "$20.77M"
+  },
+  {
+    "Movie Title": "Sleep Tight",
+    "Movie Year": 2011,
+    "Runtime": 102,
+    "Genre": "Crime, Drama, Horror",
+    "Rating": 7.2,
+    "Director": "Jaume Balagueró",
+    "Votes": "44,718",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Horror of Dracula",
+    "Movie Year": 1958,
+    "Runtime": 82,
+    "Genre": "Drama, Horror",
+    "Rating": 7.2,
+    "Director": "Terence Fisher",
+    "Votes": "26,472",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Wolf Man",
+    "Movie Year": 1941,
+    "Runtime": 70,
+    "Genre": "Horror, Mystery, Romance",
+    "Rating": 7.2,
+    "Director": "George Waggner",
+    "Votes": "28,724",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Midsommar",
+    "Movie Year": 2019,
+    "Runtime": 148,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 7.1,
+    "Director": "Ari Aster",
+    "Votes": "3,54,167",
+    "Gross": "$27.33M"
+  },
+  {
+    "Movie Title": "The Ring",
+    "Movie Year": 2002,
+    "Runtime": 115,
+    "Genre": "Horror, Mystery",
+    "Rating": 7.1,
+    "Director": "Gore Verbinski",
+    "Votes": "3,60,824",
+    "Gross": "$129.13M"
+  },
+  {
+    "Movie Title": "Prey I",
+    "Movie Year": 2022,
+    "Runtime": 100,
+    "Genre": "Action, Adventure, Drama",
+    "Rating": 7.1,
+    "Director": "Dan Trachtenberg",
+    "Votes": "2,07,940",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Mist",
+    "Movie Year": 2007,
+    "Runtime": 126,
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Rating": 7.1,
+    "Director": "Frank Darabont",
+    "Votes": "3,23,435",
+    "Gross": "$25.59M"
+  },
+  {
+    "Movie Title": "Don't Breathe",
+    "Movie Year": 2016,
+    "Runtime": 88,
+    "Genre": "Crime, Horror, Thriller",
+    "Rating": 7.1,
+    "Director": "Fede Alvarez",
+    "Votes": "2,86,498",
+    "Gross": "$89.22M"
+  },
+  {
+    "Movie Title": "Little Shop of Horrors",
+    "Movie Year": 1986,
+    "Runtime": 94,
+    "Genre": "Comedy, Horror, Musical",
+    "Rating": 7.1,
+    "Director": "Frank Oz",
+    "Votes": "80,770",
+    "Gross": "$38.75M"
+  },
+  {
+    "Movie Title": "Blade",
+    "Movie Year": 1998,
+    "Runtime": 120,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 7.1,
+    "Director": "Stephen Norrington",
+    "Votes": "2,85,069",
+    "Gross": "$70.09M"
+  },
+  {
+    "Movie Title": "Bone Tomahawk",
+    "Movie Year": 2015,
+    "Runtime": 132,
+    "Genre": "Drama, Horror, Western",
+    "Rating": 7.1,
+    "Director": "S. Craig Zahler",
+    "Votes": "1,07,954",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Invisible Man I",
+    "Movie Year": 2020,
+    "Runtime": 124,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 7.1,
+    "Director": "Leigh Whannell",
+    "Votes": "2,38,588",
+    "Gross": "$70.41M"
+  },
+  {
+    "Movie Title": "Tremors",
+    "Movie Year": 1990,
+    "Runtime": 96,
+    "Genre": "Comedy, Horror",
+    "Rating": 7.1,
+    "Director": "Ron Underwood",
+    "Votes": "1,43,452",
+    "Gross": "$16.67M"
+  },
+  {
+    "Movie Title": "Planet Terror",
+    "Movie Year": 2007,
+    "Runtime": 105,
+    "Genre": "Action, Comedy, Horror",
+    "Rating": 7.1,
+    "Director": "Robert Rodriguez",
+    "Votes": "2,17,087",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Call",
+    "Movie Year": 2020,
+    "Runtime": 112,
+    "Genre": "Crime, Horror, Mystery",
+    "Rating": 7.1,
+    "Director": "Chung-Hyun Lee",
+    "Votes": "37,886",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Don't Look Now",
+    "Movie Year": 1973,
+    "Runtime": 110,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 7.1,
+    "Director": "Nicolas Roeg",
+    "Votes": "58,877",
+    "Gross": "$0.98M"
+  },
+  {
+    "Movie Title": "Let Me In I",
+    "Movie Year": 2010,
+    "Runtime": 116,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 7.1,
+    "Director": "Matt Reeves",
+    "Votes": "1,24,539",
+    "Gross": "$12.13M"
+  },
+  {
+    "Movie Title": "Cube",
+    "Movie Year": 1997,
+    "Runtime": 90,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 7.1,
+    "Director": "Vincenzo Natali",
+    "Votes": "2,39,015",
+    "Gross": "$0.50M"
+  },
+  {
+    "Movie Title": "The Frighteners",
+    "Movie Year": 1996,
+    "Runtime": 110,
+    "Genre": "Comedy, Fantasy, Horror",
+    "Rating": 7.1,
+    "Director": "Peter Jackson",
+    "Votes": "91,980",
+    "Gross": "$16.76M"
+  },
+  {
+    "Movie Title": "Audition",
+    "Movie Year": 1999,
+    "Runtime": 115,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 7.1,
+    "Director": "Takashi Miike",
+    "Votes": "84,967",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "In the Mouth of Madness",
+    "Movie Year": 1994,
+    "Runtime": 95,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 7.1,
+    "Director": "John Carpenter",
+    "Votes": "74,185",
+    "Gross": "$8.95M"
+  },
+  {
+    "Movie Title": "The Host",
+    "Movie Year": 2006,
+    "Runtime": 120,
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Rating": 7.1,
+    "Director": "Bong Joon Ho",
+    "Votes": "1,27,160",
+    "Gross": "$2.20M"
+  },
+  {
+    "Movie Title": "The Thing from Another World",
+    "Movie Year": 1951,
+    "Runtime": 87,
+    "Genre": "Horror, Sci-Fi",
+    "Rating": 7.1,
+    "Director": "Christian Nyby",
+    "Votes": "31,634",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Day of the Dead",
+    "Movie Year": 1985,
+    "Runtime": 101,
+    "Genre": "Horror, Thriller",
+    "Rating": 7.1,
+    "Director": "George A. Romero",
+    "Votes": "71,624",
+    "Gross": "$5.80M"
+  },
+  {
+    "Movie Title": "Timecrimes",
+    "Movie Year": 2007,
+    "Runtime": 92,
+    "Genre": "Horror, Mystery, Sci-Fi",
+    "Rating": 7.1,
+    "Director": "Nacho Vigalondo",
+    "Votes": "66,167",
+    "Gross": "$0.04M"
+  },
+  {
+    "Movie Title": "Black Christmas",
+    "Movie Year": 1974,
+    "Runtime": 98,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 7.1,
+    "Director": "Bob Clark",
+    "Votes": "44,485",
+    "Gross": "$4.05M"
+  },
+  {
+    "Movie Title": "A Tale of Two Sisters",
+    "Movie Year": 2003,
+    "Runtime": 114,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 7.1,
+    "Director": "Jee-woon Kim",
+    "Votes": "65,125",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Thirst",
+    "Movie Year": 2009,
+    "Runtime": 134,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 7.1,
+    "Director": "Park Chan-wook",
+    "Votes": "49,291",
+    "Gross": "$0.30M"
+  },
+  {
+    "Movie Title": "The Fearless Vampire Killers",
+    "Movie Year": 1967,
+    "Runtime": 91,
+    "Genre": "Comedy, Horror",
+    "Rating": 7.1,
+    "Director": "Roman Polanski",
+    "Votes": "32,778",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Pearl",
+    "Movie Year": 2022,
+    "Runtime": 103,
+    "Genre": "Drama, Horror, Thriller",
+    "Rating": 7,
+    "Director": "Ti West",
+    "Votes": "60,574",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Barbarian",
+    "Movie Year": 2022,
+    "Runtime": 102,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 7,
+    "Director": "Zach Cregger",
+    "Votes": "1,50,220",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Orphan",
+    "Movie Year": 2009,
+    "Runtime": 123,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 7,
+    "Director": "Jaume Collet-Serra",
+    "Votes": "2,40,096",
+    "Gross": "$41.60M"
+  },
+  {
+    "Movie Title": "Last Night in Soho",
+    "Movie Year": 2021,
+    "Runtime": 116,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 7,
+    "Director": "Edgar Wright",
+    "Votes": "1,51,594",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Platform",
+    "Movie Year": 2019,
+    "Runtime": 94,
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Rating": 7,
+    "Director": "Galder Gaztelu-Urrutia",
+    "Votes": "2,46,812",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Cloverfield",
+    "Movie Year": 2008,
+    "Runtime": 85,
+    "Genre": "Action, Adventure, Horror",
+    "Rating": 7,
+    "Director": "Matt Reeves",
+    "Votes": "4,09,328",
+    "Gross": "$80.05M"
+  },
+  {
+    "Movie Title": "The Cabin in the Woods",
+    "Movie Year": 2011,
+    "Runtime": 95,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 7,
+    "Director": "Drew Goddard",
+    "Votes": "4,31,746",
+    "Gross": "$42.07M"
+  },
+  {
+    "Movie Title": "Martyrs",
+    "Movie Year": 2008,
+    "Runtime": 99,
+    "Genre": "Horror",
+    "Rating": 7,
+    "Director": "Pascal Laugier",
+    "Votes": "1,00,077",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Killing of a Sacred Deer",
+    "Movie Year": 2017,
+    "Runtime": 121,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 7,
+    "Director": "Yorgos Lanthimos",
+    "Votes": "1,64,977",
+    "Gross": "$2.29M"
+  },
+  {
+    "Movie Title": "World War Z",
+    "Movie Year": 2013,
+    "Runtime": 116,
+    "Genre": "Action, Adventure, Horror",
+    "Rating": 7,
+    "Director": "Marc Forster",
+    "Votes": "6,88,746",
+    "Gross": "$202.36M"
+  },
+  {
+    "Movie Title": "Constantine",
+    "Movie Year": 2005,
+    "Runtime": 121,
+    "Genre": "Action, Fantasy, Horror",
+    "Rating": 7,
+    "Director": "Francis Lawrence",
+    "Votes": "3,59,071",
+    "Gross": "$75.98M"
+  },
+  {
+    "Movie Title": "Pitch Black",
+    "Movie Year": 2000,
+    "Runtime": 109,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 7,
+    "Director": "David Twohy",
+    "Votes": "2,47,313",
+    "Gross": "$39.24M"
+  },
+  {
+    "Movie Title": "Hotel Transylvania",
+    "Movie Year": 2012,
+    "Runtime": 91,
+    "Genre": "Animation, Adventure, Comedy",
+    "Rating": 7,
+    "Director": "Genndy Tartakovsky",
+    "Votes": "2,66,508",
+    "Gross": "$148.31M"
+  },
+  {
+    "Movie Title": "Hellboy II: The Golden Army",
+    "Movie Year": 2008,
+    "Runtime": 120,
+    "Genre": "Action, Adventure, Fantasy",
+    "Rating": 7,
+    "Director": "Guillermo del Toro",
+    "Votes": "2,78,818",
+    "Gross": "$75.75M"
+  },
+  {
+    "Movie Title": "Green Room",
+    "Movie Year": 2015,
+    "Runtime": 95,
+    "Genre": "Crime, Drama, Horror",
+    "Rating": 7,
+    "Director": "Jeremy Saulnier",
+    "Votes": "1,31,693",
+    "Gross": "$3.22M"
+  },
+  {
+    "Movie Title": "Fright Night",
+    "Movie Year": 1985,
+    "Runtime": 106,
+    "Genre": "Fantasy, Horror",
+    "Rating": 7,
+    "Director": "Tom Holland",
+    "Votes": "74,547",
+    "Gross": "$24.92M"
+  },
+  {
+    "Movie Title": "Raw",
+    "Movie Year": 2016,
+    "Runtime": 99,
+    "Genre": "Drama, Horror",
+    "Rating": 7,
+    "Director": "Julia Ducournau",
+    "Votes": "83,304",
+    "Gross": "$0.51M"
+  },
+  {
+    "Movie Title": "Brotherhood of the Wolf",
+    "Movie Year": 2001,
+    "Runtime": 142,
+    "Genre": "Action, Adventure, Drama",
+    "Rating": 7,
+    "Director": "Christophe Gans",
+    "Votes": "68,793",
+    "Gross": "$11.26M"
+  },
+  {
+    "Movie Title": "Shutter II",
+    "Movie Year": 2004,
+    "Runtime": 97,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 7,
+    "Director": "Banjong Pisanthanakun",
+    "Votes": "47,015",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Thelma",
+    "Movie Year": 2017,
+    "Runtime": 116,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 7,
+    "Director": "Joachim Trier",
+    "Votes": "34,644",
+    "Gross": "$0.15M"
+  },
+  {
+    "Movie Title": "Henry: Portrait of a Serial Killer",
+    "Movie Year": 1986,
+    "Runtime": 83,
+    "Genre": "Biography, Crime, Drama",
+    "Rating": 7,
+    "Director": "John McNaughton",
+    "Votes": "38,529",
+    "Gross": "$0.61M"
+  },
+  {
+    "Movie Title": "Tenebrae",
+    "Movie Year": 1982,
+    "Runtime": 101,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 7,
+    "Director": "Dario Argento",
+    "Votes": "25,691",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Carnival of Souls",
+    "Movie Year": 1962,
+    "Runtime": 78,
+    "Genre": "Horror, Mystery",
+    "Rating": 7,
+    "Director": "Herk Harvey",
+    "Votes": "26,143",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Mummy",
+    "Movie Year": 1932,
+    "Runtime": 73,
+    "Genre": "Fantasy, Horror",
+    "Rating": 7,
+    "Director": "Karl Freund",
+    "Votes": "28,354",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Doctor Strange in the Multiverse of Madness",
+    "Movie Year": 2022,
+    "Runtime": 126,
+    "Genre": "Action, Adventure, Fantasy",
+    "Rating": 6.9,
+    "Director": "Sam Raimi",
+    "Votes": "4,40,936",
+    "Gross": "$411.33M"
+  },
+  {
+    "Movie Title": "The Black Phone",
+    "Movie Year": 2021,
+    "Runtime": 103,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.9,
+    "Director": "Scott Derrickson",
+    "Votes": "1,68,369",
+    "Gross": "$90.12M"
+  },
+  {
+    "Movie Title": "The VVitch: A New-England Folktale",
+    "Movie Year": 2015,
+    "Runtime": 92,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 6.9,
+    "Director": "Robert Eggers",
+    "Votes": "2,77,751",
+    "Gross": "$25.14M"
+  },
+  {
+    "Movie Title": "Climax I",
+    "Movie Year": 2018,
+    "Runtime": 97,
+    "Genre": "Drama, Horror, Music",
+    "Rating": 6.9,
+    "Director": "Gaspar Noé",
+    "Votes": "73,695",
+    "Gross": "$0.80M"
+  },
+  {
+    "Movie Title": "28 Weeks Later",
+    "Movie Year": 2007,
+    "Runtime": 100,
+    "Genre": "Action, Adventure, Horror",
+    "Rating": 6.9,
+    "Director": "Juan Carlos Fresnadillo",
+    "Votes": "2,84,000",
+    "Gross": "$28.64M"
+  },
+  {
+    "Movie Title": "Hocus Pocus",
+    "Movie Year": 1993,
+    "Runtime": 96,
+    "Genre": "Comedy, Family, Fantasy",
+    "Rating": 6.9,
+    "Director": "Kenny Ortega",
+    "Votes": "1,45,947",
+    "Gross": "$44.34M"
+  },
+  {
+    "Movie Title": "Hellraiser",
+    "Movie Year": 1987,
+    "Runtime": 94,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.9,
+    "Director": "Clive Barker",
+    "Votes": "1,32,887",
+    "Gross": "$14.56M"
+  },
+  {
+    "Movie Title": "Near Dark",
+    "Movie Year": 1987,
+    "Runtime": 94,
+    "Genre": "Horror",
+    "Rating": 6.9,
+    "Director": "Kathryn Bigelow",
+    "Votes": "42,670",
+    "Gross": "$3.37M"
+  },
+  {
+    "Movie Title": "Ravenous",
+    "Movie Year": 1999,
+    "Runtime": 101,
+    "Genre": "Adventure, Drama, Horror",
+    "Rating": 6.9,
+    "Director": "Antonia Bird",
+    "Votes": "41,616",
+    "Gross": "$2.06M"
+  },
+  {
+    "Movie Title": "Altered States",
+    "Movie Year": 1980,
+    "Runtime": 102,
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Rating": 6.9,
+    "Director": "Ken Russell",
+    "Votes": "36,892",
+    "Gross": "$19.85M"
+  },
+  {
+    "Movie Title": "Stir of Echoes",
+    "Movie Year": 1999,
+    "Runtime": 99,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.9,
+    "Director": "David Koepp",
+    "Votes": "84,251",
+    "Gross": "$21.13M"
+  },
+  {
+    "Movie Title": "Bubba Ho-Tep",
+    "Movie Year": 2002,
+    "Runtime": 92,
+    "Genre": "Comedy, Fantasy, Horror",
+    "Rating": 6.9,
+    "Director": "Don Coscarelli",
+    "Votes": "50,182",
+    "Gross": "$2.00M"
+  },
+  {
+    "Movie Title": "A Girl Walks Home Alone at Night",
+    "Movie Year": 2014,
+    "Runtime": 101,
+    "Genre": "Drama, Horror, Romance",
+    "Rating": 6.9,
+    "Director": "Ana Lily Amirpour",
+    "Votes": "37,115",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Monster Squad",
+    "Movie Year": 1987,
+    "Runtime": 79,
+    "Genre": "Action, Comedy, Fantasy",
+    "Rating": 6.9,
+    "Director": "Fred Dekker",
+    "Votes": "33,711",
+    "Gross": "$3.77M"
+  },
+  {
+    "Movie Title": "Creature from the Black Lagoon",
+    "Movie Year": 1954,
+    "Runtime": 79,
+    "Genre": "Horror, Sci-Fi",
+    "Rating": 6.9,
+    "Director": "Jack Arnold",
+    "Votes": "32,344",
+    "Gross": "$1.30M"
+  },
+  {
+    "Movie Title": "Troll Hunter",
+    "Movie Year": 2010,
+    "Runtime": 103,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 6.9,
+    "Director": "André Øvredal",
+    "Votes": "77,389",
+    "Gross": "$0.25M"
+  },
+  {
+    "Movie Title": "Shadow of the Vampire",
+    "Movie Year": 2000,
+    "Runtime": 92,
+    "Genre": "Drama, Horror",
+    "Rating": 6.9,
+    "Director": "E. Elias Merhige",
+    "Votes": "43,072",
+    "Gross": "$8.29M"
+  },
+  {
+    "Movie Title": "Frankenweenie",
+    "Movie Year": 2012,
+    "Runtime": 87,
+    "Genre": "Animation, Comedy, Drama",
+    "Rating": 6.9,
+    "Director": "Tim Burton",
+    "Votes": "1,12,066",
+    "Gross": "$35.29M"
+  },
+  {
+    "Movie Title": "Bhoot Police",
+    "Movie Year": 2021,
+    "Runtime": 129,
+    "Genre": "Comedy, Horror",
+    "Rating": 6.9,
+    "Director": "Pavan Kirpalani",
+    "Votes": "26,993",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Nope",
+    "Movie Year": 2022,
+    "Runtime": 130,
+    "Genre": "Horror, Mystery, Sci-Fi",
+    "Rating": 6.8,
+    "Director": "Jordan Peele",
+    "Votes": "2,32,097",
+    "Gross": "$123.28M"
+  },
+  {
+    "Movie Title": "Bones and All",
+    "Movie Year": 2022,
+    "Runtime": 131,
+    "Genre": "Drama, Horror, Romance",
+    "Rating": 6.8,
+    "Director": "Luca Guadagnino",
+    "Votes": "43,064",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Ready or Not I",
+    "Movie Year": 2019,
+    "Runtime": 95,
+    "Genre": "Action, Comedy, Horror",
+    "Rating": 6.8,
+    "Director": "Matt Bettinelli-Olpin",
+    "Votes": "1,64,600",
+    "Gross": "$28.71M"
+  },
+  {
+    "Movie Title": "Insidious I",
+    "Movie Year": 2010,
+    "Runtime": 103,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.8,
+    "Director": "James Wan",
+    "Votes": "3,19,707",
+    "Gross": "$54.01M"
+  },
+  {
+    "Movie Title": "It Follows",
+    "Movie Year": 2014,
+    "Runtime": 100,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.8,
+    "Director": "David Robert Mitchell",
+    "Votes": "2,53,503",
+    "Gross": "$14.67M"
+  },
+  {
+    "Movie Title": "Annihilation I",
+    "Movie Year": 2018,
+    "Runtime": 115,
+    "Genre": "Adventure, Drama, Horror",
+    "Rating": 6.8,
+    "Director": "Alex Garland",
+    "Votes": "3,40,306",
+    "Gross": "$32.73M"
+  },
+  {
+    "Movie Title": "Sinister",
+    "Movie Year": 2012,
+    "Runtime": 110,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.8,
+    "Director": "Scott Derrickson",
+    "Votes": "2,64,038",
+    "Gross": "$48.09M"
+  },
+  {
+    "Movie Title": "Us II",
+    "Movie Year": 2019,
+    "Runtime": 116,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.8,
+    "Director": "Jordan Peele",
+    "Votes": "3,16,383",
+    "Gross": "$175.08M"
+  },
+  {
+    "Movie Title": "The House That Jack Built",
+    "Movie Year": 2018,
+    "Runtime": 152,
+    "Genre": "Crime, Drama, Horror",
+    "Rating": 6.8,
+    "Director": "Lars von Trier",
+    "Votes": "83,053",
+    "Gross": "$0.09M"
+  },
+  {
+    "Movie Title": "The Babadook",
+    "Movie Year": 2014,
+    "Runtime": 94,
+    "Genre": "Horror, Mystery",
+    "Rating": 6.8,
+    "Director": "Jennifer Kent",
+    "Votes": "2,34,393",
+    "Gross": "$0.92M"
+  },
+  {
+    "Movie Title": "The Autopsy of Jane Doe",
+    "Movie Year": 2016,
+    "Runtime": 86,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.8,
+    "Director": "André Øvredal",
+    "Votes": "1,27,065",
+    "Gross": "$0.01M"
+  },
+  {
+    "Movie Title": "Warm Bodies",
+    "Movie Year": 2013,
+    "Runtime": 98,
+    "Genre": "Comedy, Horror, Romance",
+    "Rating": 6.8,
+    "Director": "Jonathan Levine",
+    "Votes": "2,36,475",
+    "Gross": "$66.38M"
+  },
+  {
+    "Movie Title": "Hellboy",
+    "Movie Year": 2004,
+    "Runtime": 122,
+    "Genre": "Action, Adventure, Fantasy",
+    "Rating": 6.8,
+    "Director": "Guillermo del Toro",
+    "Votes": "3,38,908",
+    "Gross": "$59.62M"
+  },
+  {
+    "Movie Title": "Odd Thomas",
+    "Movie Year": 2013,
+    "Runtime": 97,
+    "Genre": "Comedy, Fantasy, Horror",
+    "Rating": 6.8,
+    "Director": "Stephen Sommers",
+    "Votes": "55,393",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Exam",
+    "Movie Year": 2009,
+    "Runtime": 101,
+    "Genre": "Crime, Horror, Mystery",
+    "Rating": 6.8,
+    "Director": "Stuart Hazeldine",
+    "Votes": "1,20,312",
+    "Gross": ""
+  },
+  {
+    "Movie Title": 1408,
+    "Movie Year": 2007,
+    "Runtime": 104,
+    "Genre": "Fantasy, Horror, Mystery",
+    "Rating": 6.8,
+    "Director": "Mikael Håfström",
+    "Votes": "2,82,365",
+    "Gross": "$71.99M"
+  },
+  {
+    "Movie Title": "The Fog",
+    "Movie Year": 1980,
+    "Runtime": 89,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.8,
+    "Director": "John Carpenter",
+    "Votes": "78,302",
+    "Gross": "$21.38M"
+  },
+  {
+    "Movie Title": "Creepshow",
+    "Movie Year": 1982,
+    "Runtime": 120,
+    "Genre": "Comedy, Fantasy, Horror",
+    "Rating": 6.8,
+    "Director": "George A. Romero",
+    "Votes": "50,496",
+    "Gross": "$21.03M"
+  },
+  {
+    "Movie Title": "Ginger Snaps",
+    "Movie Year": 2000,
+    "Runtime": 108,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 6.8,
+    "Director": "John Fawcett",
+    "Votes": "49,563",
+    "Gross": "$0.00M"
+  },
+  {
+    "Movie Title": "The Witches",
+    "Movie Year": 1990,
+    "Runtime": 91,
+    "Genre": "Adventure, Comedy, Family",
+    "Rating": 6.8,
+    "Director": "Nicolas Roeg",
+    "Votes": "52,433",
+    "Gross": "$10.36M"
+  },
+  {
+    "Movie Title": "eXistenZ",
+    "Movie Year": 1999,
+    "Runtime": 97,
+    "Genre": "Horror, Mystery, Sci-Fi",
+    "Rating": 6.8,
+    "Director": "David Cronenberg",
+    "Votes": "1,03,653",
+    "Gross": "$2.84M"
+  },
+  {
+    "Movie Title": "Dog Soldiers",
+    "Movie Year": 2002,
+    "Runtime": 105,
+    "Genre": "Action, Horror, Thriller",
+    "Rating": 6.8,
+    "Director": "Neil Marshall",
+    "Votes": "62,964",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Dead Calm",
+    "Movie Year": 1989,
+    "Runtime": 96,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.8,
+    "Director": "Phillip Noyce",
+    "Votes": "42,222",
+    "Gross": "$7.83M"
+  },
+  {
+    "Movie Title": "Shin Godzilla",
+    "Movie Year": 2016,
+    "Runtime": 120,
+    "Genre": "Action, Drama, Horror",
+    "Rating": 6.8,
+    "Director": "Hideaki Anno",
+    "Votes": "29,845",
+    "Gross": "$1.92M"
+  },
+  {
+    "Movie Title": "Zombie",
+    "Movie Year": 1979,
+    "Runtime": 91,
+    "Genre": "Horror",
+    "Rating": 6.8,
+    "Director": "Lucio Fulci",
+    "Votes": "29,370",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Brood",
+    "Movie Year": 1979,
+    "Runtime": 92,
+    "Genre": "Horror, Sci-Fi",
+    "Rating": 6.8,
+    "Director": "David Cronenberg",
+    "Votes": "32,397",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Night of the Living Dead",
+    "Movie Year": 1990,
+    "Runtime": 92,
+    "Genre": "Horror",
+    "Rating": 6.8,
+    "Director": "Tom Savini",
+    "Votes": "43,906",
+    "Gross": "$5.84M"
+  },
+  {
+    "Movie Title": "House on Haunted Hill",
+    "Movie Year": 1959,
+    "Runtime": 75,
+    "Genre": "Crime, Horror, Mystery",
+    "Rating": 6.8,
+    "Director": "William Castle",
+    "Votes": "29,039",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Stonehearst Asylum",
+    "Movie Year": 2014,
+    "Runtime": 112,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6.8,
+    "Director": "Brad Anderson",
+    "Votes": "58,532",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Under the Shadow",
+    "Movie Year": 2016,
+    "Runtime": 84,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 6.8,
+    "Director": "Babak Anvari",
+    "Votes": "28,891",
+    "Gross": "$0.03M"
+  },
+  {
+    "Movie Title": "Dead Snow 2: Red vs. Dead",
+    "Movie Year": 2014,
+    "Runtime": 100,
+    "Genre": "Action, Comedy, Fantasy",
+    "Rating": 6.8,
+    "Director": "Tommy Wirkola",
+    "Votes": "25,807",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Evil Dead Rise",
+    "Movie Year": 2023,
+    "Runtime": 96,
+    "Genre": "Horror",
+    "Rating": 6.7,
+    "Director": "Lee Cronin",
+    "Votes": "78,836",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Suspiria I",
+    "Movie Year": 2018,
+    "Runtime": 152,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 6.7,
+    "Director": "Luca Guadagnino",
+    "Votes": "84,786",
+    "Gross": "$2.47M"
+  },
+  {
+    "Movie Title": "Eden Lake",
+    "Movie Year": 2008,
+    "Runtime": 91,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.7,
+    "Director": "James Watkins",
+    "Votes": "89,408",
+    "Gross": "$0.01M"
+  },
+  {
+    "Movie Title": "Final Destination",
+    "Movie Year": 2000,
+    "Runtime": 98,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.7,
+    "Director": "James Wong",
+    "Votes": "2,66,158",
+    "Gross": "$53.33M"
+  },
+  {
+    "Movie Title": "Fresh",
+    "Movie Year": 2022,
+    "Runtime": 114,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.7,
+    "Director": "Mimi Cave",
+    "Votes": "63,592",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Zombieland: Double Tap",
+    "Movie Year": 2019,
+    "Runtime": 99,
+    "Genre": "Action, Comedy, Horror",
+    "Rating": 6.7,
+    "Director": "Ruben Fleischer",
+    "Votes": "1,89,496",
+    "Gross": "$73.12M"
+  },
+  {
+    "Movie Title": "The Devil's Rejects",
+    "Movie Year": 2005,
+    "Runtime": 107,
+    "Genre": "Crime, Horror, Western",
+    "Rating": 6.7,
+    "Director": "Rob Zombie",
+    "Votes": "1,03,048",
+    "Gross": "$17.04M"
+  },
+  {
+    "Movie Title": "Pandorum",
+    "Movie Year": 2009,
+    "Runtime": 108,
+    "Genre": "Action, Horror, Mystery",
+    "Rating": 6.7,
+    "Director": "Christian Alvart",
+    "Votes": "1,55,042",
+    "Gross": "$10.33M"
+  },
+  {
+    "Movie Title": "Christine",
+    "Movie Year": 1983,
+    "Runtime": 110,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.7,
+    "Director": "John Carpenter",
+    "Votes": "87,453",
+    "Gross": "$21.20M"
+  },
+  {
+    "Movie Title": "Marrowbone",
+    "Movie Year": 2017,
+    "Runtime": 110,
+    "Genre": "Adventure, Drama, Horror",
+    "Rating": 6.7,
+    "Director": "Sergio G. Sánchez",
+    "Votes": "35,303",
+    "Gross": "$0.00M"
+  },
+  {
+    "Movie Title": "The Gift",
+    "Movie Year": 2000,
+    "Runtime": 111,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 6.7,
+    "Director": "Sam Raimi",
+    "Votes": "72,059",
+    "Gross": "$12.01M"
+  },
+  {
+    "Movie Title": "Blade II",
+    "Movie Year": 2002,
+    "Runtime": 117,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 6.7,
+    "Director": "Guillermo del Toro",
+    "Votes": "2,25,970",
+    "Gross": "$82.35M"
+  },
+  {
+    "Movie Title": "High Tension",
+    "Movie Year": 2003,
+    "Runtime": 91,
+    "Genre": "Horror",
+    "Rating": 6.7,
+    "Director": "Alexandre Aja",
+    "Votes": "74,795",
+    "Gross": "$3.68M"
+  },
+  {
+    "Movie Title": "Candyman",
+    "Movie Year": 1992,
+    "Runtime": 99,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.7,
+    "Director": "Bernard Rose",
+    "Votes": "95,591",
+    "Gross": "$25.79M"
+  },
+  {
+    "Movie Title": "Return to Oz",
+    "Movie Year": 1985,
+    "Runtime": 113,
+    "Genre": "Adventure, Family, Fantasy",
+    "Rating": 6.7,
+    "Director": "Walter Murch",
+    "Votes": "28,909",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Saint Maud",
+    "Movie Year": 2019,
+    "Runtime": 84,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6.7,
+    "Director": "Rose Glass",
+    "Votes": "41,913",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "From Hell",
+    "Movie Year": 2001,
+    "Runtime": 122,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.7,
+    "Director": "Albert Hughes",
+    "Votes": "1,59,793",
+    "Gross": "$31.60M"
+  },
+  {
+    "Movie Title": "Fear Street: Part Two - 1978",
+    "Movie Year": 2021,
+    "Runtime": 109,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6.7,
+    "Director": "Leigh Janiak",
+    "Votes": "69,358",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Scanners",
+    "Movie Year": 1981,
+    "Runtime": 103,
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Rating": 6.7,
+    "Director": "David Cronenberg",
+    "Votes": "58,736",
+    "Gross": "$14.23M"
+  },
+  {
+    "Movie Title": "The Exorcism of Emily Rose",
+    "Movie Year": 2005,
+    "Runtime": 119,
+    "Genre": "Drama, Horror, Thriller",
+    "Rating": 6.7,
+    "Director": "Scott Derrickson",
+    "Votes": "1,34,571",
+    "Gross": "$75.07M"
+  },
+  {
+    "Movie Title": "Summer of 84",
+    "Movie Year": 2018,
+    "Runtime": 105,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6.7,
+    "Director": "François Simard",
+    "Votes": "43,321",
+    "Gross": "$0.09M"
+  },
+  {
+    "Movie Title": "Inside",
+    "Movie Year": 2007,
+    "Runtime": 82,
+    "Genre": "Horror",
+    "Rating": 6.7,
+    "Director": "Alexandre Bustillo",
+    "Votes": "42,811",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Trick 'r Treat",
+    "Movie Year": 2007,
+    "Runtime": 82,
+    "Genre": "Comedy, Horror",
+    "Rating": 6.7,
+    "Director": "Michael Dougherty",
+    "Votes": "97,225",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Phenomena",
+    "Movie Year": 1985,
+    "Runtime": 116,
+    "Genre": "Crime, Horror, Mystery",
+    "Rating": 6.7,
+    "Director": "Dario Argento",
+    "Votes": "28,456",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Where the Wild Things Are",
+    "Movie Year": 2009,
+    "Runtime": 101,
+    "Genre": "Adventure, Drama, Family",
+    "Rating": 6.7,
+    "Director": "Spike Jonze",
+    "Votes": "1,06,812",
+    "Gross": "$77.23M"
+  },
+  {
+    "Movie Title": "Goodnight Mommy",
+    "Movie Year": 2014,
+    "Runtime": 99,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.7,
+    "Director": "Severin Fiala",
+    "Votes": "57,113",
+    "Gross": "$1.17M"
+  },
+  {
+    "Movie Title": "Spring I",
+    "Movie Year": 2014,
+    "Runtime": 109,
+    "Genre": "Horror, Romance, Sci-Fi",
+    "Rating": 6.7,
+    "Director": "Justin Benson",
+    "Votes": "29,941",
+    "Gross": "$0.05M"
+  },
+  {
+    "Movie Title": "Tales from the Crypt: Demon Knight",
+    "Movie Year": 1995,
+    "Runtime": 92,
+    "Genre": "Action, Fantasy, Horror",
+    "Rating": 6.7,
+    "Director": "Ernest R. Dickerson",
+    "Votes": "25,144",
+    "Gross": "$21.09M"
+  },
+  {
+    "Movie Title": "Ju-on: The Grudge",
+    "Movie Year": 2002,
+    "Runtime": 92,
+    "Genre": "Horror",
+    "Rating": 6.7,
+    "Director": "Takashi Shimizu",
+    "Votes": "46,324",
+    "Gross": "$0.33M"
+  },
+  {
+    "Movie Title": "Turbo Kid",
+    "Movie Year": 2015,
+    "Runtime": 93,
+    "Genre": "Action, Adventure, Comedy",
+    "Rating": 6.7,
+    "Director": "François Simard",
+    "Votes": "28,926",
+    "Gross": "$0.05M"
+  },
+  {
+    "Movie Title": "Cronos",
+    "Movie Year": 1992,
+    "Runtime": 94,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 6.7,
+    "Director": "Guillermo del Toro",
+    "Votes": "31,873",
+    "Gross": "$0.62M"
+  },
+  {
+    "Movie Title": "Housebound",
+    "Movie Year": 2014,
+    "Runtime": 107,
+    "Genre": "Comedy, Horror, Mystery",
+    "Rating": 6.7,
+    "Director": "Gerard Johnstone",
+    "Votes": "36,448",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Dark Water",
+    "Movie Year": 2002,
+    "Runtime": 101,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6.7,
+    "Director": "Hideo Nakata",
+    "Votes": "33,695",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Los ojos de Julia",
+    "Movie Year": 2010,
+    "Runtime": 118,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.7,
+    "Director": "Guillem Morales",
+    "Votes": "36,473",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Fido",
+    "Movie Year": 2006,
+    "Runtime": 93,
+    "Genre": "Comedy, Drama, Horror",
+    "Rating": 6.7,
+    "Director": "Andrew Currie",
+    "Votes": "29,699",
+    "Gross": "$0.30M"
+  },
+  {
+    "Movie Title": "X II",
+    "Movie Year": 2022,
+    "Runtime": 105,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.6,
+    "Director": "Ti West",
+    "Votes": "1,32,694",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Scream VI",
+    "Movie Year": 2023,
+    "Runtime": 122,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.6,
+    "Director": "Matt Bettinelli-Olpin",
+    "Votes": "81,797",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Pale Blue Eye",
+    "Movie Year": 2022,
+    "Runtime": 128,
+    "Genre": "Crime, Horror, Mystery",
+    "Rating": 6.6,
+    "Director": "Scott Cooper",
+    "Votes": "1,07,713",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Bird Box",
+    "Movie Year": 2018,
+    "Runtime": 124,
+    "Genre": "Horror, Mystery, Sci-Fi",
+    "Rating": 6.6,
+    "Director": "Susanne Bier",
+    "Votes": "3,60,116",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Mother!",
+    "Movie Year": 2017,
+    "Runtime": 121,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6.6,
+    "Director": "Darren Aronofsky",
+    "Votes": "2,36,605",
+    "Gross": "$17.80M"
+  },
+  {
+    "Movie Title": "Event Horizon",
+    "Movie Year": 1997,
+    "Runtime": 96,
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Rating": 6.6,
+    "Director": "Paul W.S. Anderson",
+    "Votes": "1,88,518",
+    "Gross": "$26.67M"
+  },
+  {
+    "Movie Title": "Speak No Evil",
+    "Movie Year": 2022,
+    "Runtime": 97,
+    "Genre": "Drama, Horror, Thriller",
+    "Rating": 6.6,
+    "Director": "Christian Tafdrup",
+    "Votes": "27,616",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Life I",
+    "Movie Year": 2017,
+    "Runtime": 104,
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Rating": 6.6,
+    "Director": "Daniel Espinosa",
+    "Votes": "2,40,377",
+    "Gross": "$30.23M"
+  },
+  {
+    "Movie Title": "Resident Evil",
+    "Movie Year": 2002,
+    "Runtime": 100,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 6.6,
+    "Director": "Paul W.S. Anderson",
+    "Votes": "2,79,094",
+    "Gross": "$40.12M"
+  },
+  {
+    "Movie Title": "You're Next",
+    "Movie Year": 2011,
+    "Runtime": 95,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.6,
+    "Director": "Adam Wingard",
+    "Votes": "1,04,174",
+    "Gross": "$18.47M"
+  },
+  {
+    "Movie Title": "The Faculty",
+    "Movie Year": 1998,
+    "Runtime": 104,
+    "Genre": "Horror, Mystery, Sci-Fi",
+    "Rating": 6.6,
+    "Director": "Robert Rodriguez",
+    "Votes": "1,28,887",
+    "Gross": "$40.06M"
+  },
+  {
+    "Movie Title": "Glass",
+    "Movie Year": 2019,
+    "Runtime": 129,
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Rating": 6.6,
+    "Director": "M. Night Shyamalan",
+    "Votes": "2,54,065",
+    "Gross": "$111.05M"
+  },
+  {
+    "Movie Title": "Drag Me to Hell",
+    "Movie Year": 2009,
+    "Runtime": 99,
+    "Genre": "Horror",
+    "Rating": 6.6,
+    "Director": "Sam Raimi",
+    "Votes": "2,10,357",
+    "Gross": "$42.10M"
+  },
+  {
+    "Movie Title": "30 Days of Night",
+    "Movie Year": 2007,
+    "Runtime": 113,
+    "Genre": "Action, Adventure, Horror",
+    "Rating": 6.6,
+    "Director": "David Slade",
+    "Votes": "1,82,693",
+    "Gross": "$39.57M"
+  },
+  {
+    "Movie Title": "What Lies Beneath",
+    "Movie Year": 2000,
+    "Runtime": 130,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6.6,
+    "Director": "Robert Zemeckis",
+    "Votes": "1,30,856",
+    "Gross": "$155.46M"
+  },
+  {
+    "Movie Title": "Death Becomes Her",
+    "Movie Year": 1992,
+    "Runtime": 104,
+    "Genre": "Comedy, Fantasy, Horror",
+    "Rating": 6.6,
+    "Director": "Robert Zemeckis",
+    "Votes": "1,24,437",
+    "Gross": "$58.42M"
+  },
+  {
+    "Movie Title": "Child's Play",
+    "Movie Year": 1988,
+    "Runtime": 87,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.6,
+    "Director": "Tom Holland",
+    "Votes": "1,08,877",
+    "Gross": "$33.24M"
+  },
+  {
+    "Movie Title": "The Invitation I",
+    "Movie Year": 2015,
+    "Runtime": 100,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6.6,
+    "Director": "Karyn Kusama",
+    "Votes": "1,14,221",
+    "Gross": "$0.23M"
+  },
+  {
+    "Movie Title": "Happy Death Day",
+    "Movie Year": 2017,
+    "Runtime": 96,
+    "Genre": "Comedy, Horror, Mystery",
+    "Rating": 6.6,
+    "Director": "Christopher Landon",
+    "Votes": "1,51,732",
+    "Gross": "$55.68M"
+  },
+  {
+    "Movie Title": "Overlord",
+    "Movie Year": 2018,
+    "Runtime": 110,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 6.6,
+    "Director": "Julius Avery",
+    "Votes": "1,02,874",
+    "Gross": "$21.70M"
+  },
+  {
+    "Movie Title": "Hush I",
+    "Movie Year": 2016,
+    "Runtime": 82,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.6,
+    "Director": "Mike Flanagan",
+    "Votes": "1,44,505",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Prince of Darkness",
+    "Movie Year": 1987,
+    "Runtime": 102,
+    "Genre": "Horror",
+    "Rating": 6.6,
+    "Director": "John Carpenter",
+    "Votes": "47,009",
+    "Gross": "$14.18M"
+  },
+  {
+    "Movie Title": "Saw II",
+    "Movie Year": 2005,
+    "Runtime": 93,
+    "Genre": "Horror, Mystery",
+    "Rating": 6.6,
+    "Director": "Darren Lynn Bousman",
+    "Votes": "2,60,764",
+    "Gross": "$87.04M"
+  },
+  {
+    "Movie Title": "From Beyond",
+    "Movie Year": 1986,
+    "Runtime": 85,
+    "Genre": "Horror, Sci-Fi",
+    "Rating": 6.6,
+    "Director": "Stuart Gordon",
+    "Votes": "28,213",
+    "Gross": "$1.26M"
+  },
+  {
+    "Movie Title": "A Nightmare on Elm Street 3: Dream Warriors",
+    "Movie Year": 1987,
+    "Runtime": 96,
+    "Genre": "Fantasy, Horror",
+    "Rating": 6.6,
+    "Director": "Chuck Russell",
+    "Votes": "85,536",
+    "Gross": "$44.79M"
+  },
+  {
+    "Movie Title": "Hotel Transylvania 2",
+    "Movie Year": 2015,
+    "Runtime": 89,
+    "Genre": "Animation, Adventure, Comedy",
+    "Rating": 6.6,
+    "Director": "Genndy Tartakovsky",
+    "Votes": "1,34,482",
+    "Gross": "$169.70M"
+  },
+  {
+    "Movie Title": "The Hunger",
+    "Movie Year": 1983,
+    "Runtime": 97,
+    "Genre": "Drama, Horror",
+    "Rating": 6.6,
+    "Director": "Tony Scott",
+    "Votes": "27,761",
+    "Gross": "$5.98M"
+  },
+  {
+    "Movie Title": "The Blob",
+    "Movie Year": 1988,
+    "Runtime": 95,
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Rating": 6.6,
+    "Director": "Chuck Russell",
+    "Votes": "40,349",
+    "Gross": "$8.25M"
+  },
+  {
+    "Movie Title": "The Loved Ones",
+    "Movie Year": 2009,
+    "Runtime": 84,
+    "Genre": "Crime, Horror",
+    "Rating": 6.6,
+    "Director": "Sean Byrne",
+    "Votes": "42,492",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Psycho II",
+    "Movie Year": 1983,
+    "Runtime": 113,
+    "Genre": "Crime, Horror, Mystery",
+    "Rating": 6.6,
+    "Director": "Richard Franklin",
+    "Votes": "28,989",
+    "Gross": "$34.73M"
+  },
+  {
+    "Movie Title": "May",
+    "Movie Year": 2002,
+    "Runtime": 93,
+    "Genre": "Comedy, Drama, Horror",
+    "Rating": 6.6,
+    "Director": "Lucky McKee",
+    "Votes": "38,779",
+    "Gross": "$0.15M"
+  },
+  {
+    "Movie Title": "Phantasm",
+    "Movie Year": 1979,
+    "Runtime": 89,
+    "Genre": "Horror, Sci-Fi",
+    "Rating": 6.6,
+    "Director": "Don Coscarelli",
+    "Votes": "39,050",
+    "Gross": "$11.99M"
+  },
+  {
+    "Movie Title": "Rare Exports",
+    "Movie Year": 2010,
+    "Runtime": 84,
+    "Genre": "Adventure, Fantasy, Horror",
+    "Rating": 6.6,
+    "Director": "Jalmari Helander",
+    "Votes": "30,491",
+    "Gross": "$0.26M"
+  },
+  {
+    "Movie Title": "The Girl with All the Gifts",
+    "Movie Year": 2016,
+    "Runtime": 111,
+    "Genre": "Action, Adventure, Drama",
+    "Rating": 6.6,
+    "Director": "Colm McCarthy",
+    "Votes": "62,316",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Fear Street: Part Three - 1666",
+    "Movie Year": 2021,
+    "Runtime": 114,
+    "Genre": "Horror, Mystery",
+    "Rating": 6.6,
+    "Director": "Leigh Janiak",
+    "Votes": "57,741",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Demons",
+    "Movie Year": 1985,
+    "Runtime": 88,
+    "Genre": "Horror",
+    "Rating": 6.6,
+    "Director": "Lamberto Bava",
+    "Votes": "25,101",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Eye",
+    "Movie Year": 2002,
+    "Runtime": 99,
+    "Genre": "Fantasy, Horror, Mystery",
+    "Rating": 6.6,
+    "Director": "Danny Pang",
+    "Votes": "29,645",
+    "Gross": "$0.51M"
+  },
+  {
+    "Movie Title": "Smile V",
+    "Movie Year": 2022,
+    "Runtime": 115,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.5,
+    "Director": "Parker Finn",
+    "Votes": "1,30,696",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Evil Dead",
+    "Movie Year": 2013,
+    "Runtime": 91,
+    "Genre": "Horror",
+    "Rating": 6.5,
+    "Director": "Fede Alvarez",
+    "Votes": "1,87,737",
+    "Gross": "$54.24M"
+  },
+  {
+    "Movie Title": "It Chapter Two",
+    "Movie Year": 2019,
+    "Runtime": 169,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 6.5,
+    "Director": "Andy Muschietti",
+    "Votes": "2,81,137",
+    "Gross": "$211.59M"
+  },
+  {
+    "Movie Title": "Gerald's Game",
+    "Movie Year": 2017,
+    "Runtime": 103,
+    "Genre": "Drama, Horror, Thriller",
+    "Rating": 6.5,
+    "Director": "Mike Flanagan",
+    "Votes": "1,17,039",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Hunt II",
+    "Movie Year": 2020,
+    "Runtime": 90,
+    "Genre": "Action, Horror, Thriller",
+    "Rating": 6.5,
+    "Director": "Craig Zobel",
+    "Votes": "1,20,400",
+    "Gross": "$5.81M"
+  },
+  {
+    "Movie Title": "Silent Hill",
+    "Movie Year": 2006,
+    "Runtime": 125,
+    "Genre": "Horror, Mystery",
+    "Rating": 6.5,
+    "Director": "Christophe Gans",
+    "Votes": "2,36,727",
+    "Gross": "$46.98M"
+  },
+  {
+    "Movie Title": "Antichrist",
+    "Movie Year": 2009,
+    "Runtime": 108,
+    "Genre": "Drama, Horror, Thriller",
+    "Rating": 6.5,
+    "Director": "Lars von Trier",
+    "Votes": "1,31,305",
+    "Gross": "$0.40M"
+  },
+  {
+    "Movie Title": "Insidious: Chapter 2",
+    "Movie Year": 2013,
+    "Runtime": 106,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.5,
+    "Director": "James Wan",
+    "Votes": "1,77,423",
+    "Gross": "$83.59M"
+  },
+  {
+    "Movie Title": "The Last House on the Left",
+    "Movie Year": 2009,
+    "Runtime": 110,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.5,
+    "Director": "Dennis Iliadis",
+    "Votes": "96,680",
+    "Gross": "$32.75M"
+  },
+  {
+    "Movie Title": "The Night House",
+    "Movie Year": 2020,
+    "Runtime": 107,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.5,
+    "Director": "David Bruckner",
+    "Votes": "60,235",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Host II",
+    "Movie Year": 2020,
+    "Runtime": 57,
+    "Genre": "Horror, Mystery",
+    "Rating": 6.5,
+    "Director": "Rob Savage",
+    "Votes": "34,122",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Mandy I",
+    "Movie Year": 2018,
+    "Runtime": 121,
+    "Genre": "Action, Fantasy, Horror",
+    "Rating": 6.5,
+    "Director": "Panos Cosmatos",
+    "Votes": "83,932",
+    "Gross": "$1.21M"
+  },
+  {
+    "Movie Title": "The Girl Next Door",
+    "Movie Year": 2007,
+    "Runtime": 91,
+    "Genre": "Crime, Drama, Horror",
+    "Rating": 6.5,
+    "Director": "Gregory Wilson",
+    "Votes": "27,817",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Titane",
+    "Movie Year": 2021,
+    "Runtime": 108,
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Rating": 6.5,
+    "Director": "Julia Ducournau",
+    "Votes": "50,494",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Slither",
+    "Movie Year": 2006,
+    "Runtime": 95,
+    "Genre": "Comedy, Horror, Sci-Fi",
+    "Rating": 6.5,
+    "Director": "James Gunn",
+    "Votes": "85,847",
+    "Gross": "$7.77M"
+  },
+  {
+    "Movie Title": "The Blair Witch Project",
+    "Movie Year": 1999,
+    "Runtime": 81,
+    "Genre": "Horror, Mystery",
+    "Rating": 6.5,
+    "Director": "Daniel Myrick",
+    "Votes": "2,71,349",
+    "Gross": "$140.54M"
+  },
+  {
+    "Movie Title": "The Endless I",
+    "Movie Year": 2017,
+    "Runtime": 111,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 6.5,
+    "Director": "Justin Benson",
+    "Votes": "46,030",
+    "Gross": "$0.27M"
+  },
+  {
+    "Movie Title": "Oculus",
+    "Movie Year": 2013,
+    "Runtime": 104,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.5,
+    "Director": "Mike Flanagan",
+    "Votes": "1,33,932",
+    "Gross": "$27.70M"
+  },
+  {
+    "Movie Title": "The Howling",
+    "Movie Year": 1981,
+    "Runtime": 91,
+    "Genre": "Horror",
+    "Rating": 6.5,
+    "Director": "Joe Dante",
+    "Votes": "38,157",
+    "Gross": "$17.99M"
+  },
+  {
+    "Movie Title": "Annabelle: Creation",
+    "Movie Year": 2017,
+    "Runtime": 109,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.5,
+    "Director": "David F. Sandberg",
+    "Votes": "1,41,513",
+    "Gross": "$102.09M"
+  },
+  {
+    "Movie Title": "Possessor",
+    "Movie Year": 2020,
+    "Runtime": 103,
+    "Genre": "Horror, Mystery, Sci-Fi",
+    "Rating": 6.5,
+    "Director": "Brandon Cronenberg",
+    "Votes": "41,017",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Crimson Peak",
+    "Movie Year": 2015,
+    "Runtime": 119,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6.5,
+    "Director": "Guillermo del Toro",
+    "Votes": "1,53,040",
+    "Gross": "$31.09M"
+  },
+  {
+    "Movie Title": "Halloween I",
+    "Movie Year": 2018,
+    "Runtime": 106,
+    "Genre": "Crime, Horror, Thriller",
+    "Rating": 6.5,
+    "Director": "David Gordon Green",
+    "Votes": "1,60,731",
+    "Gross": "$159.34M"
+  },
+  {
+    "Movie Title": "Pet Sematary",
+    "Movie Year": 1989,
+    "Runtime": 103,
+    "Genre": "Fantasy, Horror, Thriller",
+    "Rating": 6.5,
+    "Director": "Mary Lambert",
+    "Votes": "1,09,162",
+    "Gross": "$57.47M"
+  },
+  {
+    "Movie Title": "The Final Girls",
+    "Movie Year": 2015,
+    "Runtime": 91,
+    "Genre": "Comedy, Fantasy, Horror",
+    "Rating": 6.5,
+    "Director": "Todd Strauss-Schulson",
+    "Votes": "48,852",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Arachnophobia",
+    "Movie Year": 1990,
+    "Runtime": 109,
+    "Genre": "Comedy, Horror, Thriller",
+    "Rating": 6.5,
+    "Director": "Frank Marshall",
+    "Votes": "72,630",
+    "Gross": "$53.21M"
+  },
+  {
+    "Movie Title": "The Crazies",
+    "Movie Year": 2010,
+    "Runtime": 101,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.5,
+    "Director": "Breck Eisner",
+    "Votes": "1,25,273",
+    "Gross": "$39.12M"
+  },
+  {
+    "Movie Title": "His House",
+    "Movie Year": 2020,
+    "Runtime": 93,
+    "Genre": "Drama, Horror, Thriller",
+    "Rating": 6.5,
+    "Director": "Remi Weekes",
+    "Votes": "45,081",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Skeleton Key",
+    "Movie Year": 2005,
+    "Runtime": 104,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6.5,
+    "Director": "Iain Softley",
+    "Votes": "1,18,968",
+    "Gross": "$47.81M"
+  },
+  {
+    "Movie Title": "Better Watch Out II",
+    "Movie Year": 2016,
+    "Runtime": 89,
+    "Genre": "Comedy, Horror, Thriller",
+    "Rating": 6.5,
+    "Director": "Chris Peckover",
+    "Votes": "42,119",
+    "Gross": "$0.02M"
+  },
+  {
+    "Movie Title": "The Exorcist III",
+    "Movie Year": 1990,
+    "Runtime": 110,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6.5,
+    "Director": "William Peter Blatty",
+    "Votes": "34,521",
+    "Gross": "$26.10M"
+  },
+  {
+    "Movie Title": "The Witches of Eastwick",
+    "Movie Year": 1987,
+    "Runtime": 118,
+    "Genre": "Comedy, Fantasy, Horror",
+    "Rating": 6.5,
+    "Director": "George Miller",
+    "Votes": "73,547",
+    "Gross": "$63.77M"
+  },
+  {
+    "Movie Title": "Halloween II",
+    "Movie Year": 1981,
+    "Runtime": 92,
+    "Genre": "Horror",
+    "Rating": 6.5,
+    "Director": "Rick Rosenthal",
+    "Votes": "96,004",
+    "Gross": "$25.53M"
+  },
+  {
+    "Movie Title": "Flatliners",
+    "Movie Year": 1990,
+    "Runtime": 115,
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Rating": 6.5,
+    "Director": "Joel Schumacher",
+    "Votes": "90,146",
+    "Gross": "$61.49M"
+  },
+  {
+    "Movie Title": "Dead End I",
+    "Movie Year": 2003,
+    "Runtime": 85,
+    "Genre": "Adventure, Horror, Mystery",
+    "Rating": 6.5,
+    "Director": "Jean-Baptiste Andrea",
+    "Votes": "30,416",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Byzantium",
+    "Movie Year": 2012,
+    "Runtime": 118,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 6.5,
+    "Director": "Neil Jordan",
+    "Votes": "44,832",
+    "Gross": "$0.08M"
+  },
+  {
+    "Movie Title": "Time Lapse",
+    "Movie Year": 2014,
+    "Runtime": 104,
+    "Genre": "Horror, Mystery, Sci-Fi",
+    "Rating": 6.5,
+    "Director": "Bradley King",
+    "Votes": "47,416",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Bad Taste",
+    "Movie Year": 1987,
+    "Runtime": 91,
+    "Genre": "Comedy, Horror, Sci-Fi",
+    "Rating": 6.5,
+    "Director": "Peter Jackson",
+    "Votes": "48,108",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Pontypool",
+    "Movie Year": 2008,
+    "Runtime": 93,
+    "Genre": "Horror, Sci-Fi",
+    "Rating": 6.5,
+    "Director": "Bruce McDonald",
+    "Votes": "33,734",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "[Rec]²",
+    "Movie Year": 2009,
+    "Runtime": 85,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.5,
+    "Director": "Jaume Balagueró",
+    "Votes": "75,857",
+    "Gross": "$0.03M"
+  },
+  {
+    "Movie Title": "Sightseers",
+    "Movie Year": 2012,
+    "Runtime": 88,
+    "Genre": "Adventure, Comedy, Crime",
+    "Rating": 6.5,
+    "Director": "Ben Wheatley",
+    "Votes": "29,544",
+    "Gross": "$0.04M"
+  },
+  {
+    "Movie Title": "Renfield",
+    "Movie Year": 2023,
+    "Runtime": 93,
+    "Genre": "Comedy, Fantasy, Horror",
+    "Rating": 6.4,
+    "Director": "Chris McKay",
+    "Votes": "47,540",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "M3GAN",
+    "Movie Year": 2022,
+    "Runtime": 102,
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Rating": 6.4,
+    "Director": "Gerard Johnstone",
+    "Votes": "1,06,598",
+    "Gross": "$93.88M"
+  },
+  {
+    "Movie Title": "Alien: Covenant",
+    "Movie Year": 2017,
+    "Runtime": 122,
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Rating": 6.4,
+    "Director": "Ridley Scott",
+    "Votes": "2,90,465",
+    "Gross": "$74.26M"
+  },
+  {
+    "Movie Title": "Escape Room I",
+    "Movie Year": 2019,
+    "Runtime": 99,
+    "Genre": "Action, Adventure, Horror",
+    "Rating": 6.4,
+    "Director": "Adam Robitel",
+    "Votes": "1,31,872",
+    "Gross": "$57.01M"
+  },
+  {
+    "Movie Title": "Friday the 13th",
+    "Movie Year": 1980,
+    "Runtime": 95,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.4,
+    "Director": "Sean S. Cunningham",
+    "Votes": "1,46,665",
+    "Gross": "$39.75M"
+  },
+  {
+    "Movie Title": "The Craft",
+    "Movie Year": 1996,
+    "Runtime": 101,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 6.4,
+    "Director": "Andrew Fleming",
+    "Votes": "99,986",
+    "Gross": "$24.88M"
+  },
+  {
+    "Movie Title": "The Hills Have Eyes",
+    "Movie Year": 2006,
+    "Runtime": 107,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.4,
+    "Director": "Alexandre Aja",
+    "Votes": "1,77,032",
+    "Gross": "$41.78M"
+  },
+  {
+    "Movie Title": "Alien³",
+    "Movie Year": 1992,
+    "Runtime": 114,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 6.4,
+    "Director": "David Fincher",
+    "Votes": "3,08,197",
+    "Gross": "$55.47M"
+  },
+  {
+    "Movie Title": "A Cure for Wellness",
+    "Movie Year": 2016,
+    "Runtime": 146,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 6.4,
+    "Director": "Gore Verbinski",
+    "Votes": "1,04,306",
+    "Gross": "$8.11M"
+  },
+  {
+    "Movie Title": "The Cell",
+    "Movie Year": 2000,
+    "Runtime": 107,
+    "Genre": "Crime, Horror, Sci-Fi",
+    "Rating": 6.4,
+    "Director": "Tarsem Singh",
+    "Votes": "1,05,734",
+    "Gross": "$61.33M"
+  },
+  {
+    "Movie Title": "Revenge II",
+    "Movie Year": 2017,
+    "Runtime": 108,
+    "Genre": "Action, Drama, Horror",
+    "Rating": 6.4,
+    "Director": "Coralie Fargeat",
+    "Votes": "45,825",
+    "Gross": "$0.10M"
+  },
+  {
+    "Movie Title": "Fright Night",
+    "Movie Year": 2011,
+    "Runtime": 106,
+    "Genre": "Comedy, Horror",
+    "Rating": 6.4,
+    "Director": "Craig Gillespie",
+    "Votes": "1,09,829",
+    "Gross": "$18.30M"
+  },
+  {
+    "Movie Title": "Twilight Zone: The Movie",
+    "Movie Year": 1983,
+    "Runtime": 101,
+    "Genre": "Horror, Sci-Fi",
+    "Rating": 6.4,
+    "Director": "Joe Dante",
+    "Votes": "39,519",
+    "Gross": "$29.50M"
+  },
+  {
+    "Movie Title": "Incident in a Ghostland",
+    "Movie Year": 2018,
+    "Runtime": 91,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6.4,
+    "Director": "Pascal Laugier",
+    "Votes": "35,958",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Purge: Anarchy",
+    "Movie Year": 2014,
+    "Runtime": 103,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 6.4,
+    "Director": "James DeMonaco",
+    "Votes": "1,56,986",
+    "Gross": "$71.96M"
+  },
+  {
+    "Movie Title": "Gremlins 2: The New Batch",
+    "Movie Year": 1990,
+    "Runtime": 106,
+    "Genre": "Comedy, Fantasy, Horror",
+    "Rating": 6.4,
+    "Director": "Joe Dante",
+    "Votes": "1,08,188",
+    "Gross": "$41.48M"
+  },
+  {
+    "Movie Title": "Black Death",
+    "Movie Year": 2010,
+    "Runtime": 102,
+    "Genre": "Action, Drama, History",
+    "Rating": 6.4,
+    "Director": "Christopher Smith",
+    "Votes": "49,744",
+    "Gross": "$0.02M"
+  },
+  {
+    "Movie Title": "The People Under the Stairs",
+    "Movie Year": 1991,
+    "Runtime": 102,
+    "Genre": "Comedy, Horror, Mystery",
+    "Rating": 6.4,
+    "Director": "Wes Craven",
+    "Votes": "37,305",
+    "Gross": "$24.20M"
+  },
+  {
+    "Movie Title": "Horns",
+    "Movie Year": 2013,
+    "Runtime": 120,
+    "Genre": "Comedy, Crime, Drama",
+    "Rating": 6.4,
+    "Director": "Alexandre Aja",
+    "Votes": "85,762",
+    "Gross": "$0.16M"
+  },
+  {
+    "Movie Title": "The Serpent and the Rainbow",
+    "Movie Year": 1988,
+    "Runtime": 98,
+    "Genre": "Fantasy, Horror",
+    "Rating": 6.4,
+    "Director": "Wes Craven",
+    "Votes": "26,707",
+    "Gross": "$19.60M"
+  },
+  {
+    "Movie Title": "Tale of Tales",
+    "Movie Year": 2015,
+    "Runtime": 134,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 6.4,
+    "Director": "Matteo Garrone",
+    "Votes": "29,867",
+    "Gross": "$0.08M"
+  },
+  {
+    "Movie Title": "Daybreakers",
+    "Movie Year": 2009,
+    "Runtime": 98,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 6.4,
+    "Director": "Michael Spierig",
+    "Votes": "1,31,778",
+    "Gross": "$30.10M"
+  },
+  {
+    "Movie Title": "The Woman in Black",
+    "Movie Year": 2012,
+    "Runtime": 95,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 6.4,
+    "Director": "James Watkins",
+    "Votes": "1,87,998",
+    "Gross": "$54.33M"
+  },
+  {
+    "Movie Title": "Silver Bullet",
+    "Movie Year": 1985,
+    "Runtime": 95,
+    "Genre": "Horror",
+    "Rating": 6.4,
+    "Director": "Daniel Attias",
+    "Votes": "29,605",
+    "Gross": "$5.40M"
+  },
+  {
+    "Movie Title": "Sputnik",
+    "Movie Year": 2020,
+    "Runtime": 113,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6.4,
+    "Director": "Egor Abramenko",
+    "Votes": "25,687",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Kill List",
+    "Movie Year": 2011,
+    "Runtime": 95,
+    "Genre": "Action, Crime, Horror",
+    "Rating": 6.4,
+    "Director": "Ben Wheatley",
+    "Votes": "42,875",
+    "Gross": "$0.03M"
+  },
+  {
+    "Movie Title": "New Nightmare",
+    "Movie Year": 1994,
+    "Runtime": 112,
+    "Genre": "Fantasy, Horror, Mystery",
+    "Rating": 6.4,
+    "Director": "Wes Craven",
+    "Votes": "61,174",
+    "Gross": "$18.09M"
+  },
+  {
+    "Movie Title": "Repo! The Genetic Opera",
+    "Movie Year": 2008,
+    "Runtime": 98,
+    "Genre": "Horror, Musical, Sci-Fi",
+    "Rating": 6.4,
+    "Director": "Darren Lynn Bousman",
+    "Votes": "25,810",
+    "Gross": "$0.14M"
+  },
+  {
+    "Movie Title": "The Mothman Prophecies",
+    "Movie Year": 2002,
+    "Runtime": 119,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6.4,
+    "Director": "Mark Pellington",
+    "Votes": "82,494",
+    "Gross": "$35.75M"
+  },
+  {
+    "Movie Title": "Session 9",
+    "Movie Year": 2001,
+    "Runtime": 97,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6.4,
+    "Director": "Brad Anderson",
+    "Votes": "60,761",
+    "Gross": "$0.38M"
+  },
+  {
+    "Movie Title": "Unsane",
+    "Movie Year": 2018,
+    "Runtime": 98,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6.4,
+    "Director": "Steven Soderbergh",
+    "Votes": "48,245",
+    "Gross": "$7.73M"
+  },
+  {
+    "Movie Title": "Creep 2",
+    "Movie Year": 2017,
+    "Runtime": 78,
+    "Genre": "Crime, Drama, Horror",
+    "Rating": 6.4,
+    "Director": "Patrick Brice",
+    "Votes": "29,300",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Hellbound: Hellraiser II",
+    "Movie Year": 1988,
+    "Runtime": 97,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.4,
+    "Director": "Tony Randel",
+    "Votes": "53,253",
+    "Gross": "$11.09M"
+  },
+  {
+    "Movie Title": "The Awakening I",
+    "Movie Year": 2011,
+    "Runtime": 102,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6.4,
+    "Director": "Nick Murphy",
+    "Votes": "67,806",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Ghost Stories I",
+    "Movie Year": 2017,
+    "Runtime": 98,
+    "Genre": "Drama, Horror",
+    "Rating": 6.4,
+    "Director": "Jeremy Dyson",
+    "Votes": "35,682",
+    "Gross": "$0.14M"
+  },
+  {
+    "Movie Title": "The Prophecy",
+    "Movie Year": 1995,
+    "Runtime": 98,
+    "Genre": "Action, Crime, Drama",
+    "Rating": 6.4,
+    "Director": "Gregory Widen",
+    "Votes": "32,198",
+    "Gross": "$16.12M"
+  },
+  {
+    "Movie Title": "Severance",
+    "Movie Year": 2006,
+    "Runtime": 96,
+    "Genre": "Comedy, Horror",
+    "Rating": 6.4,
+    "Director": "Christopher Smith",
+    "Votes": "39,807",
+    "Gross": "$0.14M"
+  },
+  {
+    "Movie Title": "Them",
+    "Movie Year": 2006,
+    "Runtime": 77,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.4,
+    "Director": "David Moreau",
+    "Votes": "31,377",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Stake Land",
+    "Movie Year": 2010,
+    "Runtime": 98,
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Rating": 6.4,
+    "Director": "Jim Mickle",
+    "Votes": "43,421",
+    "Gross": "$0.02M"
+  },
+  {
+    "Movie Title": "Night Watch",
+    "Movie Year": 2004,
+    "Runtime": 114,
+    "Genre": "Action, Fantasy, Horror",
+    "Rating": 6.4,
+    "Director": "Timur Bekmambetov",
+    "Votes": "54,703",
+    "Gross": "$1.49M"
+  },
+  {
+    "Movie Title": "Resident Evil: Degeneration",
+    "Movie Year": 2008,
+    "Runtime": 98,
+    "Genre": "Animation, Action, Horror",
+    "Rating": 6.4,
+    "Director": "Makoto Kamiya",
+    "Votes": "32,199",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Day Watch",
+    "Movie Year": 2006,
+    "Runtime": 132,
+    "Genre": "Action, Fantasy, Horror",
+    "Rating": 6.4,
+    "Director": "Timur Bekmambetov",
+    "Votes": "34,927",
+    "Gross": "$0.45M"
+  },
+  {
+    "Movie Title": "Scream I",
+    "Movie Year": 2022,
+    "Runtime": 114,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.3,
+    "Director": "Matt Bettinelli-Olpin",
+    "Votes": "1,38,199",
+    "Gross": "$81.64M"
+  },
+  {
+    "Movie Title": "Under the Skin I",
+    "Movie Year": 2013,
+    "Runtime": 108,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6.3,
+    "Director": "Jonathan Glazer",
+    "Votes": "1,49,804",
+    "Gross": "$2.61M"
+  },
+  {
+    "Movie Title": "Watcher I",
+    "Movie Year": 2022,
+    "Runtime": 96,
+    "Genre": "Drama, Horror, Thriller",
+    "Rating": 6.3,
+    "Director": "Chloe Okuno",
+    "Votes": "32,756",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Scream 2",
+    "Movie Year": 1997,
+    "Runtime": 120,
+    "Genre": "Horror, Mystery",
+    "Rating": 6.3,
+    "Director": "Wes Craven",
+    "Votes": "1,97,955",
+    "Gross": "$101.36M"
+  },
+  {
+    "Movie Title": "The Babysitter I",
+    "Movie Year": 2017,
+    "Runtime": 85,
+    "Genre": "Comedy, Horror",
+    "Rating": 6.3,
+    "Director": "McG",
+    "Votes": "1,00,574",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Ritual I",
+    "Movie Year": 2017,
+    "Runtime": 94,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.3,
+    "Director": "David Bruckner",
+    "Votes": "1,08,985",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Lights Out II",
+    "Movie Year": 2016,
+    "Runtime": 81,
+    "Genre": "Horror, Mystery",
+    "Rating": 6.3,
+    "Director": "David F. Sandberg",
+    "Votes": "1,35,897",
+    "Gross": "$67.27M"
+  },
+  {
+    "Movie Title": "The Conjuring: The Devil Made Me Do It",
+    "Movie Year": 2021,
+    "Runtime": 112,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.3,
+    "Director": "Michael Chaves",
+    "Votes": "1,25,072",
+    "Gross": "$65.63M"
+  },
+  {
+    "Movie Title": "Scouts Guide to the Zombie Apocalypse",
+    "Movie Year": 2015,
+    "Runtime": 93,
+    "Genre": "Action, Comedy, Horror",
+    "Rating": 6.3,
+    "Director": "Christopher Landon",
+    "Votes": "52,616",
+    "Gross": "$3.64M"
+  },
+  {
+    "Movie Title": "Freaky",
+    "Movie Year": 2020,
+    "Runtime": 102,
+    "Genre": "Comedy, Horror, Thriller",
+    "Rating": 6.3,
+    "Director": "Christopher Landon",
+    "Votes": "65,509",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Lamb",
+    "Movie Year": 2021,
+    "Runtime": 106,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 6.3,
+    "Director": "Valdimar Jóhannsson",
+    "Votes": "32,600",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Shallows",
+    "Movie Year": 2016,
+    "Runtime": 86,
+    "Genre": "Action, Drama, Horror",
+    "Rating": 6.3,
+    "Director": "Jaume Collet-Serra",
+    "Votes": "1,38,096",
+    "Gross": "$55.12M"
+  },
+  {
+    "Movie Title": "Paranormal Activity",
+    "Movie Year": 2007,
+    "Runtime": 86,
+    "Genre": "Horror, Mystery",
+    "Rating": 6.3,
+    "Director": "Oren Peli",
+    "Votes": "2,47,532",
+    "Gross": "$107.92M"
+  },
+  {
+    "Movie Title": "Creep I",
+    "Movie Year": 2014,
+    "Runtime": 77,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.3,
+    "Director": "Patrick Brice",
+    "Votes": "60,918",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Devil",
+    "Movie Year": 2010,
+    "Runtime": 80,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.3,
+    "Director": "John Erick Dowdle",
+    "Votes": "1,51,728",
+    "Gross": "$33.58M"
+  },
+  {
+    "Movie Title": "Goosebumps",
+    "Movie Year": 2015,
+    "Runtime": 103,
+    "Genre": "Adventure, Comedy, Fantasy",
+    "Rating": 6.3,
+    "Director": "Rob Letterman",
+    "Votes": "91,906",
+    "Gross": "$80.08M"
+  },
+  {
+    "Movie Title": "Cargo I",
+    "Movie Year": 2017,
+    "Runtime": 105,
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Rating": 6.3,
+    "Director": "Ben Howling",
+    "Votes": "45,890",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Predator 2",
+    "Movie Year": 1990,
+    "Runtime": 108,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 6.3,
+    "Director": "Stephen Hopkins",
+    "Votes": "1,74,998",
+    "Gross": "$30.67M"
+  },
+  {
+    "Movie Title": "The Collector I",
+    "Movie Year": 2009,
+    "Runtime": 90,
+    "Genre": "Action, Horror, Thriller",
+    "Rating": 6.3,
+    "Director": "Marcus Dunstan",
+    "Votes": "68,646",
+    "Gross": "$7.71M"
+  },
+  {
+    "Movie Title": "Haunt I",
+    "Movie Year": 2019,
+    "Runtime": 92,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.3,
+    "Director": "Scott Beck",
+    "Votes": "32,410",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Hotel Transylvania 3: Summer Vacation",
+    "Movie Year": 2018,
+    "Runtime": 97,
+    "Genre": "Animation, Adventure, Comedy",
+    "Rating": 6.3,
+    "Director": "Genndy Tartakovsky",
+    "Votes": "79,162",
+    "Gross": "$167.51M"
+  },
+  {
+    "Movie Title": "#Alive",
+    "Movie Year": 2020,
+    "Runtime": 98,
+    "Genre": "Action, Drama, Horror",
+    "Rating": 6.3,
+    "Director": "Il Cho",
+    "Votes": "43,683",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Apostle",
+    "Movie Year": 2018,
+    "Runtime": 130,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 6.3,
+    "Director": "Gareth Evans",
+    "Votes": "55,806",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Hills Have Eyes",
+    "Movie Year": 1977,
+    "Runtime": 90,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.3,
+    "Director": "Wes Craven",
+    "Votes": "37,196",
+    "Gross": "$25.00M"
+  },
+  {
+    "Movie Title": "Lake Mungo",
+    "Movie Year": 2008,
+    "Runtime": 87,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6.3,
+    "Director": "Joel Anderson",
+    "Votes": "25,556",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Dark Skies",
+    "Movie Year": 2013,
+    "Runtime": 97,
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Rating": 6.3,
+    "Director": "Scott Stewart",
+    "Votes": "77,749",
+    "Gross": "$17.41M"
+  },
+  {
+    "Movie Title": "The House of the Devil",
+    "Movie Year": 2009,
+    "Runtime": 95,
+    "Genre": "Horror, Mystery",
+    "Rating": 6.3,
+    "Director": "Ti West",
+    "Votes": "49,019",
+    "Gross": "$0.10M"
+  },
+  {
+    "Movie Title": "Frankenstein",
+    "Movie Year": 1994,
+    "Runtime": 123,
+    "Genre": "Drama, Horror, Romance",
+    "Rating": 6.3,
+    "Director": "Kenneth Branagh",
+    "Votes": "57,239",
+    "Gross": "$22.01M"
+  },
+  {
+    "Movie Title": "The Voices",
+    "Movie Year": 2014,
+    "Runtime": 103,
+    "Genre": "Comedy, Crime, Horror",
+    "Rating": 6.3,
+    "Director": "Marjane Satrapi",
+    "Votes": "59,828",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Berlin Syndrome",
+    "Movie Year": 2017,
+    "Runtime": 116,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6.3,
+    "Director": "Cate Shortland",
+    "Votes": "26,480",
+    "Gross": "$0.03M"
+  },
+  {
+    "Movie Title": "The Uninvited",
+    "Movie Year": 2009,
+    "Runtime": 87,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 6.3,
+    "Director": "Charles Guard",
+    "Votes": "82,545",
+    "Gross": "$28.57M"
+  },
+  {
+    "Movie Title": "Cat's Eye",
+    "Movie Year": 1985,
+    "Runtime": 94,
+    "Genre": "Comedy, Horror, Thriller",
+    "Rating": 6.3,
+    "Director": "Lewis Teague",
+    "Votes": "26,850",
+    "Gross": "$13.09M"
+  },
+  {
+    "Movie Title": "Underworld: Awakening",
+    "Movie Year": 2012,
+    "Runtime": 88,
+    "Genre": "Action, Fantasy, Horror",
+    "Rating": 6.3,
+    "Director": "Måns Mårlind",
+    "Votes": "1,57,941",
+    "Gross": "$62.32M"
+  },
+  {
+    "Movie Title": "The Vanishing",
+    "Movie Year": 1993,
+    "Runtime": 109,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6.3,
+    "Director": "George Sluizer",
+    "Votes": "26,987",
+    "Gross": "$14.54M"
+  },
+  {
+    "Movie Title": "Mindhunters",
+    "Movie Year": 2004,
+    "Runtime": 106,
+    "Genre": "Crime, Horror, Thriller",
+    "Rating": 6.3,
+    "Director": "Renny Harlin",
+    "Votes": "62,706",
+    "Gross": "$4.48M"
+  },
+  {
+    "Movie Title": "The Bar",
+    "Movie Year": 2017,
+    "Runtime": 102,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.3,
+    "Director": "Álex de la Iglesia",
+    "Votes": "28,011",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Blob",
+    "Movie Year": 1958,
+    "Runtime": 86,
+    "Genre": "Horror, Sci-Fi",
+    "Rating": 6.3,
+    "Director": "Irvin S. Yeaworth Jr.",
+    "Votes": "27,852",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Screamers",
+    "Movie Year": 1995,
+    "Runtime": 108,
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Rating": 6.3,
+    "Director": "Christian Duguay",
+    "Votes": "28,447",
+    "Gross": "$5.78M"
+  },
+  {
+    "Movie Title": "Dead Snow",
+    "Movie Year": 2009,
+    "Runtime": 91,
+    "Genre": "Comedy, Fantasy, Horror",
+    "Rating": 6.3,
+    "Director": "Tommy Wirkola",
+    "Votes": "68,631",
+    "Gross": "$0.04M"
+  },
+  {
+    "Movie Title": "13 Sins",
+    "Movie Year": 2014,
+    "Runtime": 93,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.3,
+    "Director": "Daniel Stamm",
+    "Votes": "37,811",
+    "Gross": "$0.01M"
+  },
+  {
+    "Movie Title": "Tideland",
+    "Movie Year": 2005,
+    "Runtime": 120,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 6.3,
+    "Director": "Terry Gilliam",
+    "Votes": "34,068",
+    "Gross": "$0.07M"
+  },
+  {
+    "Movie Title": "John Dies at the End",
+    "Movie Year": 2012,
+    "Runtime": 99,
+    "Genre": "Comedy, Fantasy, Horror",
+    "Rating": 6.3,
+    "Director": "Don Coscarelli",
+    "Votes": "39,473",
+    "Gross": "$0.14M"
+  },
+  {
+    "Movie Title": "Bodies Bodies Bodies",
+    "Movie Year": 2022,
+    "Runtime": 94,
+    "Genre": "Comedy, Horror, Thriller",
+    "Rating": 6.2,
+    "Director": "Halina Reijn",
+    "Votes": "51,654",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Scream 4",
+    "Movie Year": 2011,
+    "Runtime": 111,
+    "Genre": "Comedy, Horror, Mystery",
+    "Rating": 6.2,
+    "Director": "Wes Craven",
+    "Votes": "1,62,144",
+    "Gross": "$38.18M"
+  },
+  {
+    "Movie Title": "Malignant I",
+    "Movie Year": 2021,
+    "Runtime": 111,
+    "Genre": "Crime, Horror, Mystery",
+    "Rating": 6.2,
+    "Director": "James Wan",
+    "Votes": "98,740",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Empty Man",
+    "Movie Year": 2020,
+    "Runtime": 137,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6.2,
+    "Director": "David Prior",
+    "Votes": "33,524",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "I Spit on Your Grave",
+    "Movie Year": 2010,
+    "Runtime": 108,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.2,
+    "Director": "Steven R. Monroe",
+    "Votes": "88,102",
+    "Gross": "$0.09M"
+  },
+  {
+    "Movie Title": "The Visit I",
+    "Movie Year": 2015,
+    "Runtime": 94,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.2,
+    "Director": "M. Night Shyamalan",
+    "Votes": "1,42,097",
+    "Gross": "$65.21M"
+  },
+  {
+    "Movie Title": "Jeepers Creepers",
+    "Movie Year": 2001,
+    "Runtime": 90,
+    "Genre": "Horror, Mystery",
+    "Rating": 6.2,
+    "Director": "Victor Salva",
+    "Votes": "1,35,446",
+    "Gross": "$37.90M"
+  },
+  {
+    "Movie Title": "The Thing I",
+    "Movie Year": 2011,
+    "Runtime": 103,
+    "Genre": "Horror, Mystery, Sci-Fi",
+    "Rating": 6.2,
+    "Director": "Matthijs van Heijningen Jr.",
+    "Votes": "1,39,897",
+    "Gross": "$16.93M"
+  },
+  {
+    "Movie Title": "Mama I",
+    "Movie Year": 2013,
+    "Runtime": 100,
+    "Genre": "Fantasy, Horror, Thriller",
+    "Rating": 6.2,
+    "Director": "Andy Muschietti",
+    "Votes": "1,86,159",
+    "Gross": "$71.63M"
+  },
+  {
+    "Movie Title": "As Above, So Below",
+    "Movie Year": 2014,
+    "Runtime": 93,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.2,
+    "Director": "John Erick Dowdle",
+    "Votes": "1,01,124",
+    "Gross": "$21.20M"
+  },
+  {
+    "Movie Title": "Synchronic",
+    "Movie Year": 2019,
+    "Runtime": 102,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6.2,
+    "Director": "Justin Benson",
+    "Votes": "35,972",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Wolf Creek",
+    "Movie Year": 2005,
+    "Runtime": 99,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.2,
+    "Director": "Greg McLean",
+    "Votes": "75,604",
+    "Gross": "$16.19M"
+  },
+  {
+    "Movie Title": "Dark Shadows",
+    "Movie Year": 2012,
+    "Runtime": 113,
+    "Genre": "Comedy, Fantasy, Horror",
+    "Rating": 6.2,
+    "Director": "Tim Burton",
+    "Votes": "2,73,371",
+    "Gross": "$79.73M"
+  },
+  {
+    "Movie Title": "Alien: Resurrection",
+    "Movie Year": 1997,
+    "Runtime": 109,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 6.2,
+    "Director": "Jean-Pierre Jeunet",
+    "Votes": "2,54,632",
+    "Gross": "$47.75M"
+  },
+  {
+    "Movie Title": "Sleepaway Camp",
+    "Movie Year": 1983,
+    "Runtime": 84,
+    "Genre": "Horror",
+    "Rating": 6.2,
+    "Director": "Robert Hiltzik",
+    "Votes": "35,167",
+    "Gross": "$11.00M"
+  },
+  {
+    "Movie Title": 1922,
+    "Movie Year": 2017,
+    "Runtime": 102,
+    "Genre": "Crime, Drama, Horror",
+    "Rating": 6.2,
+    "Director": "Zak Hilditch",
+    "Votes": "67,579",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Dracula Untold",
+    "Movie Year": 2014,
+    "Runtime": 92,
+    "Genre": "Action, Drama, Fantasy",
+    "Rating": 6.2,
+    "Director": "Gary Shore",
+    "Votes": "2,01,494",
+    "Gross": "$56.28M"
+  },
+  {
+    "Movie Title": "Final Destination 2",
+    "Movie Year": 2003,
+    "Runtime": 90,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.2,
+    "Director": "David R. Ellis",
+    "Votes": "1,74,051",
+    "Gross": "$46.96M"
+  },
+  {
+    "Movie Title": "The Texas Chainsaw Massacre",
+    "Movie Year": 2003,
+    "Runtime": 98,
+    "Genre": "Crime, Horror",
+    "Rating": 6.2,
+    "Director": "Marcus Nispel",
+    "Votes": "1,47,172",
+    "Gross": "$80.57M"
+  },
+  {
+    "Movie Title": "Fear Street: Part One - 1994",
+    "Movie Year": 2021,
+    "Runtime": 107,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6.2,
+    "Director": "Leigh Janiak",
+    "Votes": "86,732",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Scary Stories to Tell in the Dark",
+    "Movie Year": 2019,
+    "Runtime": 108,
+    "Genre": "Adventure, Horror, Mystery",
+    "Rating": 6.2,
+    "Director": "André Øvredal",
+    "Votes": "80,434",
+    "Gross": "$68.95M"
+  },
+  {
+    "Movie Title": "Color Out of Space",
+    "Movie Year": 2019,
+    "Runtime": 111,
+    "Genre": "Horror, Mystery, Sci-Fi",
+    "Rating": 6.2,
+    "Director": "Richard Stanley",
+    "Votes": "52,020",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Deliver Us from Evil I",
+    "Movie Year": 2014,
+    "Runtime": 118,
+    "Genre": "Action, Adventure, Crime",
+    "Rating": 6.2,
+    "Director": "Scott Derrickson",
+    "Votes": "81,017",
+    "Gross": "$30.58M"
+  },
+  {
+    "Movie Title": "It Comes at Night",
+    "Movie Year": 2017,
+    "Runtime": 91,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6.2,
+    "Director": "Trey Edward Shults",
+    "Votes": "98,054",
+    "Gross": "$13.99M"
+  },
+  {
+    "Movie Title": "Verónica I",
+    "Movie Year": 2017,
+    "Runtime": 105,
+    "Genre": "Horror",
+    "Rating": 6.2,
+    "Director": "Paco Plaza",
+    "Votes": "44,074",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Case 39",
+    "Movie Year": 2009,
+    "Runtime": 109,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.2,
+    "Director": "Christian Alvart",
+    "Votes": "90,324",
+    "Gross": "$13.25M"
+  },
+  {
+    "Movie Title": "Ouija: Origin of Evil",
+    "Movie Year": 2016,
+    "Runtime": 99,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6.2,
+    "Director": "Mike Flanagan",
+    "Votes": "68,575",
+    "Gross": "$35.14M"
+  },
+  {
+    "Movie Title": "The Toxic Avenger",
+    "Movie Year": 1984,
+    "Runtime": 82,
+    "Genre": "Action, Comedy, Horror",
+    "Rating": 6.2,
+    "Director": "Michael Herz",
+    "Votes": "30,117",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Killer Klowns from Outer Space",
+    "Movie Year": 1988,
+    "Runtime": 88,
+    "Genre": "Comedy, Horror, Sci-Fi",
+    "Rating": 6.2,
+    "Director": "Stephen Chiodo",
+    "Votes": "41,538",
+    "Gross": "$15.63M"
+  },
+  {
+    "Movie Title": "Feast",
+    "Movie Year": 2005,
+    "Runtime": 95,
+    "Genre": "Action, Comedy, Horror",
+    "Rating": 6.2,
+    "Director": "John Gulager",
+    "Votes": "32,911",
+    "Gross": "$0.05M"
+  },
+  {
+    "Movie Title": "Rogue",
+    "Movie Year": 2007,
+    "Runtime": 99,
+    "Genre": "Action, Drama, Horror",
+    "Rating": 6.2,
+    "Director": "Greg McLean",
+    "Votes": "32,128",
+    "Gross": "$0.01M"
+  },
+  {
+    "Movie Title": "Resident Evil: Extinction",
+    "Movie Year": 2007,
+    "Runtime": 94,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 6.2,
+    "Director": "Russell Mulcahy",
+    "Votes": "2,00,494",
+    "Gross": "$50.65M"
+  },
+  {
+    "Movie Title": "Idle Hands",
+    "Movie Year": 1999,
+    "Runtime": 92,
+    "Genre": "Comedy, Fantasy, Horror",
+    "Rating": 6.2,
+    "Director": "Rodman Flender",
+    "Votes": "45,083",
+    "Gross": "$4.00M"
+  },
+  {
+    "Movie Title": "The Perfection",
+    "Movie Year": 2018,
+    "Runtime": 90,
+    "Genre": "Drama, Horror, Music",
+    "Rating": 6.2,
+    "Director": "Richard Shepard",
+    "Votes": "46,777",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Saw III",
+    "Movie Year": 2006,
+    "Runtime": 108,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.2,
+    "Director": "Darren Lynn Bousman",
+    "Votes": "1,99,970",
+    "Gross": "$80.24M"
+  },
+  {
+    "Movie Title": "American Mary",
+    "Movie Year": 2012,
+    "Runtime": 103,
+    "Genre": "Drama, Horror",
+    "Rating": 6.2,
+    "Director": "Jen Soska",
+    "Votes": "26,866",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Before I Wake",
+    "Movie Year": 2016,
+    "Runtime": 97,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 6.2,
+    "Director": "Mike Flanagan",
+    "Votes": "49,193",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Vacancy",
+    "Movie Year": 2007,
+    "Runtime": 85,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.2,
+    "Director": "Nimród Antal",
+    "Votes": "1,04,096",
+    "Gross": "$19.36M"
+  },
+  {
+    "Movie Title": "Wolf",
+    "Movie Year": 1994,
+    "Runtime": 125,
+    "Genre": "Drama, Horror, Romance",
+    "Rating": 6.2,
+    "Director": "Mike Nichols",
+    "Votes": "58,267",
+    "Gross": "$65.01M"
+  },
+  {
+    "Movie Title": "Land of the Dead",
+    "Movie Year": 2005,
+    "Runtime": 93,
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Rating": 6.2,
+    "Director": "George A. Romero",
+    "Votes": "98,740",
+    "Gross": "$20.70M"
+  },
+  {
+    "Movie Title": "Frontier(s)",
+    "Movie Year": 2007,
+    "Runtime": 108,
+    "Genre": "Horror",
+    "Rating": 6.2,
+    "Director": "Xavier Gens",
+    "Votes": "27,825",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Stigmata",
+    "Movie Year": 1999,
+    "Runtime": 103,
+    "Genre": "Horror, Mystery",
+    "Rating": 6.2,
+    "Director": "Rupert Wainwright",
+    "Votes": "70,383",
+    "Gross": "$50.05M"
+  },
+  {
+    "Movie Title": "Happy Death Day 2U",
+    "Movie Year": 2019,
+    "Runtime": 100,
+    "Genre": "Comedy, Horror, Mystery",
+    "Rating": 6.2,
+    "Director": "Christopher Landon",
+    "Votes": "79,669",
+    "Gross": "$28.15M"
+  },
+  {
+    "Movie Title": "Damien: Omen II",
+    "Movie Year": 1978,
+    "Runtime": 107,
+    "Genre": "Horror",
+    "Rating": 6.2,
+    "Director": "Don Taylor",
+    "Votes": "33,729",
+    "Gross": "$3.88M"
+  },
+  {
+    "Movie Title": "Pumpkinhead",
+    "Movie Year": 1988,
+    "Runtime": 86,
+    "Genre": "Fantasy, Horror",
+    "Rating": 6.2,
+    "Director": "Stan Winston",
+    "Votes": "25,833",
+    "Gross": "$4.39M"
+  },
+  {
+    "Movie Title": "Krampus I",
+    "Movie Year": 2015,
+    "Runtime": 98,
+    "Genre": "Comedy, Drama, Fantasy",
+    "Rating": 6.2,
+    "Director": "Michael Dougherty",
+    "Votes": "79,013",
+    "Gross": "$42.59M"
+  },
+  {
+    "Movie Title": "Needful Things",
+    "Movie Year": 1993,
+    "Runtime": 120,
+    "Genre": "Crime, Drama, Fantasy",
+    "Rating": 6.2,
+    "Director": "Fraser C. Heston",
+    "Votes": "26,291",
+    "Gross": "$15.19M"
+  },
+  {
+    "Movie Title": "Open Grave",
+    "Movie Year": 2013,
+    "Runtime": 102,
+    "Genre": "Horror, Mystery, Sci-Fi",
+    "Rating": 6.2,
+    "Director": "Gonzalo López-Gallego",
+    "Votes": "30,633",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Pope's Exorcist",
+    "Movie Year": 2023,
+    "Runtime": 103,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.1,
+    "Director": "Julius Avery",
+    "Votes": "39,847",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Knock at the Cabin",
+    "Movie Year": 2023,
+    "Runtime": 100,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.1,
+    "Director": "M. Night Shyamalan",
+    "Votes": "79,345",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Terrifier 2",
+    "Movie Year": 2022,
+    "Runtime": 138,
+    "Genre": "Horror",
+    "Rating": 6.1,
+    "Director": "Damien Leone",
+    "Votes": "36,262",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Infinity Pool",
+    "Movie Year": 2023,
+    "Runtime": 117,
+    "Genre": "Crime, Horror, Mystery",
+    "Rating": 6.1,
+    "Director": "Brandon Cronenberg",
+    "Votes": "31,699",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Men",
+    "Movie Year": 2022,
+    "Runtime": 100,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 6.1,
+    "Director": "Alex Garland",
+    "Votes": "51,808",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "We Have a Ghost",
+    "Movie Year": 2023,
+    "Runtime": 126,
+    "Genre": "Adventure, Comedy, Family",
+    "Rating": 6.1,
+    "Director": "Christopher Landon",
+    "Votes": "26,782",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Wrong Turn I",
+    "Movie Year": 2003,
+    "Runtime": 84,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.1,
+    "Director": "Rob Schmidt",
+    "Votes": "1,25,830",
+    "Gross": "$15.42M"
+  },
+  {
+    "Movie Title": "Lifeforce",
+    "Movie Year": 1985,
+    "Runtime": 101,
+    "Genre": "Action, Horror, Mystery",
+    "Rating": 6.1,
+    "Director": "Tobe Hooper",
+    "Votes": "27,500",
+    "Gross": "$11.60M"
+  },
+  {
+    "Movie Title": "The Neon Demon",
+    "Movie Year": 2016,
+    "Runtime": 117,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.1,
+    "Director": "Nicolas Winding Refn",
+    "Votes": "99,889",
+    "Gross": "$1.33M"
+  },
+  {
+    "Movie Title": "Brightburn",
+    "Movie Year": 2019,
+    "Runtime": 90,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6.1,
+    "Director": "David Yarovesky",
+    "Votes": "1,02,749",
+    "Gross": "$17.30M"
+  },
+  {
+    "Movie Title": "The Strangers",
+    "Movie Year": 2008,
+    "Runtime": 86,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.1,
+    "Director": "Bryan Bertino",
+    "Votes": "1,36,286",
+    "Gross": "$52.60M"
+  },
+  {
+    "Movie Title": "Day Shift",
+    "Movie Year": 2022,
+    "Runtime": 113,
+    "Genre": "Action, Comedy, Fantasy",
+    "Rating": 6.1,
+    "Director": "J.J. Perry",
+    "Votes": "83,554",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Insidious: Chapter 3",
+    "Movie Year": 2015,
+    "Runtime": 97,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.1,
+    "Director": "Leigh Whannell",
+    "Votes": "1,09,420",
+    "Gross": "$52.22M"
+  },
+  {
+    "Movie Title": "Friday the 13th Part 2",
+    "Movie Year": 1981,
+    "Runtime": 87,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.1,
+    "Director": "Steve Miner",
+    "Votes": "72,452",
+    "Gross": "$21.72M"
+  },
+  {
+    "Movie Title": "Crawl I",
+    "Movie Year": 2019,
+    "Runtime": 87,
+    "Genre": "Action, Adventure, Horror",
+    "Rating": 6.1,
+    "Director": "Alexandre Aja",
+    "Votes": "88,669",
+    "Gross": "$39.01M"
+  },
+  {
+    "Movie Title": "Hansel & Gretel: Witch Hunters",
+    "Movie Year": 2013,
+    "Runtime": 88,
+    "Genre": "Action, Fantasy, Horror",
+    "Rating": 6.1,
+    "Director": "Tommy Wirkola",
+    "Votes": "2,11,488",
+    "Gross": "$55.70M"
+  },
+  {
+    "Movie Title": "Blood Red Sky",
+    "Movie Year": 2021,
+    "Runtime": 121,
+    "Genre": "Action, Adventure, Drama",
+    "Rating": 6.1,
+    "Director": "Peter Thorwarth",
+    "Votes": "51,766",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Resident Evil: Apocalypse",
+    "Movie Year": 2004,
+    "Runtime": 94,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 6.1,
+    "Director": "Alexander Witt",
+    "Votes": "2,04,741",
+    "Gross": "$51.20M"
+  },
+  {
+    "Movie Title": "Maniac",
+    "Movie Year": 2012,
+    "Runtime": 89,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.1,
+    "Director": "Franck Khalfoun",
+    "Votes": "39,045",
+    "Gross": "$0.02M"
+  },
+  {
+    "Movie Title": "The Oxford Murders",
+    "Movie Year": 2008,
+    "Runtime": 108,
+    "Genre": "Crime, Horror, Mystery",
+    "Rating": 6.1,
+    "Director": "Álex de la Iglesia",
+    "Votes": "29,932",
+    "Gross": "$0.00M"
+  },
+  {
+    "Movie Title": "The Belko Experiment",
+    "Movie Year": 2016,
+    "Runtime": 89,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.1,
+    "Director": "Greg McLean",
+    "Votes": "54,266",
+    "Gross": "$10.16M"
+  },
+  {
+    "Movie Title": "Dead Silence",
+    "Movie Year": 2007,
+    "Runtime": 89,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6.1,
+    "Director": "James Wan",
+    "Votes": "98,073",
+    "Gross": "$16.81M"
+  },
+  {
+    "Movie Title": "Mirrors I",
+    "Movie Year": 2008,
+    "Runtime": 110,
+    "Genre": "Horror, Mystery",
+    "Rating": 6.1,
+    "Director": "Alexandre Aja",
+    "Votes": "1,10,546",
+    "Gross": "$30.69M"
+  },
+  {
+    "Movie Title": "The Amityville Horror",
+    "Movie Year": 1979,
+    "Runtime": 117,
+    "Genre": "Horror",
+    "Rating": 6.1,
+    "Director": "Stuart Rosenberg",
+    "Votes": "41,808",
+    "Gross": "$86.43M"
+  },
+  {
+    "Movie Title": "Critters",
+    "Movie Year": 1986,
+    "Runtime": 86,
+    "Genre": "Comedy, Horror, Sci-Fi",
+    "Rating": 6.1,
+    "Director": "Stephen Herek",
+    "Votes": "37,388",
+    "Gross": "$13.17M"
+  },
+  {
+    "Movie Title": "Deep Rising",
+    "Movie Year": 1998,
+    "Runtime": 106,
+    "Genre": "Action, Adventure, Horror",
+    "Rating": 6.1,
+    "Director": "Stephen Sommers",
+    "Votes": "39,064",
+    "Gross": "$11.20M"
+  },
+  {
+    "Movie Title": "Grave Encounters",
+    "Movie Year": 2011,
+    "Runtime": 92,
+    "Genre": "Horror, Mystery",
+    "Rating": 6.1,
+    "Director": "Colin Minihan",
+    "Votes": "60,845",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Vampires",
+    "Movie Year": 1998,
+    "Runtime": 108,
+    "Genre": "Action, Horror, Thriller",
+    "Rating": 6.1,
+    "Director": "John Carpenter",
+    "Votes": "61,502",
+    "Gross": "$20.24M"
+  },
+  {
+    "Movie Title": "House",
+    "Movie Year": 1985,
+    "Runtime": 93,
+    "Genre": "Comedy, Fantasy, Horror",
+    "Rating": 6.1,
+    "Director": "Steve Miner",
+    "Votes": "28,520",
+    "Gross": "$19.44M"
+  },
+  {
+    "Movie Title": "Cujo",
+    "Movie Year": 1983,
+    "Runtime": 93,
+    "Genre": "Horror, Thriller",
+    "Rating": 6.1,
+    "Director": "Lewis Teague",
+    "Votes": "48,166",
+    "Gross": "$21.20M"
+  },
+  {
+    "Movie Title": "The Collection II",
+    "Movie Year": 2012,
+    "Runtime": 82,
+    "Genre": "Action, Adventure, Horror",
+    "Rating": 6.1,
+    "Director": "Marcus Dunstan",
+    "Votes": "51,960",
+    "Gross": "$12.84M"
+  },
+  {
+    "Movie Title": "Red State",
+    "Movie Year": 2011,
+    "Runtime": 88,
+    "Genre": "Action, Crime, Horror",
+    "Rating": 6.1,
+    "Director": "Kevin Smith",
+    "Votes": "65,843",
+    "Gross": "$1.10M"
+  },
+  {
+    "Movie Title": "Splinter I",
+    "Movie Year": 2008,
+    "Runtime": 82,
+    "Genre": "Crime, Horror, Sci-Fi",
+    "Rating": 6.1,
+    "Director": "Toby Wilkins",
+    "Votes": "39,450",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Bug",
+    "Movie Year": 2006,
+    "Runtime": 102,
+    "Genre": "Drama, Horror, Thriller",
+    "Rating": 6.1,
+    "Director": "William Friedkin",
+    "Votes": "36,331",
+    "Gross": "$7.01M"
+  },
+  {
+    "Movie Title": "Solomon Kane",
+    "Movie Year": 2009,
+    "Runtime": 104,
+    "Genre": "Action, Adventure, Fantasy",
+    "Rating": 6.1,
+    "Director": "M.J. Bassett",
+    "Votes": "74,932",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Hobo with a Shotgun",
+    "Movie Year": 2011,
+    "Runtime": 86,
+    "Genre": "Action, Comedy, Horror",
+    "Rating": 6.1,
+    "Director": "Jason Eisener",
+    "Votes": "47,548",
+    "Gross": "$0.70M"
+  },
+  {
+    "Movie Title": "Hellraiser",
+    "Movie Year": 2022,
+    "Runtime": 121,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6,
+    "Director": "David Bruckner",
+    "Votes": "42,407",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Don't Breathe 2",
+    "Movie Year": 2021,
+    "Runtime": 98,
+    "Genre": "Action, Crime, Horror",
+    "Rating": 6,
+    "Director": "Rodo Sayagues",
+    "Votes": "63,822",
+    "Gross": "$32.64M"
+  },
+  {
+    "Movie Title": "The Woman I",
+    "Movie Year": 2011,
+    "Runtime": 101,
+    "Genre": "Drama, Horror, Thriller",
+    "Rating": 6,
+    "Director": "Lucky McKee",
+    "Votes": "25,113",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Mr. Harrigan's Phone",
+    "Movie Year": 2022,
+    "Runtime": 104,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6,
+    "Director": "John Lee Hancock",
+    "Votes": "34,530",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Lodge",
+    "Movie Year": 2019,
+    "Runtime": 108,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6,
+    "Director": "Severin Fiala",
+    "Votes": "51,924",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Hotel Transylvania: Transformania",
+    "Movie Year": 2022,
+    "Runtime": 87,
+    "Genre": "Animation, Adventure, Comedy",
+    "Rating": 6,
+    "Director": "Derek Drymon",
+    "Votes": "34,432",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "6 Souls",
+    "Movie Year": 2010,
+    "Runtime": 112,
+    "Genre": "Horror, Thriller",
+    "Rating": 6,
+    "Director": "Måns Mårlind",
+    "Votes": "35,364",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "House of 1000 Corpses",
+    "Movie Year": 2003,
+    "Runtime": 89,
+    "Genre": "Horror",
+    "Rating": 6,
+    "Director": "Rob Zombie",
+    "Votes": "89,420",
+    "Gross": "$12.63M"
+  },
+  {
+    "Movie Title": "Halloween",
+    "Movie Year": 2007,
+    "Runtime": 109,
+    "Genre": "Horror",
+    "Rating": 6,
+    "Director": "Rob Zombie",
+    "Votes": "1,25,977",
+    "Gross": "$58.27M"
+  },
+  {
+    "Movie Title": "The Taking of Deborah Logan",
+    "Movie Year": 2014,
+    "Runtime": 90,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6,
+    "Director": "Adam Robitel",
+    "Votes": "35,691",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Boy",
+    "Movie Year": 2016,
+    "Runtime": 97,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6,
+    "Director": "William Brent Bell",
+    "Votes": "97,224",
+    "Gross": "$35.82M"
+  },
+  {
+    "Movie Title": "Friday the 13th: The Final Chapter",
+    "Movie Year": 1984,
+    "Runtime": 91,
+    "Genre": "Horror, Thriller",
+    "Rating": 6,
+    "Director": "Joseph Zito",
+    "Votes": "55,244",
+    "Gross": "$32.98M"
+  },
+  {
+    "Movie Title": "The Midnight Meat Train",
+    "Movie Year": 2008,
+    "Runtime": 100,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6,
+    "Director": "Ryûhei Kitamura",
+    "Votes": "67,602",
+    "Gross": "$0.08M"
+  },
+  {
+    "Movie Title": "The Purge: Election Year",
+    "Movie Year": 2016,
+    "Runtime": 108,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 6,
+    "Director": "James DeMonaco",
+    "Votes": "1,05,370",
+    "Gross": "$79.21M"
+  },
+  {
+    "Movie Title": "Circle II",
+    "Movie Year": 2015,
+    "Runtime": 87,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6,
+    "Director": "Aaron Hann",
+    "Votes": "61,323",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Unfriended: Dark Web",
+    "Movie Year": 2018,
+    "Runtime": 92,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6,
+    "Director": "Stephen Susco",
+    "Votes": "35,242",
+    "Gross": "$8.78M"
+  },
+  {
+    "Movie Title": "Mimic",
+    "Movie Year": 1997,
+    "Runtime": 105,
+    "Genre": "Horror, Sci-Fi",
+    "Rating": 6,
+    "Director": "Guillermo del Toro",
+    "Votes": "53,560",
+    "Gross": "$25.48M"
+  },
+  {
+    "Movie Title": "Friday the 13th Part VI: Jason Lives",
+    "Movie Year": 1986,
+    "Runtime": 86,
+    "Genre": "Horror, Thriller",
+    "Rating": 6,
+    "Director": "Tom McLoughlin",
+    "Votes": "47,804",
+    "Gross": "$19.47M"
+  },
+  {
+    "Movie Title": "Captive State",
+    "Movie Year": 2019,
+    "Runtime": 109,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 6,
+    "Director": "Rupert Wyatt",
+    "Votes": "55,880",
+    "Gross": "$5.96M"
+  },
+  {
+    "Movie Title": "Saw VI",
+    "Movie Year": 2009,
+    "Runtime": 90,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 6,
+    "Director": "Kevin Greutert",
+    "Votes": "1,16,425",
+    "Gross": "$27.69M"
+  },
+  {
+    "Movie Title": "Creepshow 2",
+    "Movie Year": 1987,
+    "Runtime": 92,
+    "Genre": "Fantasy, Horror",
+    "Rating": 6,
+    "Director": "Michael Gornick",
+    "Votes": "27,039",
+    "Gross": "$14.00M"
+  },
+  {
+    "Movie Title": "The Rite",
+    "Movie Year": 2011,
+    "Runtime": 114,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6,
+    "Director": "Mikael Håfström",
+    "Votes": "1,00,541",
+    "Gross": "$33.05M"
+  },
+  {
+    "Movie Title": "Firestarter",
+    "Movie Year": 1984,
+    "Runtime": 114,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 6,
+    "Director": "Mark L. Lester",
+    "Votes": "35,640",
+    "Gross": "$15.10M"
+  },
+  {
+    "Movie Title": "V/H/S/2",
+    "Movie Year": 2013,
+    "Runtime": 96,
+    "Genre": "Horror, Sci-Fi",
+    "Rating": 6,
+    "Director": "Simon Barrett",
+    "Votes": "41,967",
+    "Gross": "$0.02M"
+  },
+  {
+    "Movie Title": "Relic",
+    "Movie Year": 2020,
+    "Runtime": 89,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 6,
+    "Director": "Natalie Erika James",
+    "Votes": "28,230",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Crimes of the Future",
+    "Movie Year": 2022,
+    "Runtime": 107,
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Rating": 5.9,
+    "Director": "David Cronenberg",
+    "Votes": "35,488",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Orphan: First Kill",
+    "Movie Year": 2022,
+    "Runtime": 99,
+    "Genre": "Crime, Drama, Horror",
+    "Rating": 5.9,
+    "Director": "William Brent Bell",
+    "Votes": "40,062",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Hostel",
+    "Movie Year": 2005,
+    "Runtime": 94,
+    "Genre": "Horror",
+    "Rating": 5.9,
+    "Director": "Eli Roth",
+    "Votes": "1,85,172",
+    "Gross": "$47.33M"
+  },
+  {
+    "Movie Title": "Underwater",
+    "Movie Year": 2020,
+    "Runtime": 95,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 5.9,
+    "Director": "William Eubank",
+    "Votes": "88,253",
+    "Gross": "$17.29M"
+  },
+  {
+    "Movie Title": "Vivarium",
+    "Movie Year": 2019,
+    "Runtime": 97,
+    "Genre": "Horror, Mystery, Sci-Fi",
+    "Rating": 5.9,
+    "Director": "Lorcan Finnegan",
+    "Votes": "64,794",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Abraham Lincoln: Vampire Hunter",
+    "Movie Year": 2012,
+    "Runtime": 105,
+    "Genre": "Action, Fantasy, Horror",
+    "Rating": 5.9,
+    "Director": "Timur Bekmambetov",
+    "Votes": "1,58,657",
+    "Gross": "$37.52M"
+  },
+  {
+    "Movie Title": "Candyman",
+    "Movie Year": 2021,
+    "Runtime": 91,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.9,
+    "Director": "Nia DaCosta",
+    "Votes": "70,762",
+    "Gross": "$61.19M"
+  },
+  {
+    "Movie Title": "The Last House on the Left",
+    "Movie Year": 1972,
+    "Runtime": 84,
+    "Genre": "Crime, Horror, Thriller",
+    "Rating": 5.9,
+    "Director": "Wes Craven",
+    "Votes": "38,780",
+    "Gross": "$3.10M"
+  },
+  {
+    "Movie Title": "The Amityville Horror",
+    "Movie Year": 2005,
+    "Runtime": 90,
+    "Genre": "Horror",
+    "Rating": 5.9,
+    "Director": "Andrew Douglas",
+    "Votes": "1,14,596",
+    "Gross": "$65.23M"
+  },
+  {
+    "Movie Title": "Annabelle Comes Home",
+    "Movie Year": 2019,
+    "Runtime": 106,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.9,
+    "Director": "Gary Dauberman",
+    "Votes": "80,369",
+    "Gross": "$74.15M"
+  },
+  {
+    "Movie Title": "Final Destination 5",
+    "Movie Year": 2011,
+    "Runtime": 92,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.9,
+    "Director": "Steven Quale",
+    "Votes": "1,20,525",
+    "Gross": "$42.59M"
+  },
+  {
+    "Movie Title": "The Grudge",
+    "Movie Year": 2004,
+    "Runtime": 91,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.9,
+    "Director": "Takashi Shimizu",
+    "Votes": "1,47,865",
+    "Gross": "$110.36M"
+  },
+  {
+    "Movie Title": "Antlers",
+    "Movie Year": 2021,
+    "Runtime": 99,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 5.9,
+    "Director": "Scott Cooper",
+    "Votes": "41,508",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Void I",
+    "Movie Year": 2016,
+    "Runtime": 90,
+    "Genre": "Horror, Mystery, Sci-Fi",
+    "Rating": 5.9,
+    "Director": "Jeremy Gillespie",
+    "Votes": "39,049",
+    "Gross": "$0.15M"
+  },
+  {
+    "Movie Title": "King Kong",
+    "Movie Year": 1976,
+    "Runtime": 134,
+    "Genre": "Adventure, Horror",
+    "Rating": 5.9,
+    "Director": "John Guillermin",
+    "Votes": "34,098",
+    "Gross": "$52.61M"
+  },
+  {
+    "Movie Title": "The Fourth Kind",
+    "Movie Year": 2009,
+    "Runtime": 98,
+    "Genre": "Horror, Mystery, Sci-Fi",
+    "Rating": 5.9,
+    "Director": "Olatunde Osunsanmi",
+    "Votes": "79,762",
+    "Gross": "$25.46M"
+  },
+  {
+    "Movie Title": "The Brothers Grimm",
+    "Movie Year": 2005,
+    "Runtime": 118,
+    "Genre": "Action, Adventure, Comedy",
+    "Rating": 5.9,
+    "Director": "Terry Gilliam",
+    "Votes": "1,23,953",
+    "Gross": "$37.92M"
+  },
+  {
+    "Movie Title": "Hide and Seek",
+    "Movie Year": 2005,
+    "Runtime": 101,
+    "Genre": "Horror, Mystery",
+    "Rating": 5.9,
+    "Director": "John Polson",
+    "Votes": "87,067",
+    "Gross": "$51.10M"
+  },
+  {
+    "Movie Title": "The Possession I",
+    "Movie Year": 2012,
+    "Runtime": 92,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.9,
+    "Director": "Ole Bornedal",
+    "Votes": "61,689",
+    "Gross": "$49.13M"
+  },
+  {
+    "Movie Title": "The Ruins",
+    "Movie Year": 2008,
+    "Runtime": 90,
+    "Genre": "Adventure, Horror, Thriller",
+    "Rating": 5.9,
+    "Director": "Carter Smith",
+    "Votes": "77,800",
+    "Gross": "$17.43M"
+  },
+  {
+    "Movie Title": "Cam",
+    "Movie Year": 2018,
+    "Runtime": 94,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 5.9,
+    "Director": "Daniel Goldhaber",
+    "Votes": "34,079",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Saw IV",
+    "Movie Year": 2007,
+    "Runtime": 93,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.9,
+    "Director": "Darren Lynn Bousman",
+    "Votes": "1,55,334",
+    "Gross": "$63.30M"
+  },
+  {
+    "Movie Title": "Child's Play 2",
+    "Movie Year": 1990,
+    "Runtime": 84,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.9,
+    "Director": "John Lafia",
+    "Votes": "54,569",
+    "Gross": "$28.50M"
+  },
+  {
+    "Movie Title": "Victor Frankenstein",
+    "Movie Year": 2015,
+    "Runtime": 110,
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Rating": 5.9,
+    "Director": "Paul McGuigan",
+    "Votes": "58,423",
+    "Gross": "$5.78M"
+  },
+  {
+    "Movie Title": "The X Files: I Want to Believe",
+    "Movie Year": 2008,
+    "Runtime": 104,
+    "Genre": "Crime, Drama, Horror",
+    "Rating": 5.9,
+    "Director": "Chris Carter",
+    "Votes": "92,694",
+    "Gross": "$20.98M"
+  },
+  {
+    "Movie Title": "The Tall Man",
+    "Movie Year": 2012,
+    "Runtime": 106,
+    "Genre": "Crime, Drama, Horror",
+    "Rating": 5.9,
+    "Director": "Pascal Laugier",
+    "Votes": "42,238",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Quarantine",
+    "Movie Year": 2008,
+    "Runtime": 89,
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Rating": 5.9,
+    "Director": "John Erick Dowdle",
+    "Votes": "75,253",
+    "Gross": "$31.69M"
+  },
+  {
+    "Movie Title": "P2",
+    "Movie Year": 2007,
+    "Runtime": 98,
+    "Genre": "Crime, Horror, Thriller",
+    "Rating": 5.9,
+    "Director": "Franck Khalfoun",
+    "Votes": "35,242",
+    "Gross": "$3.99M"
+  },
+  {
+    "Movie Title": "Pathology",
+    "Movie Year": 2008,
+    "Runtime": 95,
+    "Genre": "Crime, Horror, Thriller",
+    "Rating": 5.9,
+    "Director": "Marc Schölermann",
+    "Votes": "32,857",
+    "Gross": "$0.11M"
+  },
+  {
+    "Movie Title": "The Prodigy",
+    "Movie Year": 2019,
+    "Runtime": 92,
+    "Genre": "Fantasy, Horror, Mystery",
+    "Rating": 5.9,
+    "Director": "Nicholas McCarthy",
+    "Votes": "27,470",
+    "Gross": "$14.86M"
+  },
+  {
+    "Movie Title": "Old",
+    "Movie Year": 2021,
+    "Runtime": 108,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 5.8,
+    "Director": "M. Night Shyamalan",
+    "Votes": "1,38,969",
+    "Gross": "$48.28M"
+  },
+  {
+    "Movie Title": "End of Days",
+    "Movie Year": 1999,
+    "Runtime": 122,
+    "Genre": "Action, Fantasy, Horror",
+    "Rating": 5.8,
+    "Director": "Peter Hyams",
+    "Votes": "1,13,770",
+    "Gross": "$66.89M"
+  },
+  {
+    "Movie Title": "Army of the Dead",
+    "Movie Year": 2021,
+    "Runtime": 148,
+    "Genre": "Action, Crime, Drama",
+    "Rating": 5.8,
+    "Director": "Zack Snyder",
+    "Votes": "1,78,772",
+    "Gross": "$1.00M"
+  },
+  {
+    "Movie Title": "Cannibal Holocaust",
+    "Movie Year": 1980,
+    "Runtime": 95,
+    "Genre": "Adventure, Horror",
+    "Rating": 5.8,
+    "Director": "Ruggero Deodato",
+    "Votes": "58,322",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "I Know What You Did Last Summer",
+    "Movie Year": 1997,
+    "Runtime": 101,
+    "Genre": "Horror, Mystery",
+    "Rating": 5.8,
+    "Director": "Jim Gillespie",
+    "Votes": "1,52,273",
+    "Gross": "$72.59M"
+  },
+  {
+    "Movie Title": "Species",
+    "Movie Year": 1995,
+    "Runtime": 108,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 5.8,
+    "Director": "Roger Donaldson",
+    "Votes": "82,499",
+    "Gross": "$60.07M"
+  },
+  {
+    "Movie Title": "Carrie",
+    "Movie Year": 2013,
+    "Runtime": 100,
+    "Genre": "Drama, Horror, Thriller",
+    "Rating": 5.8,
+    "Director": "Kimberly Peirce",
+    "Votes": "1,44,154",
+    "Gross": "$35.27M"
+  },
+  {
+    "Movie Title": "Splice",
+    "Movie Year": 2009,
+    "Runtime": 104,
+    "Genre": "Horror, Sci-Fi",
+    "Rating": 5.8,
+    "Director": "Vincenzo Natali",
+    "Votes": "99,872",
+    "Gross": "$17.00M"
+  },
+  {
+    "Movie Title": "Final Destination 3",
+    "Movie Year": 2006,
+    "Runtime": 93,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.8,
+    "Director": "James Wong",
+    "Votes": "1,47,716",
+    "Gross": "$54.10M"
+  },
+  {
+    "Movie Title": "High Life",
+    "Movie Year": 2018,
+    "Runtime": 113,
+    "Genre": "Adventure, Drama, Horror",
+    "Rating": 5.8,
+    "Director": "Claire Denis",
+    "Votes": "38,180",
+    "Gross": "$1.23M"
+  },
+  {
+    "Movie Title": "The Babysitter: Killer Queen",
+    "Movie Year": 2020,
+    "Runtime": 101,
+    "Genre": "Comedy, Horror",
+    "Rating": 5.8,
+    "Director": "McG",
+    "Votes": "46,011",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Hollow Man",
+    "Movie Year": 2000,
+    "Runtime": 112,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 5.8,
+    "Director": "Paul Verhoeven",
+    "Votes": "1,34,598",
+    "Gross": "$73.21M"
+  },
+  {
+    "Movie Title": "Jaws 2",
+    "Movie Year": 1978,
+    "Runtime": 116,
+    "Genre": "Adventure, Horror, Thriller",
+    "Rating": 5.8,
+    "Director": "Jeannot Szwarc",
+    "Votes": "80,981",
+    "Gross": "$102.92M"
+  },
+  {
+    "Movie Title": "Blade: Trinity",
+    "Movie Year": 2004,
+    "Runtime": 113,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 5.8,
+    "Director": "David S. Goyer",
+    "Votes": "1,82,834",
+    "Gross": "$52.41M"
+  },
+  {
+    "Movie Title": "The Mortal Instruments: City of Bones",
+    "Movie Year": 2013,
+    "Runtime": 130,
+    "Genre": "Action, Adventure, Fantasy",
+    "Rating": 5.8,
+    "Director": "Harald Zwart",
+    "Votes": "1,36,448",
+    "Gross": "$31.17M"
+  },
+  {
+    "Movie Title": "Pride and Prejudice and Zombies",
+    "Movie Year": 2016,
+    "Runtime": 108,
+    "Genre": "Action, Comedy, Fantasy",
+    "Rating": 5.8,
+    "Director": "Burr Steers",
+    "Votes": "58,473",
+    "Gross": "$10.91M"
+  },
+  {
+    "Movie Title": "Antebellum",
+    "Movie Year": 2020,
+    "Runtime": 105,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 5.8,
+    "Director": "Gerard Bush",
+    "Votes": "28,559",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Lake Placid",
+    "Movie Year": 1999,
+    "Runtime": 82,
+    "Genre": "Action, Comedy, Horror",
+    "Rating": 5.8,
+    "Director": "Steve Miner",
+    "Votes": "63,404",
+    "Gross": "$31.77M"
+  },
+  {
+    "Movie Title": "The Wolfman",
+    "Movie Year": 2010,
+    "Runtime": 103,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 5.8,
+    "Director": "Joe Johnston",
+    "Votes": "1,08,821",
+    "Gross": "$61.98M"
+  },
+  {
+    "Movie Title": "The Texas Chainsaw Massacre: The Beginning",
+    "Movie Year": 2006,
+    "Runtime": 91,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.8,
+    "Director": "Jonathan Liebesman",
+    "Votes": "75,052",
+    "Gross": "$39.52M"
+  },
+  {
+    "Movie Title": "The Addams Family",
+    "Movie Year": 2019,
+    "Runtime": 86,
+    "Genre": "Animation, Comedy, Family",
+    "Rating": 5.8,
+    "Director": "Greg Tiernan",
+    "Votes": "42,739",
+    "Gross": "$100.04M"
+  },
+  {
+    "Movie Title": "The Divide",
+    "Movie Year": 2011,
+    "Runtime": 112,
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Rating": 5.8,
+    "Director": "Xavier Gens",
+    "Votes": "37,690",
+    "Gross": "$0.02M"
+  },
+  {
+    "Movie Title": "Eli I",
+    "Movie Year": 2019,
+    "Runtime": 98,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 5.8,
+    "Director": "Ciarán Foy",
+    "Votes": "38,505",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "V/H/S",
+    "Movie Year": 2012,
+    "Runtime": 116,
+    "Genre": "Horror",
+    "Rating": 5.8,
+    "Director": "Matt Bettinelli-Olpin",
+    "Votes": "65,385",
+    "Gross": "$0.10M"
+  },
+  {
+    "Movie Title": "Morgan",
+    "Movie Year": 2016,
+    "Runtime": 92,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 5.8,
+    "Director": "Luke Scott",
+    "Votes": "44,898",
+    "Gross": "$3.91M"
+  },
+  {
+    "Movie Title": "Thinner",
+    "Movie Year": 1996,
+    "Runtime": 93,
+    "Genre": "Fantasy, Horror",
+    "Rating": 5.8,
+    "Director": "Tom Holland",
+    "Votes": "32,352",
+    "Gross": "$15.17M"
+  },
+  {
+    "Movie Title": "The Haunting in Connecticut",
+    "Movie Year": 2009,
+    "Runtime": 92,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 5.8,
+    "Director": "Peter Cornwell",
+    "Votes": "63,528",
+    "Gross": "$55.39M"
+  },
+  {
+    "Movie Title": "Resident Evil: Afterlife",
+    "Movie Year": 2010,
+    "Runtime": 96,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 5.8,
+    "Director": "Paul W.S. Anderson",
+    "Votes": "1,75,349",
+    "Gross": "$60.13M"
+  },
+  {
+    "Movie Title": "Gothika",
+    "Movie Year": 2003,
+    "Runtime": 98,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.8,
+    "Director": "Mathieu Kassovitz",
+    "Votes": "1,16,092",
+    "Gross": "$59.69M"
+  },
+  {
+    "Movie Title": "The Relic",
+    "Movie Year": 1997,
+    "Runtime": 110,
+    "Genre": "Horror, Mystery, Sci-Fi",
+    "Rating": 5.8,
+    "Director": "Peter Hyams",
+    "Votes": "29,056",
+    "Gross": "$33.96M"
+  },
+  {
+    "Movie Title": "Dracula: Dead and Loving It",
+    "Movie Year": 1995,
+    "Runtime": 88,
+    "Genre": "Comedy, Fantasy, Horror",
+    "Rating": 5.8,
+    "Director": "Mel Brooks",
+    "Votes": "43,600",
+    "Gross": "$10.77M"
+  },
+  {
+    "Movie Title": "Open Water",
+    "Movie Year": 2003,
+    "Runtime": 79,
+    "Genre": "Adventure, Drama, Horror",
+    "Rating": 5.8,
+    "Director": "Chris Kentis",
+    "Votes": "55,121",
+    "Gross": "$30.61M"
+  },
+  {
+    "Movie Title": "Halloween H20: 20 Years Later",
+    "Movie Year": 1998,
+    "Runtime": 86,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.8,
+    "Director": "Steve Miner",
+    "Votes": "78,797",
+    "Gross": "$55.04M"
+  },
+  {
+    "Movie Title": "Halloween 4: The Return of Michael Myers",
+    "Movie Year": 1988,
+    "Runtime": 88,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.8,
+    "Director": "Dwight H. Little",
+    "Votes": "55,673",
+    "Gross": "$17.77M"
+  },
+  {
+    "Movie Title": "Saw V",
+    "Movie Year": 2008,
+    "Runtime": 92,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.8,
+    "Director": "David Hackl",
+    "Votes": "1,28,997",
+    "Gross": "$56.75M"
+  },
+  {
+    "Movie Title": "Black Sheep",
+    "Movie Year": 2006,
+    "Runtime": 87,
+    "Genre": "Comedy, Horror, Sci-Fi",
+    "Rating": 5.8,
+    "Director": "Jonathan King",
+    "Votes": "41,390",
+    "Gross": "$0.08M"
+  },
+  {
+    "Movie Title": "Paranormal Activity 3",
+    "Movie Year": 2011,
+    "Runtime": 83,
+    "Genre": "Horror, Mystery",
+    "Rating": 5.8,
+    "Director": "Henry Joost",
+    "Votes": "97,454",
+    "Gross": "$104.01M"
+  },
+  {
+    "Movie Title": "Cry Wolf",
+    "Movie Year": 2005,
+    "Runtime": 90,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 5.8,
+    "Director": "Jeff Wadlow",
+    "Votes": "27,993",
+    "Gross": "$10.05M"
+  },
+  {
+    "Movie Title": "White Noise I",
+    "Movie Year": 2022,
+    "Runtime": 136,
+    "Genre": "Comedy, Drama, Horror",
+    "Rating": 5.7,
+    "Director": "Noah Baumbach",
+    "Votes": "39,252",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Purge I",
+    "Movie Year": 2013,
+    "Runtime": 85,
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Rating": 5.7,
+    "Director": "James DeMonaco",
+    "Votes": "2,31,096",
+    "Gross": "$64.47M"
+  },
+  {
+    "Movie Title": "Escape Room: Tournament of Champions",
+    "Movie Year": 2021,
+    "Runtime": 88,
+    "Genre": "Action, Adventure, Horror",
+    "Rating": 5.7,
+    "Director": "Adam Robitel",
+    "Votes": "52,337",
+    "Gross": "$25.19M"
+  },
+  {
+    "Movie Title": "Insidious: The Last Key",
+    "Movie Year": 2018,
+    "Runtime": 103,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.7,
+    "Director": "Adam Robitel",
+    "Votes": "64,055",
+    "Gross": "$67.75M"
+  },
+  {
+    "Movie Title": "Buffy the Vampire Slayer",
+    "Movie Year": 1992,
+    "Runtime": 86,
+    "Genre": "Action, Comedy, Fantasy",
+    "Rating": 5.7,
+    "Director": "Fran Rubel Kuzui",
+    "Votes": "47,048",
+    "Gross": "$16.62M"
+  },
+  {
+    "Movie Title": "Underworld: Blood Wars",
+    "Movie Year": 2016,
+    "Runtime": 91,
+    "Genre": "Action, Adventure, Fantasy",
+    "Rating": 5.7,
+    "Director": "Anna Foerster",
+    "Votes": "78,499",
+    "Gross": "$30.35M"
+  },
+  {
+    "Movie Title": "The Rental",
+    "Movie Year": 2020,
+    "Runtime": 88,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 5.7,
+    "Director": "Dave Franco",
+    "Votes": "35,194",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Jigsaw I",
+    "Movie Year": 2017,
+    "Runtime": 92,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.7,
+    "Director": "Michael Spierig",
+    "Votes": "83,738",
+    "Gross": "$38.05M"
+  },
+  {
+    "Movie Title": "Freddy vs. Jason",
+    "Movie Year": 2003,
+    "Runtime": 97,
+    "Genre": "Action, Horror",
+    "Rating": 5.7,
+    "Director": "Ronny Yu",
+    "Votes": "1,23,003",
+    "Gross": "$82.62M"
+  },
+  {
+    "Movie Title": "Cooties",
+    "Movie Year": 2014,
+    "Runtime": 88,
+    "Genre": "Action, Comedy, Horror",
+    "Rating": 5.7,
+    "Director": "Jonathan Milott",
+    "Votes": "27,279",
+    "Gross": "$0.06M"
+  },
+  {
+    "Movie Title": "I Spit on Your Grave 2",
+    "Movie Year": 2013,
+    "Runtime": 106,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.7,
+    "Director": "Steven R. Monroe",
+    "Votes": "31,209",
+    "Gross": "$0.00M"
+  },
+  {
+    "Movie Title": "Pet Sematary",
+    "Movie Year": 2019,
+    "Runtime": 101,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.7,
+    "Director": "Kevin Kölsch",
+    "Votes": "94,828",
+    "Gross": "$54.72M"
+  },
+  {
+    "Movie Title": "Priest",
+    "Movie Year": 2011,
+    "Runtime": 87,
+    "Genre": "Action, Fantasy, Horror",
+    "Rating": 5.7,
+    "Director": "Scott Stewart",
+    "Votes": "1,21,940",
+    "Gross": "$29.14M"
+  },
+  {
+    "Movie Title": "Velvet Buzzsaw",
+    "Movie Year": 2019,
+    "Runtime": 113,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.7,
+    "Director": "Dan Gilroy",
+    "Votes": "63,837",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Would You Rather",
+    "Movie Year": 2012,
+    "Runtime": 93,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.7,
+    "Director": "David Guy Levy",
+    "Votes": "43,247",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Rubber",
+    "Movie Year": 2010,
+    "Runtime": 82,
+    "Genre": "Comedy, Fantasy, Horror",
+    "Rating": 5.7,
+    "Director": "Quentin Dupieux",
+    "Votes": "38,724",
+    "Gross": "$0.10M"
+  },
+  {
+    "Movie Title": "Child's Play",
+    "Movie Year": 2019,
+    "Runtime": 90,
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Rating": 5.7,
+    "Director": "Lars Klevberg",
+    "Votes": "54,170",
+    "Gross": "$29.21M"
+  },
+  {
+    "Movie Title": "Devil's Pass",
+    "Movie Year": 2013,
+    "Runtime": 100,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.7,
+    "Director": "Renny Harlin",
+    "Votes": "26,283",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Clown",
+    "Movie Year": 2014,
+    "Runtime": 100,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.7,
+    "Director": "Jon Watts",
+    "Votes": "25,286",
+    "Gross": "$0.06M"
+  },
+  {
+    "Movie Title": "Paranormal Activity 2",
+    "Movie Year": 2010,
+    "Runtime": 91,
+    "Genre": "Horror, Mystery",
+    "Rating": 5.7,
+    "Director": "Tod Williams",
+    "Votes": "1,07,097",
+    "Gross": "$84.75M"
+  },
+  {
+    "Movie Title": "The Descent: Part 2",
+    "Movie Year": 2009,
+    "Runtime": 94,
+    "Genre": "Adventure, Horror, Thriller",
+    "Rating": 5.7,
+    "Director": "Jon Harris",
+    "Votes": "49,297",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Last Exorcism",
+    "Movie Year": 2010,
+    "Runtime": 87,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.7,
+    "Director": "Daniel Stamm",
+    "Votes": "50,953",
+    "Gross": "$41.03M"
+  },
+  {
+    "Movie Title": "Honeymoon",
+    "Movie Year": 2014,
+    "Runtime": 87,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 5.7,
+    "Director": "Leigh Janiak",
+    "Votes": "26,685",
+    "Gross": "$0.01M"
+  },
+  {
+    "Movie Title": "The Bay II",
+    "Movie Year": 2012,
+    "Runtime": 84,
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Rating": 5.7,
+    "Director": "Barry Levinson",
+    "Votes": "28,565",
+    "Gross": "$0.03M"
+  },
+  {
+    "Movie Title": "Bhool Bhulaiyaa 2",
+    "Movie Year": 2022,
+    "Runtime": 143,
+    "Genre": "Comedy, Drama, Horror",
+    "Rating": 5.7,
+    "Director": "Anees Bazmee",
+    "Votes": "32,061",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Terrifier",
+    "Movie Year": 2016,
+    "Runtime": 85,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.6,
+    "Director": "Damien Leone",
+    "Votes": "42,712",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Meg",
+    "Movie Year": 2018,
+    "Runtime": 113,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 5.6,
+    "Director": "Jon Turteltaub",
+    "Votes": "1,81,197",
+    "Gross": "$143.01M"
+  },
+  {
+    "Movie Title": "Beast I",
+    "Movie Year": 2022,
+    "Runtime": 93,
+    "Genre": "Action, Adventure, Drama",
+    "Rating": 5.6,
+    "Director": "Baltasar Kormákur",
+    "Votes": "34,598",
+    "Gross": "$31.85M"
+  },
+  {
+    "Movie Title": "Ghost Ship",
+    "Movie Year": 2002,
+    "Runtime": 91,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.6,
+    "Director": "Steve Beck",
+    "Votes": "1,04,944",
+    "Gross": "$30.11M"
+  },
+  {
+    "Movie Title": "Scream 3",
+    "Movie Year": 2000,
+    "Runtime": 116,
+    "Genre": "Horror, Mystery",
+    "Rating": 5.6,
+    "Director": "Wes Craven",
+    "Votes": "1,55,289",
+    "Gross": "$89.14M"
+  },
+  {
+    "Movie Title": "Urban Legend",
+    "Movie Year": 1998,
+    "Runtime": 99,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.6,
+    "Director": "Jamie Blanks",
+    "Votes": "68,975",
+    "Gross": "$38.07M"
+  },
+  {
+    "Movie Title": "Thir13en Ghosts",
+    "Movie Year": 2001,
+    "Runtime": 91,
+    "Genre": "Fantasy, Horror",
+    "Rating": 5.6,
+    "Director": "Steve Beck",
+    "Votes": "90,122",
+    "Gross": "$41.87M"
+  },
+  {
+    "Movie Title": "Children of the Corn",
+    "Movie Year": 1984,
+    "Runtime": 92,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.6,
+    "Director": "Fritz Kiersch",
+    "Votes": "54,851",
+    "Gross": "$14.57M"
+  },
+  {
+    "Movie Title": "47 Meters Down",
+    "Movie Year": 2017,
+    "Runtime": 89,
+    "Genre": "Adventure, Drama, Horror",
+    "Rating": 5.6,
+    "Director": "Johannes Roberts",
+    "Votes": "58,160",
+    "Gross": "$44.31M"
+  },
+  {
+    "Movie Title": "I Spit on Your Grave",
+    "Movie Year": 1978,
+    "Runtime": 101,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.6,
+    "Director": "Meir Zarchi",
+    "Votes": "29,806",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Pacific Rim: Uprising",
+    "Movie Year": 2018,
+    "Runtime": 111,
+    "Genre": "Action, Adventure, Fantasy",
+    "Rating": 5.6,
+    "Director": "Steven S. DeKnight",
+    "Votes": "1,21,533",
+    "Gross": "$59.87M"
+  },
+  {
+    "Movie Title": "Alien vs. Predator",
+    "Movie Year": 2004,
+    "Runtime": 101,
+    "Genre": "Action, Adventure, Horror",
+    "Rating": 5.6,
+    "Director": "Paul W.S. Anderson",
+    "Votes": "2,05,934",
+    "Gross": "$80.28M"
+  },
+  {
+    "Movie Title": "Cabin Fever",
+    "Movie Year": 2002,
+    "Runtime": 93,
+    "Genre": "Horror",
+    "Rating": 5.6,
+    "Director": "Eli Roth",
+    "Votes": "80,830",
+    "Gross": "$21.16M"
+  },
+  {
+    "Movie Title": "Friday the 13th Part III",
+    "Movie Year": 1982,
+    "Runtime": 95,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.6,
+    "Director": "Steve Miner",
+    "Votes": "56,597",
+    "Gross": "$36.69M"
+  },
+  {
+    "Movie Title": "Mom and Dad",
+    "Movie Year": 2017,
+    "Runtime": 86,
+    "Genre": "Comedy, Horror, Thriller",
+    "Rating": 5.6,
+    "Director": "Brian Taylor",
+    "Votes": "25,496",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Jeepers Creepers 2",
+    "Movie Year": 2003,
+    "Runtime": 104,
+    "Genre": "Horror",
+    "Rating": 5.6,
+    "Director": "Victor Salva",
+    "Votes": "68,038",
+    "Gross": "$35.67M"
+  },
+  {
+    "Movie Title": "Ma I",
+    "Movie Year": 2019,
+    "Runtime": 99,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.6,
+    "Director": "Tate Taylor",
+    "Votes": "55,805",
+    "Gross": "$45.37M"
+  },
+  {
+    "Movie Title": "Maggie I",
+    "Movie Year": 2015,
+    "Runtime": 95,
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Rating": 5.6,
+    "Director": "Henry Hobson",
+    "Votes": "45,541",
+    "Gross": "$0.19M"
+  },
+  {
+    "Movie Title": "Unfriended",
+    "Movie Year": 2014,
+    "Runtime": 83,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.6,
+    "Director": "Levan Gabriadze",
+    "Votes": "78,487",
+    "Gross": "$32.48M"
+  },
+  {
+    "Movie Title": "Bride of Chucky",
+    "Movie Year": 1998,
+    "Runtime": 89,
+    "Genre": "Comedy, Horror, Thriller",
+    "Rating": 5.6,
+    "Director": "Ronny Yu",
+    "Votes": "61,366",
+    "Gross": "$32.40M"
+  },
+  {
+    "Movie Title": "The Texas Chainsaw Massacre 2",
+    "Movie Year": 1986,
+    "Runtime": 101,
+    "Genre": "Comedy, Horror",
+    "Rating": 5.6,
+    "Director": "Tobe Hooper",
+    "Votes": "35,333",
+    "Gross": "$8.03M"
+  },
+  {
+    "Movie Title": "House on Haunted Hill",
+    "Movie Year": 1999,
+    "Runtime": 93,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.6,
+    "Director": "William Malone",
+    "Votes": "58,487",
+    "Gross": "$40.85M"
+  },
+  {
+    "Movie Title": "Village of the Damned",
+    "Movie Year": 1995,
+    "Runtime": 98,
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Rating": 5.6,
+    "Director": "John Carpenter",
+    "Votes": "33,118",
+    "Gross": "$9.42M"
+  },
+  {
+    "Movie Title": "Regression I",
+    "Movie Year": 2015,
+    "Runtime": 106,
+    "Genre": "Adventure, Crime, Drama",
+    "Rating": 5.6,
+    "Director": "Alejandro Amenábar",
+    "Votes": "41,510",
+    "Gross": "$0.05M"
+  },
+  {
+    "Movie Title": "A Nightmare on Elm Street 4: The Dream Master",
+    "Movie Year": 1988,
+    "Runtime": 93,
+    "Genre": "Horror",
+    "Rating": 5.6,
+    "Director": "Renny Harlin",
+    "Votes": "58,602",
+    "Gross": "$49.37M"
+  },
+  {
+    "Movie Title": "Curse of Chucky",
+    "Movie Year": 2013,
+    "Runtime": 97,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.6,
+    "Director": "Don Mancini",
+    "Votes": "41,474",
+    "Gross": "$3.80M"
+  },
+  {
+    "Movie Title": "Poltergeist II: The Other Side",
+    "Movie Year": 1986,
+    "Runtime": 91,
+    "Genre": "Horror",
+    "Rating": 5.6,
+    "Director": "Brian Gibson",
+    "Votes": "28,529",
+    "Gross": "$41.00M"
+  },
+  {
+    "Movie Title": "Creep I",
+    "Movie Year": 2004,
+    "Runtime": 85,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.6,
+    "Director": "Christopher Smith",
+    "Votes": "30,858",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Dark Water",
+    "Movie Year": 2005,
+    "Runtime": 105,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 5.6,
+    "Director": "Walter Salles",
+    "Votes": "64,235",
+    "Gross": "$25.47M"
+  },
+  {
+    "Movie Title": "Hatchet",
+    "Movie Year": 2006,
+    "Runtime": 93,
+    "Genre": "Comedy, Horror, Thriller",
+    "Rating": 5.6,
+    "Director": "Adam Green",
+    "Votes": "32,231",
+    "Gross": "$0.16M"
+  },
+  {
+    "Movie Title": "Club Dread",
+    "Movie Year": 2004,
+    "Runtime": 104,
+    "Genre": "Comedy, Horror, Mystery",
+    "Rating": 5.6,
+    "Director": "Jay Chandrasekhar",
+    "Votes": "30,873",
+    "Gross": "$4.99M"
+  },
+  {
+    "Movie Title": "The Reaping",
+    "Movie Year": 2007,
+    "Runtime": 99,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.6,
+    "Director": "Stephen Hopkins",
+    "Votes": "43,940",
+    "Gross": "$25.12M"
+  },
+  {
+    "Movie Title": "Piranha 3D",
+    "Movie Year": 2010,
+    "Runtime": 88,
+    "Genre": "Comedy, Horror",
+    "Rating": 5.5,
+    "Director": "Alexandre Aja",
+    "Votes": "94,107",
+    "Gross": "$25.00M"
+  },
+  {
+    "Movie Title": "Wrong Turn",
+    "Movie Year": 2021,
+    "Runtime": 109,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.5,
+    "Director": "Mike P. Nelson",
+    "Votes": "33,584",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Friday the 13th",
+    "Movie Year": 2009,
+    "Runtime": 97,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.5,
+    "Director": "Marcus Nispel",
+    "Votes": "1,11,943",
+    "Gross": "$65.00M"
+  },
+  {
+    "Movie Title": "Willy's Wonderland",
+    "Movie Year": 2021,
+    "Runtime": 88,
+    "Genre": "Action, Comedy, Horror",
+    "Rating": 5.5,
+    "Director": "Kevin Lewis",
+    "Votes": "33,195",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Hostel: Part II",
+    "Movie Year": 2007,
+    "Runtime": 94,
+    "Genre": "Horror",
+    "Rating": 5.5,
+    "Director": "Eli Roth",
+    "Votes": "92,969",
+    "Gross": "$17.61M"
+  },
+  {
+    "Movie Title": "The Cloverfield Paradox",
+    "Movie Year": 2018,
+    "Runtime": 102,
+    "Genre": "Action, Adventure, Horror",
+    "Rating": 5.5,
+    "Director": "Julius Onah",
+    "Votes": "1,09,111",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Halloween Kills",
+    "Movie Year": 2021,
+    "Runtime": 105,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.5,
+    "Director": "David Gordon Green",
+    "Votes": "91,008",
+    "Gross": "$92.00M"
+  },
+  {
+    "Movie Title": "House at the End of the Street",
+    "Movie Year": 2012,
+    "Runtime": 101,
+    "Genre": "Drama, Horror, Thriller",
+    "Rating": 5.5,
+    "Director": "Mark Tonderai",
+    "Votes": "78,952",
+    "Gross": "$31.61M"
+  },
+  {
+    "Movie Title": "The Dead Don't Die",
+    "Movie Year": 2019,
+    "Runtime": 104,
+    "Genre": "Comedy, Fantasy, Horror",
+    "Rating": 5.5,
+    "Director": "Jim Jarmusch",
+    "Votes": "82,134",
+    "Gross": "$6.56M"
+  },
+  {
+    "Movie Title": "Eight Legged Freaks",
+    "Movie Year": 2002,
+    "Runtime": 99,
+    "Genre": "Action, Adventure, Comedy",
+    "Rating": 5.5,
+    "Director": "Ellory Elkayem",
+    "Votes": "58,839",
+    "Gross": "$17.32M"
+  },
+  {
+    "Movie Title": "Resident Evil: The Final Chapter",
+    "Movie Year": 2016,
+    "Runtime": 107,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 5.5,
+    "Director": "Paul W.S. Anderson",
+    "Votes": "97,554",
+    "Gross": "$26.83M"
+  },
+  {
+    "Movie Title": "Gretel & Hansel",
+    "Movie Year": 2020,
+    "Runtime": 87,
+    "Genre": "Fantasy, Horror, Mystery",
+    "Rating": 5.5,
+    "Director": "Oz Perkins",
+    "Votes": "32,438",
+    "Gross": "$15.35M"
+  },
+  {
+    "Movie Title": "Saw 3D",
+    "Movie Year": 2010,
+    "Runtime": 90,
+    "Genre": "Horror, Mystery",
+    "Rating": 5.5,
+    "Director": "Kevin Greutert",
+    "Votes": "1,02,181",
+    "Gross": "$45.71M"
+  },
+  {
+    "Movie Title": "Peninsula",
+    "Movie Year": 2020,
+    "Runtime": 116,
+    "Genre": "Action, Horror, Thriller",
+    "Rating": 5.5,
+    "Director": "Sang-ho Yeon",
+    "Votes": "35,176",
+    "Gross": "$1.23M"
+  },
+  {
+    "Movie Title": "Dreamcatcher",
+    "Movie Year": 2003,
+    "Runtime": 134,
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Rating": 5.5,
+    "Director": "Lawrence Kasdan",
+    "Votes": "94,534",
+    "Gross": "$33.72M"
+  },
+  {
+    "Movie Title": "The Last Days on Mars",
+    "Movie Year": 2013,
+    "Runtime": 98,
+    "Genre": "Adventure, Horror, Sci-Fi",
+    "Rating": 5.5,
+    "Director": "Ruairi Robinson",
+    "Votes": "38,026",
+    "Gross": "$0.02M"
+  },
+  {
+    "Movie Title": "The Ward",
+    "Movie Year": 2010,
+    "Runtime": 89,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.5,
+    "Director": "John Carpenter",
+    "Votes": "43,657",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Omen",
+    "Movie Year": 2006,
+    "Runtime": 110,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 5.5,
+    "Director": "John Moore",
+    "Votes": "60,750",
+    "Gross": "$54.61M"
+  },
+  {
+    "Movie Title": "All the Boys Love Mandy Lane",
+    "Movie Year": 2006,
+    "Runtime": 90,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.5,
+    "Director": "Jonathan Levine",
+    "Votes": "34,017",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Hellraiser III: Hell on Earth",
+    "Movie Year": 1992,
+    "Runtime": 97,
+    "Genre": "Horror",
+    "Rating": 5.5,
+    "Director": "Anthony Hickox",
+    "Votes": "33,318",
+    "Gross": "$12.53M"
+  },
+  {
+    "Movie Title": "The Innkeepers",
+    "Movie Year": 2011,
+    "Runtime": 101,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 5.5,
+    "Director": "Ti West",
+    "Votes": "36,301",
+    "Gross": "$0.08M"
+  },
+  {
+    "Movie Title": "Don't Be Afraid of the Dark",
+    "Movie Year": 2010,
+    "Runtime": 99,
+    "Genre": "Fantasy, Horror, Thriller",
+    "Rating": 5.5,
+    "Director": "Troy Nixey",
+    "Votes": "49,772",
+    "Gross": "$24.04M"
+  },
+  {
+    "Movie Title": "Cube²: Hypercube",
+    "Movie Year": 2002,
+    "Runtime": 94,
+    "Genre": "Horror, Mystery, Sci-Fi",
+    "Rating": 5.5,
+    "Director": "Andrzej Sekula",
+    "Votes": "68,747",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Diary of the Dead",
+    "Movie Year": 2007,
+    "Runtime": 95,
+    "Genre": "Fantasy, Horror, Sci-Fi",
+    "Rating": 5.5,
+    "Director": "George A. Romero",
+    "Votes": "48,380",
+    "Gross": "$0.96M"
+  },
+  {
+    "Movie Title": "White Noise I",
+    "Movie Year": 2005,
+    "Runtime": 101,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 5.5,
+    "Director": "Geoffrey Sax",
+    "Votes": "49,931",
+    "Gross": "$56.39M"
+  },
+  {
+    "Movie Title": "Jennifer's Body",
+    "Movie Year": 2009,
+    "Runtime": 102,
+    "Genre": "Comedy, Horror",
+    "Rating": 5.4,
+    "Director": "Karyn Kusama",
+    "Votes": "1,41,859",
+    "Gross": "$16.20M"
+  },
+  {
+    "Movie Title": "The Mummy",
+    "Movie Year": 2017,
+    "Runtime": 110,
+    "Genre": "Action, Adventure, Fantasy",
+    "Rating": 5.4,
+    "Director": "Alex Kurtzman",
+    "Votes": "1,96,693",
+    "Gross": "$80.10M"
+  },
+  {
+    "Movie Title": "Teeth I",
+    "Movie Year": 2007,
+    "Runtime": 94,
+    "Genre": "Comedy, Fantasy, Horror",
+    "Rating": 5.4,
+    "Director": "Mitchell Lichtenstein",
+    "Votes": "44,984",
+    "Gross": "$0.35M"
+  },
+  {
+    "Movie Title": "The Lawnmower Man",
+    "Movie Year": 1992,
+    "Runtime": 108,
+    "Genre": "Horror, Sci-Fi",
+    "Rating": 5.4,
+    "Director": "Brett Leonard",
+    "Votes": "37,519",
+    "Gross": "$32.10M"
+  },
+  {
+    "Movie Title": "The Forever Purge",
+    "Movie Year": 2021,
+    "Runtime": 103,
+    "Genre": "Action, Crime, Horror",
+    "Rating": 5.4,
+    "Director": "Everardo Gout",
+    "Votes": "38,456",
+    "Gross": "$44.54M"
+  },
+  {
+    "Movie Title": "Annabelle I",
+    "Movie Year": 2014,
+    "Runtime": 99,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.4,
+    "Director": "John R. Leonetti",
+    "Votes": "1,66,025",
+    "Gross": "$84.27M"
+  },
+  {
+    "Movie Title": "The Witches",
+    "Movie Year": 2020,
+    "Runtime": 106,
+    "Genre": "Adventure, Comedy, Family",
+    "Rating": 5.4,
+    "Director": "Robert Zemeckis",
+    "Votes": "43,623",
+    "Gross": "$0.20M"
+  },
+  {
+    "Movie Title": "House of Wax",
+    "Movie Year": 2005,
+    "Runtime": 113,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.4,
+    "Director": "Jaume Collet-Serra",
+    "Votes": "1,29,174",
+    "Gross": "$32.06M"
+  },
+  {
+    "Movie Title": "Countdown III",
+    "Movie Year": 2019,
+    "Runtime": 90,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.4,
+    "Director": "Justin Dec",
+    "Votes": "41,867",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "In the Tall Grass",
+    "Movie Year": 2019,
+    "Runtime": 101,
+    "Genre": "Horror, Mystery, Sci-Fi",
+    "Rating": 5.4,
+    "Director": "Vincenzo Natali",
+    "Votes": "60,139",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Maximum Overdrive",
+    "Movie Year": 1986,
+    "Runtime": 98,
+    "Genre": "Action, Comedy, Horror",
+    "Rating": 5.4,
+    "Director": "Stephen King",
+    "Votes": "34,054",
+    "Gross": "$7.43M"
+  },
+  {
+    "Movie Title": "A Nightmare on Elm Street 2: Freddy's Revenge",
+    "Movie Year": 1985,
+    "Runtime": 87,
+    "Genre": "Horror",
+    "Rating": 5.4,
+    "Director": "Jack Sholder",
+    "Votes": "73,312",
+    "Gross": "$30.00M"
+  },
+  {
+    "Movie Title": "Vampire Academy",
+    "Movie Year": 2014,
+    "Runtime": 104,
+    "Genre": "Action, Comedy, Drama",
+    "Rating": 5.4,
+    "Director": "Mark Waters",
+    "Votes": "55,923",
+    "Gross": "$7.79M"
+  },
+  {
+    "Movie Title": "Turistas",
+    "Movie Year": 2006,
+    "Runtime": 93,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.4,
+    "Director": "John Stockwell",
+    "Votes": "39,687",
+    "Gross": "$7.03M"
+  },
+  {
+    "Movie Title": "The Ring Two",
+    "Movie Year": 2005,
+    "Runtime": 110,
+    "Genre": "Horror, Mystery",
+    "Rating": 5.4,
+    "Director": "Hideo Nakata",
+    "Votes": "98,602",
+    "Gross": "$76.23M"
+  },
+  {
+    "Movie Title": "Red Riding Hood",
+    "Movie Year": 2011,
+    "Runtime": 100,
+    "Genre": "Fantasy, Horror, Mystery",
+    "Rating": 5.4,
+    "Director": "Catherine Hardwicke",
+    "Votes": "1,13,995",
+    "Gross": "$37.66M"
+  },
+  {
+    "Movie Title": "Winchester",
+    "Movie Year": 2018,
+    "Runtime": 99,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 5.4,
+    "Director": "Michael Spierig",
+    "Votes": "35,434",
+    "Gross": "$25.09M"
+  },
+  {
+    "Movie Title": "My Bloody Valentine",
+    "Movie Year": 2009,
+    "Runtime": 101,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.4,
+    "Director": "Patrick Lussier",
+    "Votes": "58,571",
+    "Gross": "$51.55M"
+  },
+  {
+    "Movie Title": "Jessabelle",
+    "Movie Year": 2014,
+    "Runtime": 90,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 5.4,
+    "Director": "Kevin Greutert",
+    "Votes": "25,037",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Eye",
+    "Movie Year": 2008,
+    "Runtime": 98,
+    "Genre": "Horror, Mystery",
+    "Rating": 5.4,
+    "Director": "David Moreau",
+    "Votes": "55,021",
+    "Gross": "$31.42M"
+  },
+  {
+    "Movie Title": "Tusk I",
+    "Movie Year": 2014,
+    "Runtime": 102,
+    "Genre": "Comedy, Horror",
+    "Rating": 5.3,
+    "Director": "Kevin Smith",
+    "Votes": "58,591",
+    "Gross": "$1.82M"
+  },
+  {
+    "Movie Title": "The Invitation II",
+    "Movie Year": 2022,
+    "Runtime": 105,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.3,
+    "Director": "Jessica M. Thompson",
+    "Votes": "26,160",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Nun",
+    "Movie Year": 2018,
+    "Runtime": 96,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.3,
+    "Director": "Corin Hardy",
+    "Votes": "1,48,299",
+    "Gross": "$117.45M"
+  },
+  {
+    "Movie Title": "The Green Inferno",
+    "Movie Year": 2013,
+    "Runtime": 100,
+    "Genre": "Adventure, Horror",
+    "Rating": 5.3,
+    "Director": "Eli Roth",
+    "Votes": "46,716",
+    "Gross": "$7.19M"
+  },
+  {
+    "Movie Title": "The Predator",
+    "Movie Year": 2018,
+    "Runtime": 107,
+    "Genre": "Action, Adventure, Horror",
+    "Rating": 5.3,
+    "Director": "Shane Black",
+    "Votes": "1,38,182",
+    "Gross": "$51.02M"
+  },
+  {
+    "Movie Title": "Scary Movie 2",
+    "Movie Year": 2001,
+    "Runtime": 83,
+    "Genre": "Comedy, Horror",
+    "Rating": 5.3,
+    "Director": "Keenen Ivory Wayans",
+    "Votes": "1,67,717",
+    "Gross": "$71.31M"
+  },
+  {
+    "Movie Title": "Legion",
+    "Movie Year": 2010,
+    "Runtime": 100,
+    "Genre": "Action, Fantasy, Horror",
+    "Rating": 5.3,
+    "Director": "Scott Stewart",
+    "Votes": "1,08,043",
+    "Gross": "$40.17M"
+  },
+  {
+    "Movie Title": "The New Mutants",
+    "Movie Year": 2020,
+    "Runtime": 94,
+    "Genre": "Action, Horror, Mystery",
+    "Rating": 5.3,
+    "Director": "Josh Boone",
+    "Votes": "84,381",
+    "Gross": "$23.86M"
+  },
+  {
+    "Movie Title": "Things Heard & Seen",
+    "Movie Year": 2021,
+    "Runtime": 121,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 5.3,
+    "Director": "Shari Springer Berman",
+    "Votes": "33,777",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Sinister 2",
+    "Movie Year": 2015,
+    "Runtime": 97,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.3,
+    "Director": "Ciarán Foy",
+    "Votes": "57,723",
+    "Gross": "$27.74M"
+  },
+  {
+    "Movie Title": "The Silence I",
+    "Movie Year": 2019,
+    "Runtime": 90,
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Rating": 5.3,
+    "Director": "John R. Leonetti",
+    "Votes": "48,055",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Resident Evil: Retribution",
+    "Movie Year": 2012,
+    "Runtime": 95,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 5.3,
+    "Director": "Paul W.S. Anderson",
+    "Votes": "1,46,296",
+    "Gross": "$42.35M"
+  },
+  {
+    "Movie Title": "The Stepford Wives",
+    "Movie Year": 2004,
+    "Runtime": 93,
+    "Genre": "Comedy, Horror, Sci-Fi",
+    "Rating": 5.3,
+    "Director": "Frank Oz",
+    "Votes": "68,040",
+    "Gross": "$59.48M"
+  },
+  {
+    "Movie Title": "The Messengers",
+    "Movie Year": 2007,
+    "Runtime": 90,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 5.3,
+    "Director": "Danny Pang",
+    "Votes": "40,604",
+    "Gross": "$35.37M"
+  },
+  {
+    "Movie Title": "The Resident",
+    "Movie Year": 2011,
+    "Runtime": 91,
+    "Genre": "Crime, Drama, Horror",
+    "Rating": 5.3,
+    "Director": "Antti J. Jokinen",
+    "Votes": "28,945",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Colony I",
+    "Movie Year": 2013,
+    "Runtime": 95,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 5.3,
+    "Director": "Jeff Renfroe",
+    "Votes": "46,277",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Doom",
+    "Movie Year": 2005,
+    "Runtime": 105,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 5.2,
+    "Director": "Andrzej Bartkowiak",
+    "Votes": "1,16,192",
+    "Gross": "$28.21M"
+  },
+  {
+    "Movie Title": "Morbius",
+    "Movie Year": 2022,
+    "Runtime": 104,
+    "Genre": "Action, Adventure, Horror",
+    "Rating": 5.2,
+    "Director": "Daniel Espinosa",
+    "Votes": "1,37,749",
+    "Gross": "$73.87M"
+  },
+  {
+    "Movie Title": "The Covenant",
+    "Movie Year": 2006,
+    "Runtime": 97,
+    "Genre": "Action, Adventure, Fantasy",
+    "Rating": 5.2,
+    "Director": "Renny Harlin",
+    "Votes": "50,834",
+    "Gross": "$23.29M"
+  },
+  {
+    "Movie Title": "Resident Evil: Welcome to Raccoon City",
+    "Movie Year": 2021,
+    "Runtime": 107,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 5.2,
+    "Director": "Johannes Roberts",
+    "Votes": "58,422",
+    "Gross": "$17.00M"
+  },
+  {
+    "Movie Title": "Hellboy",
+    "Movie Year": 2019,
+    "Runtime": 120,
+    "Genre": "Action, Adventure, Fantasy",
+    "Rating": 5.2,
+    "Director": "Neil Marshall",
+    "Votes": "94,121",
+    "Gross": "$21.90M"
+  },
+  {
+    "Movie Title": "Spiral",
+    "Movie Year": 2021,
+    "Runtime": 93,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.2,
+    "Director": "Darren Lynn Bousman",
+    "Votes": "58,812",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Flatliners",
+    "Movie Year": 2017,
+    "Runtime": 109,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 5.2,
+    "Director": "Niels Arden Oplev",
+    "Votes": "49,170",
+    "Gross": "$16.88M"
+  },
+  {
+    "Movie Title": "The Mummy: Tomb of the Dragon Emperor",
+    "Movie Year": 2008,
+    "Runtime": 112,
+    "Genre": "Action, Adventure, Fantasy",
+    "Rating": 5.2,
+    "Director": "Rob Cohen",
+    "Votes": "1,66,078",
+    "Gross": "$102.49M"
+  },
+  {
+    "Movie Title": "The Bad Batch",
+    "Movie Year": 2016,
+    "Runtime": 118,
+    "Genre": "Action, Horror, Mystery",
+    "Rating": 5.2,
+    "Director": "Ana Lily Amirpour",
+    "Votes": "33,671",
+    "Gross": "$0.18M"
+  },
+  {
+    "Movie Title": "Spawn",
+    "Movie Year": 1997,
+    "Runtime": 96,
+    "Genre": "Action, Drama, Horror",
+    "Rating": 5.2,
+    "Director": "Mark A.Z. Dippé",
+    "Votes": "70,341",
+    "Gross": "$54.97M"
+  },
+  {
+    "Movie Title": "Truth or Dare I",
+    "Movie Year": 2018,
+    "Runtime": 100,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.2,
+    "Director": "Jeff Wadlow",
+    "Votes": "59,199",
+    "Gross": "$41.41M"
+  },
+  {
+    "Movie Title": "The Curse of La Llorona",
+    "Movie Year": 2019,
+    "Runtime": 93,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.2,
+    "Director": "Michael Chaves",
+    "Votes": "53,361",
+    "Gross": "$54.73M"
+  },
+  {
+    "Movie Title": "Queen of the Damned",
+    "Movie Year": 2002,
+    "Runtime": 101,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 5.2,
+    "Director": "Michael Rymer",
+    "Votes": "57,951",
+    "Gross": "$30.34M"
+  },
+  {
+    "Movie Title": "Scooby-Doo 2: Monsters Unleashed",
+    "Movie Year": 2004,
+    "Runtime": 93,
+    "Genre": "Adventure, Comedy, Family",
+    "Rating": 5.2,
+    "Director": "Raja Gosnell",
+    "Votes": "61,313",
+    "Gross": "$84.22M"
+  },
+  {
+    "Movie Title": "Hubie Halloween",
+    "Movie Year": 2020,
+    "Runtime": 103,
+    "Genre": "Comedy, Horror, Mystery",
+    "Rating": 5.2,
+    "Director": "Steven Brill",
+    "Votes": "53,916",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "A Nightmare on Elm Street",
+    "Movie Year": 2010,
+    "Runtime": 95,
+    "Genre": "Crime, Drama, Horror",
+    "Rating": 5.2,
+    "Director": "Samuel Bayer",
+    "Votes": "1,03,828",
+    "Gross": "$63.08M"
+  },
+  {
+    "Movie Title": "The First Purge",
+    "Movie Year": 2018,
+    "Runtime": 97,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 5.2,
+    "Director": "Gerard McMurray",
+    "Votes": "66,568",
+    "Gross": "$69.49M"
+  },
+  {
+    "Movie Title": "The Strangers: Prey at Night",
+    "Movie Year": 2018,
+    "Runtime": 85,
+    "Genre": "Horror",
+    "Rating": 5.2,
+    "Director": "Johannes Roberts",
+    "Votes": "32,686",
+    "Gross": "$24.43M"
+  },
+  {
+    "Movie Title": "Friday the 13th Part VII: The New Blood",
+    "Movie Year": 1988,
+    "Runtime": 88,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.2,
+    "Director": "John Carl Buechler",
+    "Votes": "39,646",
+    "Gross": "$19.17M"
+  },
+  {
+    "Movie Title": "Shutter I",
+    "Movie Year": 2008,
+    "Runtime": 85,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.2,
+    "Director": "Masayuki Ochiai",
+    "Votes": "36,208",
+    "Gross": "$25.93M"
+  },
+  {
+    "Movie Title": "Cult of Chucky",
+    "Movie Year": 2017,
+    "Runtime": 91,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.2,
+    "Director": "Don Mancini",
+    "Votes": "27,436",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Apollo 18",
+    "Movie Year": 2011,
+    "Runtime": 86,
+    "Genre": "Horror, Mystery, Sci-Fi",
+    "Rating": 5.2,
+    "Director": "Gonzalo López-Gallego",
+    "Votes": "56,777",
+    "Gross": "$17.69M"
+  },
+  {
+    "Movie Title": "The Lazarus Effect",
+    "Movie Year": 2015,
+    "Runtime": 83,
+    "Genre": "Horror, Mystery, Sci-Fi",
+    "Rating": 5.2,
+    "Director": "David Gelb",
+    "Votes": "44,970",
+    "Gross": "$25.80M"
+  },
+  {
+    "Movie Title": "The Lords of Salem",
+    "Movie Year": 2012,
+    "Runtime": 101,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.2,
+    "Director": "Rob Zombie",
+    "Votes": "31,229",
+    "Gross": "$1.16M"
+  },
+  {
+    "Movie Title": "Friend Request",
+    "Movie Year": 2016,
+    "Runtime": 92,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.2,
+    "Director": "Simon Verhoeven",
+    "Votes": "27,158",
+    "Gross": "$3.76M"
+  },
+  {
+    "Movie Title": "The Unholy",
+    "Movie Year": 2021,
+    "Runtime": 99,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 5.1,
+    "Director": "Evan Spiliotopoulos",
+    "Votes": "25,389",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Haunted Mansion",
+    "Movie Year": 2003,
+    "Runtime": 88,
+    "Genre": "Comedy, Family, Fantasy",
+    "Rating": 5.1,
+    "Director": "Rob Minkoff",
+    "Votes": "51,618",
+    "Gross": "$75.85M"
+  },
+  {
+    "Movie Title": "The Final Destination",
+    "Movie Year": 2009,
+    "Runtime": 82,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.1,
+    "Director": "David R. Ellis",
+    "Votes": "1,10,457",
+    "Gross": "$66.48M"
+  },
+  {
+    "Movie Title": "Sorority Row",
+    "Movie Year": 2009,
+    "Runtime": 101,
+    "Genre": "Horror, Mystery",
+    "Rating": 5.1,
+    "Director": "Stewart Hendler",
+    "Votes": "31,640",
+    "Gross": "$11.96M"
+  },
+  {
+    "Movie Title": "The Hills Have Eyes 2",
+    "Movie Year": 2007,
+    "Runtime": 89,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.1,
+    "Director": "Martin Weisz",
+    "Votes": "65,955",
+    "Gross": "$20.80M"
+  },
+  {
+    "Movie Title": "When a Stranger Calls",
+    "Movie Year": 2006,
+    "Runtime": 87,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.1,
+    "Director": "Simon West",
+    "Votes": "47,247",
+    "Gross": "$47.86M"
+  },
+  {
+    "Movie Title": "The Cave",
+    "Movie Year": 2005,
+    "Runtime": 97,
+    "Genre": "Adventure, Horror, Sci-Fi",
+    "Rating": 5.1,
+    "Director": "Bruce Hunt",
+    "Votes": "40,180",
+    "Gross": "$15.01M"
+  },
+  {
+    "Movie Title": "Halloween III: Season of the Witch",
+    "Movie Year": 1982,
+    "Runtime": 98,
+    "Genre": "Horror, Mystery, Sci-Fi",
+    "Rating": 5.1,
+    "Director": "Tommy Lee Wallace",
+    "Votes": "57,269",
+    "Gross": "$14.40M"
+  },
+  {
+    "Movie Title": "Exorcist: The Beginning",
+    "Movie Year": 2004,
+    "Runtime": 114,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5.1,
+    "Director": "Renny Harlin",
+    "Votes": "37,959",
+    "Gross": "$41.82M"
+  },
+  {
+    "Movie Title": "Child's Play 3",
+    "Movie Year": 1991,
+    "Runtime": 90,
+    "Genre": "Horror, Thriller",
+    "Rating": 5.1,
+    "Director": "Jack Bender",
+    "Votes": "43,765",
+    "Gross": "$14.96M"
+  },
+  {
+    "Movie Title": "An American Werewolf in Paris",
+    "Movie Year": 1997,
+    "Runtime": 98,
+    "Genre": "Comedy, Fantasy, Horror",
+    "Rating": 5.1,
+    "Director": "Anthony Waller",
+    "Votes": "26,134",
+    "Gross": "$26.57M"
+  },
+  {
+    "Movie Title": "Grave Encounters 2",
+    "Movie Year": 2012,
+    "Runtime": 98,
+    "Genre": "Horror, Mystery",
+    "Rating": 5.1,
+    "Director": "John Poliquin",
+    "Votes": "26,222",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "A Serbian Film",
+    "Movie Year": 2010,
+    "Runtime": 104,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5,
+    "Director": "Srdjan Spasojevic",
+    "Votes": "67,662",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Halloween Ends",
+    "Movie Year": 2022,
+    "Runtime": 111,
+    "Genre": "Horror, Thriller",
+    "Rating": 5,
+    "Director": "David Gordon Green",
+    "Votes": "62,008",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Shadow in the Cloud",
+    "Movie Year": 2020,
+    "Runtime": 83,
+    "Genre": "Action, Horror, War",
+    "Rating": 5,
+    "Director": "Roseanne Liang",
+    "Votes": "28,700",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "47 Meters Down: Uncaged",
+    "Movie Year": 2019,
+    "Runtime": 90,
+    "Genre": "Adventure, Drama, Horror",
+    "Rating": 5,
+    "Director": "Johannes Roberts",
+    "Votes": "28,859",
+    "Gross": "$22.26M"
+  },
+  {
+    "Movie Title": "Leatherface",
+    "Movie Year": 2017,
+    "Runtime": 90,
+    "Genre": "Crime, Horror, Thriller",
+    "Rating": 5,
+    "Director": "Alexandre Bustillo",
+    "Votes": "25,704",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Haunting",
+    "Movie Year": 1999,
+    "Runtime": 113,
+    "Genre": "Fantasy, Horror, Mystery",
+    "Rating": 5,
+    "Director": "Jan de Bont",
+    "Votes": "78,402",
+    "Gross": "$91.41M"
+  },
+  {
+    "Movie Title": "A Haunted House",
+    "Movie Year": 2013,
+    "Runtime": 86,
+    "Genre": "Comedy, Fantasy, Horror",
+    "Rating": 5,
+    "Director": "Michael Tiddes",
+    "Votes": "48,272",
+    "Gross": "$40.04M"
+  },
+  {
+    "Movie Title": "How It Ends",
+    "Movie Year": 2018,
+    "Runtime": 113,
+    "Genre": "Action, Drama, Horror",
+    "Rating": 5,
+    "Director": "David M. Rosenthal",
+    "Votes": "55,729",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Blair Witch",
+    "Movie Year": 2016,
+    "Runtime": 89,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5,
+    "Director": "Adam Wingard",
+    "Votes": "47,890",
+    "Gross": "$20.78M"
+  },
+  {
+    "Movie Title": "Virus",
+    "Movie Year": 1999,
+    "Runtime": 99,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 5,
+    "Director": "John Bruno",
+    "Votes": "29,017",
+    "Gross": "$14.01M"
+  },
+  {
+    "Movie Title": "Stay Alive",
+    "Movie Year": 2006,
+    "Runtime": 85,
+    "Genre": "Fantasy, Horror, Mystery",
+    "Rating": 5,
+    "Director": "William Brent Bell",
+    "Votes": "33,235",
+    "Gross": "$23.09M"
+  },
+  {
+    "Movie Title": "A Nightmare on Elm Street: The Dream Child",
+    "Movie Year": 1989,
+    "Runtime": 89,
+    "Genre": "Fantasy, Horror",
+    "Rating": 5,
+    "Director": "Stephen Hopkins",
+    "Votes": "48,222",
+    "Gross": "$22.17M"
+  },
+  {
+    "Movie Title": "See No Evil",
+    "Movie Year": 2006,
+    "Runtime": 84,
+    "Genre": "Action, Horror, Thriller",
+    "Rating": 5,
+    "Director": "Gregory Dark",
+    "Votes": "28,075",
+    "Gross": "$15.03M"
+  },
+  {
+    "Movie Title": "Chernobyl Diaries",
+    "Movie Year": 2012,
+    "Runtime": 86,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 5,
+    "Director": "Bradley Parker",
+    "Votes": "67,339",
+    "Gross": "$18.12M"
+  },
+  {
+    "Movie Title": "Cursed",
+    "Movie Year": 2005,
+    "Runtime": 97,
+    "Genre": "Comedy, Horror",
+    "Rating": 5,
+    "Director": "Wes Craven",
+    "Votes": "34,024",
+    "Gross": "$19.30M"
+  },
+  {
+    "Movie Title": "Paranormal Activity: The Marked Ones",
+    "Movie Year": 2014,
+    "Runtime": 84,
+    "Genre": "Horror, Mystery",
+    "Rating": 5,
+    "Director": "Christopher Landon",
+    "Votes": "44,216",
+    "Gross": "$32.46M"
+  },
+  {
+    "Movie Title": "The Grudge 2",
+    "Movie Year": 2006,
+    "Runtime": 102,
+    "Genre": "Horror, Thriller",
+    "Rating": 5,
+    "Director": "Takashi Shimizu",
+    "Votes": "50,475",
+    "Gross": "$39.14M"
+  },
+  {
+    "Movie Title": "[REC] 3: Genesis",
+    "Movie Year": 2012,
+    "Runtime": 80,
+    "Genre": "Horror, Thriller",
+    "Rating": 5,
+    "Director": "Paco Plaza",
+    "Votes": "36,765",
+    "Gross": "$0.01M"
+  },
+  {
+    "Movie Title": "An American Haunting",
+    "Movie Year": 2005,
+    "Runtime": 83,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 5,
+    "Director": "Courtney Solomon",
+    "Votes": "26,374",
+    "Gross": "$16.30M"
+  },
+  {
+    "Movie Title": "Knock Knock I",
+    "Movie Year": 2015,
+    "Runtime": 99,
+    "Genre": "Crime, Drama, Horror",
+    "Rating": 4.9,
+    "Director": "Eli Roth",
+    "Votes": "99,384",
+    "Gross": "$0.04M"
+  },
+  {
+    "Movie Title": "The Darkest Hour",
+    "Movie Year": 2011,
+    "Runtime": 89,
+    "Genre": "Action, Adventure, Horror",
+    "Rating": 4.9,
+    "Director": "Chris Gorak",
+    "Votes": "62,428",
+    "Gross": "$21.43M"
+  },
+  {
+    "Movie Title": "Fantasy Island",
+    "Movie Year": 2020,
+    "Runtime": 109,
+    "Genre": "Fantasy, Horror, Mystery",
+    "Rating": 4.9,
+    "Director": "Jeff Wadlow",
+    "Votes": "55,082",
+    "Gross": "$27.31M"
+  },
+  {
+    "Movie Title": "Dracula 2000",
+    "Movie Year": 2000,
+    "Runtime": 99,
+    "Genre": "Action, Fantasy, Horror",
+    "Rating": 4.9,
+    "Director": "Patrick Lussier",
+    "Votes": "35,130",
+    "Gross": "$33.02M"
+  },
+  {
+    "Movie Title": "Silent Hill: Revelation",
+    "Movie Year": 2012,
+    "Runtime": 95,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 4.9,
+    "Director": "M.J. Bassett",
+    "Votes": "65,270",
+    "Gross": "$17.53M"
+  },
+  {
+    "Movie Title": "Seed of Chucky",
+    "Movie Year": 2004,
+    "Runtime": 87,
+    "Genre": "Comedy, Horror, Thriller",
+    "Rating": 4.9,
+    "Director": "Don Mancini",
+    "Votes": "47,581",
+    "Gross": "$17.08M"
+  },
+  {
+    "Movie Title": "Ghosts of Mars",
+    "Movie Year": 2001,
+    "Runtime": 98,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 4.9,
+    "Director": "John Carpenter",
+    "Votes": "56,213",
+    "Gross": "$8.43M"
+  },
+  {
+    "Movie Title": "Poltergeist",
+    "Movie Year": 2015,
+    "Runtime": 93,
+    "Genre": "Horror, Thriller",
+    "Rating": 4.9,
+    "Director": "Gil Kenan",
+    "Votes": "59,621",
+    "Gross": "$47.43M"
+  },
+  {
+    "Movie Title": "Darkness Falls",
+    "Movie Year": 2003,
+    "Runtime": 86,
+    "Genre": "Fantasy, Horror, Mystery",
+    "Rating": 4.9,
+    "Director": "Jonathan Liebesman",
+    "Votes": "32,613",
+    "Gross": "$32.55M"
+  },
+  {
+    "Movie Title": "Valentine",
+    "Movie Year": 2001,
+    "Runtime": 96,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 4.9,
+    "Director": "Jamie Blanks",
+    "Votes": "29,306",
+    "Gross": "$20.38M"
+  },
+  {
+    "Movie Title": "Halloween 5: The Revenge of Michael Myers",
+    "Movie Year": 1989,
+    "Runtime": 96,
+    "Genre": "Horror, Thriller",
+    "Rating": 4.9,
+    "Director": "Dominique Othenin-Girard",
+    "Votes": "44,618",
+    "Gross": "$11.64M"
+  },
+  {
+    "Movie Title": "Vanishing on 7th Street",
+    "Movie Year": 2010,
+    "Runtime": 92,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 4.9,
+    "Director": "Brad Anderson",
+    "Votes": "26,800",
+    "Gross": "$0.02M"
+  },
+  {
+    "Movie Title": "Anaconda",
+    "Movie Year": 1997,
+    "Runtime": 89,
+    "Genre": "Action, Adventure, Horror",
+    "Rating": 4.8,
+    "Director": "Luis Llosa",
+    "Votes": "1,08,000",
+    "Gross": "$65.89M"
+  },
+  {
+    "Movie Title": "Texas Chainsaw",
+    "Movie Year": 2013,
+    "Runtime": 92,
+    "Genre": "Horror, Thriller",
+    "Rating": 4.8,
+    "Director": "John Luessenhop",
+    "Votes": "53,682",
+    "Gross": "$34.34M"
+  },
+  {
+    "Movie Title": "The Forest I",
+    "Movie Year": 2016,
+    "Runtime": 93,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 4.8,
+    "Director": "Jason Zada",
+    "Votes": "44,543",
+    "Gross": "$26.58M"
+  },
+  {
+    "Movie Title": "Leprechaun",
+    "Movie Year": 1993,
+    "Runtime": 92,
+    "Genre": "Comedy, Fantasy, Horror",
+    "Rating": 4.8,
+    "Director": "Mark Jones",
+    "Votes": "28,663",
+    "Gross": "$8.56M"
+  },
+  {
+    "Movie Title": "The Roommate I",
+    "Movie Year": 2011,
+    "Runtime": 91,
+    "Genre": "Drama, Horror, Thriller",
+    "Rating": 4.8,
+    "Director": "Christian E. Christiansen",
+    "Votes": "40,236",
+    "Gross": "$37.30M"
+  },
+  {
+    "Movie Title": "Halloween II",
+    "Movie Year": 2009,
+    "Runtime": 105,
+    "Genre": "Horror",
+    "Rating": 4.8,
+    "Director": "Rob Zombie",
+    "Votes": "57,387",
+    "Gross": "$33.39M"
+  },
+  {
+    "Movie Title": "Meet the Blacks",
+    "Movie Year": 2016,
+    "Runtime": 94,
+    "Genre": "Comedy, Horror",
+    "Rating": 4.8,
+    "Director": "Deon Taylor",
+    "Votes": "37,146",
+    "Gross": "$9.09M"
+  },
+  {
+    "Movie Title": "The Woman in Black 2: Angel of Death",
+    "Movie Year": 2014,
+    "Runtime": 98,
+    "Genre": "Drama, Horror, Thriller",
+    "Rating": 4.8,
+    "Director": "Tom Harper",
+    "Votes": "28,992",
+    "Gross": "$26.50M"
+  },
+  {
+    "Movie Title": "Godsend",
+    "Movie Year": 2004,
+    "Runtime": 102,
+    "Genre": "Action, Drama, Fantasy",
+    "Rating": 4.8,
+    "Director": "Frank M. Calo",
+    "Votes": "26,088",
+    "Gross": "$14.38M"
+  },
+  {
+    "Movie Title": "Texas Chainsaw Massacre",
+    "Movie Year": 2022,
+    "Runtime": 81,
+    "Genre": "Crime, Horror, Thriller",
+    "Rating": 4.7,
+    "Director": "David Blue Garcia",
+    "Votes": "56,803",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Unborn",
+    "Movie Year": 2009,
+    "Runtime": 88,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 4.7,
+    "Director": "David S. Goyer",
+    "Votes": "52,574",
+    "Gross": "$42.67M"
+  },
+  {
+    "Movie Title": "Friday the 13th: A New Beginning",
+    "Movie Year": 1985,
+    "Runtime": 92,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 4.7,
+    "Director": "Danny Steinmann",
+    "Votes": "41,029",
+    "Gross": "$21.93M"
+  },
+  {
+    "Movie Title": "I Still Know What You Did Last Summer",
+    "Movie Year": 1998,
+    "Runtime": 100,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 4.7,
+    "Director": "Danny Cannon",
+    "Votes": "76,322",
+    "Gross": "$40.00M"
+  },
+  {
+    "Movie Title": "Anacondas: The Hunt for the Blood Orchid",
+    "Movie Year": 2004,
+    "Runtime": 97,
+    "Genre": "Action, Adventure, Horror",
+    "Rating": 4.7,
+    "Director": "Dwight H. Little",
+    "Votes": "32,734",
+    "Gross": "$32.24M"
+  },
+  {
+    "Movie Title": "Halloween: The Curse of Michael Myers",
+    "Movie Year": 1995,
+    "Runtime": 87,
+    "Genre": "Horror, Thriller",
+    "Rating": 4.7,
+    "Director": "Joe Chappelle",
+    "Votes": "39,712",
+    "Gross": "$15.12M"
+  },
+  {
+    "Movie Title": "Freddy's Dead: The Final Nightmare",
+    "Movie Year": 1991,
+    "Runtime": 89,
+    "Genre": "Fantasy, Horror",
+    "Rating": 4.7,
+    "Director": "Rachel Talalay",
+    "Votes": "48,694",
+    "Gross": "$34.87M"
+  },
+  {
+    "Movie Title": "Pulse I",
+    "Movie Year": 2006,
+    "Runtime": 90,
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Rating": 4.7,
+    "Director": "Jim Sonzero",
+    "Votes": "30,021",
+    "Gross": "$20.26M"
+  },
+  {
+    "Movie Title": "Death Note I",
+    "Movie Year": 2017,
+    "Runtime": 101,
+    "Genre": "Crime, Drama, Fantasy",
+    "Rating": 4.6,
+    "Director": "Adam Wingard",
+    "Votes": "87,627",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Aliens vs. Predator: Requiem",
+    "Movie Year": 2007,
+    "Runtime": 94,
+    "Genre": "Action, Adventure, Horror",
+    "Rating": 4.6,
+    "Director": "Colin Strause",
+    "Votes": "1,29,458",
+    "Gross": "$41.80M"
+  },
+  {
+    "Movie Title": "Psycho",
+    "Movie Year": 1998,
+    "Runtime": 105,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 4.6,
+    "Director": "Gus Van Sant",
+    "Votes": "49,550",
+    "Gross": "$21.46M"
+  },
+  {
+    "Movie Title": "Paranormal Activity 4",
+    "Movie Year": 2012,
+    "Runtime": 88,
+    "Genre": "Horror, Mystery",
+    "Rating": 4.6,
+    "Director": "Henry Joost",
+    "Votes": "68,431",
+    "Gross": "$53.92M"
+  },
+  {
+    "Movie Title": "The Pyramid",
+    "Movie Year": 2014,
+    "Runtime": 89,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 4.6,
+    "Director": "Grégory Levasseur",
+    "Votes": "25,483",
+    "Gross": "$2.76M"
+  },
+  {
+    "Movie Title": "Black Christmas",
+    "Movie Year": 2006,
+    "Runtime": 95,
+    "Genre": "Horror",
+    "Rating": 4.6,
+    "Director": "Glen Morgan",
+    "Votes": "28,952",
+    "Gross": "$16.24M"
+  },
+  {
+    "Movie Title": "Paranormal Activity: The Ghost Dimension",
+    "Movie Year": 2015,
+    "Runtime": 88,
+    "Genre": "Horror, Mystery",
+    "Rating": 4.6,
+    "Director": "Gregory Plotkin",
+    "Votes": "29,413",
+    "Gross": "$18.30M"
+  },
+  {
+    "Movie Title": "The Island of Dr. Moreau",
+    "Movie Year": 1996,
+    "Runtime": 96,
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Rating": 4.5,
+    "Director": "John Frankenheimer",
+    "Votes": "34,527",
+    "Gross": "$27.66M"
+  },
+  {
+    "Movie Title": "Ouija II",
+    "Movie Year": 2014,
+    "Runtime": 89,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 4.5,
+    "Director": "Stiles White",
+    "Votes": "54,888",
+    "Gross": "$50.86M"
+  },
+  {
+    "Movie Title": "Rings",
+    "Movie Year": 2017,
+    "Runtime": 102,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 4.5,
+    "Director": "F. Javier Gutiérrez",
+    "Votes": "41,974",
+    "Gross": "$27.79M"
+  },
+  {
+    "Movie Title": "Species II",
+    "Movie Year": 1998,
+    "Runtime": 93,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 4.5,
+    "Director": "Peter Medak",
+    "Votes": "30,268",
+    "Gross": "$19.17M"
+  },
+  {
+    "Movie Title": "Friday the 13th Part VIII: Jason Takes Manhattan",
+    "Movie Year": 1989,
+    "Runtime": 100,
+    "Genre": "Adventure, Horror, Thriller",
+    "Rating": 4.5,
+    "Director": "Rob Hedden",
+    "Votes": "40,404",
+    "Gross": "$14.34M"
+  },
+  {
+    "Movie Title": "The Human Centipede (First Sequence)",
+    "Movie Year": 2009,
+    "Runtime": 92,
+    "Genre": "Horror",
+    "Rating": 4.4,
+    "Director": "Tom Six",
+    "Votes": "82,947",
+    "Gross": "$0.18M"
+  },
+  {
+    "Movie Title": "Jason X",
+    "Movie Year": 2001,
+    "Runtime": 92,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 4.4,
+    "Director": "James Isaac",
+    "Votes": "58,799",
+    "Gross": "$13.12M"
+  },
+  {
+    "Movie Title": "Cell I",
+    "Movie Year": 2016,
+    "Runtime": 98,
+    "Genre": "Action, Adventure, Horror",
+    "Rating": 4.4,
+    "Director": "Tod Williams",
+    "Votes": "29,193",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Grudge I",
+    "Movie Year": 2020,
+    "Runtime": 94,
+    "Genre": "Fantasy, Horror",
+    "Rating": 4.4,
+    "Director": "Nicolas Pesce",
+    "Votes": "27,873",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "The Bye Bye Man",
+    "Movie Year": 2017,
+    "Runtime": 96,
+    "Genre": "Drama, Fantasy, Horror",
+    "Rating": 4.3,
+    "Director": "Stacy Title",
+    "Votes": "25,127",
+    "Gross": "$22.38M"
+  },
+  {
+    "Movie Title": "Boogeyman",
+    "Movie Year": 2005,
+    "Runtime": 89,
+    "Genre": "Drama, Horror, Mystery",
+    "Rating": 4.2,
+    "Director": "Stephen Kay",
+    "Votes": "31,868",
+    "Gross": "$46.75M"
+  },
+  {
+    "Movie Title": "The Devil Inside",
+    "Movie Year": 2012,
+    "Runtime": 83,
+    "Genre": "Horror",
+    "Rating": 4.2,
+    "Director": "William Brent Bell",
+    "Votes": "36,661",
+    "Gross": "$53.26M"
+  },
+  {
+    "Movie Title": "Jason Goes to Hell: The Final Friday",
+    "Movie Year": 1993,
+    "Runtime": 87,
+    "Genre": "Fantasy, Horror, Thriller",
+    "Rating": 4.1,
+    "Director": "Adam Marcus",
+    "Votes": "34,519",
+    "Gross": "$15.94M"
+  },
+  {
+    "Movie Title": "Shark Night",
+    "Movie Year": 2011,
+    "Runtime": 90,
+    "Genre": "Action, Adventure, Horror",
+    "Rating": 4,
+    "Director": "David R. Ellis",
+    "Votes": "26,648",
+    "Gross": "$18.87M"
+  },
+  {
+    "Movie Title": "One Missed Call",
+    "Movie Year": 2008,
+    "Runtime": 87,
+    "Genre": "Horror, Mystery",
+    "Rating": 4,
+    "Director": "Eric Valette",
+    "Votes": "33,249",
+    "Gross": "$26.88M"
+  },
+  {
+    "Movie Title": "Book of Shadows: Blair Witch 2",
+    "Movie Year": 2000,
+    "Runtime": 90,
+    "Genre": "Adventure, Fantasy, Horror",
+    "Rating": 4,
+    "Director": "Joe Berlinger",
+    "Votes": "39,110",
+    "Gross": "$26.44M"
+  },
+  {
+    "Movie Title": "Prom Night I",
+    "Movie Year": 2008,
+    "Runtime": 88,
+    "Genre": "Horror",
+    "Rating": 3.9,
+    "Director": "Nelson McCormick",
+    "Votes": "36,982",
+    "Gross": "$43.87M"
+  },
+  {
+    "Movie Title": "Halloween: Resurrection",
+    "Movie Year": 2002,
+    "Runtime": 90,
+    "Genre": "Horror, Thriller",
+    "Rating": 3.9,
+    "Director": "Rick Rosenthal",
+    "Votes": "46,928",
+    "Gross": "$30.35M"
+  },
+  {
+    "Movie Title": "Plan 9 from Outer Space",
+    "Movie Year": 1957,
+    "Runtime": 79,
+    "Genre": "Horror, Sci-Fi",
+    "Rating": 3.9,
+    "Director": "Edward D. Wood Jr.",
+    "Votes": "39,496",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Piranha 3DD",
+    "Movie Year": 2012,
+    "Runtime": 83,
+    "Genre": "Comedy, Horror, Sci-Fi",
+    "Rating": 3.8,
+    "Director": "John Gulager",
+    "Votes": "44,248",
+    "Gross": "$0.38M"
+  },
+  {
+    "Movie Title": "The Human Centipede 2 (Full Sequence)",
+    "Movie Year": 2011,
+    "Runtime": 91,
+    "Genre": "Horror",
+    "Rating": 3.8,
+    "Director": "Tom Six",
+    "Votes": "40,950",
+    "Gross": "$0.12M"
+  },
+  {
+    "Movie Title": "The Wicker Man",
+    "Movie Year": 2006,
+    "Runtime": 102,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 3.8,
+    "Director": "Neil LaBute",
+    "Votes": "69,700",
+    "Gross": "$23.64M"
+  },
+  {
+    "Movie Title": "Exorcist II: The Heretic",
+    "Movie Year": 1977,
+    "Runtime": 117,
+    "Genre": "Horror",
+    "Rating": 3.8,
+    "Director": "John Boorman",
+    "Votes": "25,949",
+    "Gross": "$30.75M"
+  },
+  {
+    "Movie Title": "Jaws 3-D",
+    "Movie Year": 1983,
+    "Runtime": 99,
+    "Genre": "Adventure, Horror, Thriller",
+    "Rating": 3.7,
+    "Director": "Joe Alves",
+    "Votes": "46,082",
+    "Gross": "$45.52M"
+  },
+  {
+    "Movie Title": "The Fog",
+    "Movie Year": 2005,
+    "Runtime": 100,
+    "Genre": "Horror, Mystery",
+    "Rating": 3.7,
+    "Director": "Rupert Wainwright",
+    "Votes": "38,246",
+    "Gross": "$29.51M"
+  },
+  {
+    "Movie Title": "I Know Who Killed Me",
+    "Movie Year": 2007,
+    "Runtime": 105,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 3.6,
+    "Director": "Chris Sivertson",
+    "Votes": "30,446",
+    "Gross": "$7.50M"
+  },
+  {
+    "Movie Title": "Scary Movie V",
+    "Movie Year": 2013,
+    "Runtime": 86,
+    "Genre": "Comedy, Horror",
+    "Rating": 3.5,
+    "Director": "Malcolm D. Lee",
+    "Votes": "74,534",
+    "Gross": "$32.02M"
+  },
+  {
+    "Movie Title": "Vampires Suck",
+    "Movie Year": 2010,
+    "Runtime": 82,
+    "Genre": "Comedy, Horror",
+    "Rating": 3.4,
+    "Director": "Jason Friedberg",
+    "Votes": "50,206",
+    "Gross": "$36.66M"
+  },
+  {
+    "Movie Title": "The Open House",
+    "Movie Year": 2018,
+    "Runtime": 94,
+    "Genre": "Horror, Thriller",
+    "Rating": 3.3,
+    "Director": "Matt Angel",
+    "Votes": "35,819",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Slender Man I",
+    "Movie Year": 2018,
+    "Runtime": 93,
+    "Genre": "Horror, Mystery, Thriller",
+    "Rating": 3.2,
+    "Director": "Sylvain White",
+    "Votes": "36,238",
+    "Gross": "$30.57M"
+  },
+  {
+    "Movie Title": "Jaws: The Revenge",
+    "Movie Year": 1987,
+    "Runtime": 89,
+    "Genre": "Adventure, Horror, Thriller",
+    "Rating": 3,
+    "Director": "Joseph Sargent",
+    "Votes": "47,708",
+    "Gross": "$20.76M"
+  },
+  {
+    "Movie Title": "BloodRayne",
+    "Movie Year": 2005,
+    "Runtime": 95,
+    "Genre": "Action, Fantasy, Horror",
+    "Rating": 3,
+    "Director": "Uwe Boll",
+    "Votes": "36,527",
+    "Gross": "$2.41M"
+  },
+  {
+    "Movie Title": "Troll 2",
+    "Movie Year": 1990,
+    "Runtime": 95,
+    "Genre": "Comedy, Fantasy, Horror",
+    "Rating": 2.9,
+    "Director": "Claudio Fragasso",
+    "Votes": "33,908",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Laxmii",
+    "Movie Year": 2020,
+    "Runtime": 141,
+    "Genre": "Action, Comedy, Horror",
+    "Rating": 2.5,
+    "Director": "Raghava Lawrence",
+    "Votes": "58,053",
+    "Gross": ""
+  },
+  {
+    "Movie Title": "Alone in the Dark",
+    "Movie Year": 2005,
+    "Runtime": 96,
+    "Genre": "Action, Horror, Sci-Fi",
+    "Rating": 2.4,
+    "Director": "Uwe Boll",
+    "Votes": "46,403",
+    "Gross": "$5.18M"
+  },
+  {
+    "Movie Title": "House of the Dead",
+    "Movie Year": 2003,
+    "Runtime": 90,
+    "Genre": "Action, Adventure, Horror",
+    "Rating": 2.1,
+    "Director": "Uwe Boll",
+    "Votes": "38,041",
+    "Gross": "$10.25M"
+  },
+  {
+    "Movie Title": "Manos: The Hands of Fate",
+    "Movie Year": 1966,
+    "Runtime": 70,
+    "Genre": "Horror",
+    "Rating": 1.6,
+    "Director": "Harold P. Warren",
+    "Votes": "37,060",
+    "Gross": ""
+  }
+]

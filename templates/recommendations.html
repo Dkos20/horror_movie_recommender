@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recommendations</title>
+    <link rel="stylesheet" href="../static/css/style.css">
+</head>
+<body>
+    <h2>Recommended Movies</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Poster</th>
+            <th>Title</th>
+            <th>Overview</th>
+            <th>Rating</th>
+            <th>Release Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% if movies %}
+            {% for movie in movies %}
+                <tr>
+                    <td>
+                        {% if movie['tmdb_poster_url'] %}
+                            <img src="{{ movie['tmdb_poster_url'] }}" alt="{{ movie['movie_title'] }} Poster" width="100">
+                        {% else %}
+                            <span>No Poster Available</span>
+                        {% endif %}
+                    </td>
+                    <td>{{ movie['movie_title'] }}</td>
+                    <td>{{ movie['tmdb_overview'] or 'No overview available' }}</td>
+                    <td>{{ movie['rating'] or 'N/A' }}</td>
+                    <td>{{ movie['tmdb_release_date'] or 'N/A' }}</td>
+                </tr>
+            {% endfor %}
+        {% else %}
+            <tr>
+                <td colspan="5" style="text-align: center;">Oops! No movies found matching your criteria.</td>
+            </tr>
+        {% endif %}
+    </tbody>
+</table>
+
+</body>
+</html>

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Horror Movies</title>
+    <link rel="stylesheet" href="../static/css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Horror Movie Recommendations</h1>
+
+        <section class="form-section">
+            <div class="form-container">
+                <h2>Get Personalized Recommendations</h2>
+                <form method="POST" action="/advanced_recommendations">
+                    <div class="form-group">
+                        <label for="movie_name">Enter Movie Name (Required):</label>
+                        <input type="text" id="movie_name" name="movie_name" placeholder="e.g., Alien" required>
+                    </div>
+            
+                    <div class="form-group">
+                        <label for="genres">Favorite Genre:</label>
+                        <input type="text" id="genres" name="genres" placeholder="e.g., Horror, Sci-Fi">
+                    </div>
+            
+                    <div class="form-group">
+                        <label for="director">Favorite Director:</label>
+                        <input type="text" id="director" name="director" placeholder="e.g., Ridley Scott">
+                    </div>
+            
+                    <div class="form-group">
+                        <label for="rating">Minimum Rating:</label>
+                        <input type="number" id="rating" name="rating" placeholder="e.g., 7.5" step="0.1" min="0" max="10">
+                    </div>
+            
+                    <button type="submit">Get Recommendations</button>
+                </form>
+            </div>
+            
+            
+        </section>
+
+        <section class="movies-section">
+            <h2>Top 10 Horror Movies</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Movie Title</th>
+                        <th>Year</th>
+                        <th>Rating</th>
+                        <th>Director</th>
+                        <th>Overview</th>
+                        <th>Release Date</th>
+                        <th>Poster</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for movie in movies %}
+                        <tr>
+                            <td>{{ movie['movie_title'] }}</td>
+                            <td>{{ movie['movie_year'] }}</td>
+                            <td>{{ movie['rating'] }}</td>
+                            <td><a href="{{ url_for('movies_by_director', director_name=movie['director']) }}">{{ movie['director'] }}</a></td>
+                            <td>{{ movie['tmdb_overview'] }}</td>
+                            <td>{{ movie['tmdb_release_date'] }}</td>
+                            <td>
+                                {% if movie['tmdb_poster_url'] %}
+                                    <img src="{{ movie['tmdb_poster_url'] }}" alt="Poster">
+                                {% else %}
+                                    No poster available
+                                {% endif %}
+                            </td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </section>
+    </div>
+
+
+
+<div id="statistics" style="border: 1px solid #ccc; padding: 20px; background-color: #f9f9f9; border-radius: 10px; width: 50%; margin: auto; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);">
+    <h2>Platform Statistics</h2>
+    <p><strong>Average Rating:</strong> {{ stats['avg_rating'] if stats['avg_rating'] else 'No data available' }}</p>
+    <p><strong>Most Common Genre:</strong> {{ stats['most_common_genre'] }}</p>
+    <p><strong>Most Common Director:</strong> {{ stats['most_common_director'] }}</p>
+    <canvas id="genreChart" width="400" height="200"></canvas>
+</div>
+<script>
+    var ctx = document.getElementById('genreChart').getContext('2d');
+    var genreChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: {{ genre_labels|tojson }},
+            datasets: [{
+                label: 'Most Common Genres',
+                data: {{ genre_counts|tojson }},
+                backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                borderColor: 'rgba(54, 162, 235, 1)',
+                borderWidth: 1
+            }]
+        }
+    });
+</script>
+&thinsp;
+&thinsp;
+&thinsp;
+&thinsp;
+
+</body>
+</html>
