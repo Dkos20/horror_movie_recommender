@@ -61,10 +61,11 @@ MarkupSafe==2.1.1
 mathparse==0.1.2
 matplotlib-inline==0.1.6
 mercurial==6.1.4
+mysql-connector-python==9.1.0
 nest-asyncio==1.6.0
 nftables==0.1
 nltk==3.8.1
-numpy==1.22.0
+numpy==2.2.1
 oauthlib==3.2.2
 olefile==0.46
 packaging==21.3
@@ -122,6 +123,8 @@ requests-gssapi==1.2.3
 requests-oauthlib==2.0.0
 rpm==4.17.1
 rpmautospec==0.3.5
+scikit-learn==1.6.0
+scipy==1.15.0
 selinux==3.3
 sepolicy==3.3
 setools==4.4.0
@@ -136,6 +139,7 @@ SQLAlchemy==1.2.19
 stack-data==0.6.3
 systemd-python==234
 texttable==1.6.2
+threadpoolctl==3.5.0
 tinycss2==1.1.1
 tornado==6.4
 tqdm==4.66.2

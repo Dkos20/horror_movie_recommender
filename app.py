@@ -1,6 +1,9 @@
 from flask import Flask, render_template, jsonify, request
 import mysql.connector
 import requests
+import numpy as np
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 
 app = Flask(__name__)
 
@@ -62,24 +65,57 @@ def get_movies_by_director(director):
     return movies
 
 
-from sklearn.feature_extraction.text import TfidfVectorizer
-
-def generate_tfidf_vectors(movies):
-    descriptions = [movie['genre'] for movie in movies]
-    vectorizer = TfidfVectorizer(stop_words='english')
-    tfidf_matrix = vectorizer.fit_transform(descriptions)
-    return tfidf_matrix
-
-from sklearn.metrics.pairwise import cosine_similarity
-
-def get_similar_movies_by_name(movie_name, tfidf_matrix, movies):
-    movie_index = next((index for index, m in enumerate(movies) if m['movie_title'].lower() == movie_name.lower()), None)
-    if movie_index is None:
-        return []
+class MovieRecommender:
+    def __init__(self, movies_data):
+        self.movies = movies_data
+        self.prepare_features()
     
-    cosine_sim = cosine_similarity(tfidf_matrix[movie_index], tfidf_matrix)
-    similar_indices = cosine_sim[0].argsort()[-10:][::-1]
-    return [movies[i] for i in similar_indices if i != movie_index]
+    def prepare_features(self):
+        self.text_features = [
+            f"{movie['movie_title']} {movie['genre']} {movie['director']}"
+            for movie in self.movies
+        ]
+        
+        self.ratings = np.array([float(movie['rating']) if movie['rating'] else 0 
+                               for movie in self.movies])
+        
+        self.tfidf = TfidfVectorizer(stop_words='english')
+        self.tfidf_matrix = self.tfidf.fit_transform(self.text_features)
+    
+    def get_recommendations(self, query_params, weights={'content': 0.2, 'genre': 0.4, 
+                                                       'director': 0.2, 'rating': 0.2}):
+        
+        scores = np.zeros(len(self.movies))
+        
+        if query_params['movie_name']:
+            query_vector = self.tfidf.transform([query_params['movie_name']])
+            content_similarity = cosine_similarity(query_vector, self.tfidf_matrix)[0]
+            scores += weights['content'] * content_similarity
+        
+        if query_params['genres']:
+            genre_scores = np.array([
+                1.0 if query_params['genres'].lower() in movie['genre'].lower() else 0.0
+                for movie in self.movies
+            ])
+            scores += weights['genre'] * genre_scores
+        
+        if query_params['director']:
+            director_scores = np.array([
+                1.0 if query_params['director'].lower() in movie['director'].lower() else 0.0
+                for movie in self.movies
+            ])
+            scores += weights['director'] * director_scores
+        
+        if query_params['rating']:
+            rating_threshold = float(query_params['rating'])
+            rating_scores = np.array([
+                1.0 if (movie['rating'] and float(movie['rating']) >= rating_threshold) else 0.0
+                for movie in self.movies
+            ])
+            scores += weights['rating'] * rating_scores
+        
+        top_indices = np.argsort(scores)[::-1][:10]
+        return [self.movies[i] for i in top_indices if scores[i] > 0]
 
 
 def get_statistics():
@@ -106,27 +142,40 @@ def get_statistics():
 def index():
     conn = db_connection()
     cursor = conn.cursor(dictionary=True)
-    cursor.execute('SELECT * FROM movies LIMIT 10;')
+    
+    cursor.execute('''
+        SELECT * FROM movies 
+        WHERE rating IS NOT NULL 
+        ORDER BY rating DESC 
+        LIMIT 10
+    ''')
     movies = cursor.fetchall()
+    
+    cursor.execute('SELECT * FROM movies')
+    all_movies = cursor.fetchall()
     conn.close()
-
+    
     for movie in movies:
         tmdb_data = get_tmdb_movie_data(movie['movie_title'])
         if tmdb_data:
-            movie['tmdb_overview'] = tmdb_data['overview']
-            movie['tmdb_release_date'] = tmdb_data['release_date']
-            movie['tmdb_poster_url'] = tmdb_data['poster_url']
-        else:
-            movie['tmdb_overview'] = 'No details available'
-            movie['tmdb_release_date'] = 'N/A'
-            movie['tmdb_poster_url'] = None
-
+            movie.update({
+                'tmdb_overview': tmdb_data['overview'],
+                'tmdb_release_date': tmdb_data['release_date'],
+                'tmdb_poster_url': tmdb_data['poster_url']
+            })
+    
     stats = get_statistics()
     most_common_genres = get_most_common_genres()
     genre_labels = [genre['genre'] for genre in most_common_genres]
     genre_counts = [genre['count'] for genre in most_common_genres]
+    
+    return render_template('index.html', 
+                         movies=movies,
+                         all_movies=all_movies,
+                         stats=stats,
+                         genre_labels=genre_labels,
+                         genre_counts=genre_counts)
 
-    return render_template('index.html', movies=movies, stats=stats, genre_labels=genre_labels, genre_counts=genre_counts)
 
 
 
@@ -143,62 +192,40 @@ def movies_by_director(director_name):
 
     return render_template('movies_by_director.html', director_name=director_name, movies=movies)
 
+
 @app.route('/advanced_recommendations', methods=['POST'])
 def advanced_recommendations():
-    movie_name = request.form.get('movie_name')
-    genres = request.form.get('genres')
-    director = request.form.get('director')
-    rating = request.form.get('rating')
-
+    """Handle advanced movie recommendations"""
+    query_params = {
+        'movie_name': request.form.get('movie_name'),
+        'genres': request.form.get('genres'),
+        'director': request.form.get('director'),
+        'rating': request.form.get('rating')
+    }
+    
     conn = db_connection()
     cursor = conn.cursor(dictionary=True)
-    cursor.execute('SELECT * FROM movies;')
+    cursor.execute('SELECT * FROM movies')
     movies = cursor.fetchall()
     conn.close()
-
-    tfidf_matrix = generate_tfidf_vectors(movies)
-
-    similar_movies = get_similar_movies_by_name(movie_name, tfidf_matrix, movies)
-
-    if genres:
-        similar_movies = [m for m in similar_movies if genres.lower() in m['genre'].lower()]
-    if director:
-        similar_movies = [m for m in similar_movies if director.lower() in m['director'].lower()]
-    if rating:
-        similar_movies = [m for m in similar_movies if m['rating'] and float(m['rating']) >= float(rating)]
-
-    for movie in similar_movies:
+    
+    recommender = MovieRecommender(movies)
+    recommended_movies = recommender.get_recommendations(query_params)
+    
+    for movie in recommended_movies:
         tmdb_data = get_tmdb_movie_data(movie['movie_title'])
         if tmdb_data:
-            movie['tmdb_overview'] = tmdb_data.get('overview', 'No overview available')
-            movie['tmdb_release_date'] = tmdb_data.get('release_date', 'N/A')
-            movie['tmdb_poster_url'] = tmdb_data.get('poster_url', None)
-        else:
-            movie['tmdb_overview'] = 'No overview available'
-            movie['tmdb_release_date'] = 'N/A'
-            movie['tmdb_poster_url'] = None
-
+            movie.update({
+                'tmdb_overview': tmdb_data.get('overview', 'No overview available'),
+                'tmdb_release_date': tmdb_data.get('release_date', 'N/A'),
+                'tmdb_poster_url': tmdb_data.get('poster_url', None)
+            })
+    
     return render_template(
         'recommendations.html',
-        movies=similar_movies,
-        movie_name=movie_name
+        movies=recommended_movies,
+        query=query_params
     )
-
-
-
-
-@app.route('/genre/<genre_name>')
-def movies_by_genre(genre_name):
-    conn = db_connection()
-    cursor = conn.cursor(dictionary=True)
-    query = '''
-    SELECT * FROM movies WHERE genre LIKE %s;
-    '''
-    cursor.execute(query, ('%' + genre_name + '%',))
-    movies = cursor.fetchall()
-    conn.close()
-
-    return render_template('movies_by_genre.html', genre_name=genre_name, movies=movies)
 
 
 if __name__ == '__main__':
