@@ -48,14 +48,6 @@ def get_tmdb_movie_data(movie_title):
     return None
 
 
-def get_movies_by_genre(genre):
-    conn = db_connection()
-    cursor = conn.cursor(dictionary=True)
-    cursor.execute('SELECT * FROM movies WHERE genre LIKE %s;', ('%' + genre + '%',))
-    movies = cursor.fetchall()
-    conn.close()
-    return movies
-
 def get_movies_by_director(director):
     conn = db_connection()
     cursor = conn.cursor(dictionary=True)
