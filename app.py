@@ -26,7 +26,7 @@ def get_most_common_genres():
     return genres
 
 
-TMDB_API_KEY = '4074ff9dd873e0f5c4d75a77f36632b7'
+TMDB_API_KEY = 'XY'
 TMDB_API_URL = 'https://api.themoviedb.org/3'
 
 def get_tmdb_movie_data(movie_title):
